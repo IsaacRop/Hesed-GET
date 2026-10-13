@@ -18,6 +18,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Ver o que já foi decidido (e por quem) | [docs/decisoes.md](docs/decisoes.md) |
 | Entender a linguagem visual e o vocabulário (loop, still, conform...) | [docs/visao-geral.md](docs/visao-geral.md) |
 | Ler o roteiro ou o briefing completos | [docs/roteiro.md](docs/roteiro.md) · [docs/briefing.md](docs/briefing.md) · originais em [docs/fontes/](docs/fontes/) |
+| Montar ou ver o storyboard de uma peça | [storyboards/](storyboards/) → código da peça |
 | Saber como fazer um playback que "dance" com a música | [guias/playback-visual.md](guias/playback-visual.md) |
 | Saber como nomear, exportar e entregar arquivos | [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md) |
 | Conferir se uma peça está pronta | [guias/checklist-de-aceite.md](guias/checklist-de-aceite.md) |
@@ -60,6 +61,7 @@ hesed-producao/
 │   ├── briefing.md        ← briefing em texto
 │   └── fontes/            ← PDF e DOCX originais
 ├── equipe/                ← uma página por pessoa
+├── storyboards/           ← uma pasta por peça (MM-XX) com ficha e esboços
 ├── guias/                 ← como fazer (playback, entrega, aceite, git)
 └── templates/             ← modelos de ficha de peça e de atualização
 ```

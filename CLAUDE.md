@@ -45,6 +45,7 @@ Se uma informação não está nesses arquivos, diga que não está e sugira reg
 | "O que eu tenho que fazer?" | `equipe/<nome>.md`, `STATUS.md` |
 | "Quando minha peça entra?" | `docs/mapa-de-cenas.md`, `docs/roteiro.md` |
 | "Com quem preciso falar?" | `docs/dependencias.md` |
+| "Me ajuda com o storyboard" | `storyboards/<MM-XX>/README.md`, `storyboards/README.md` |
 | "Me ajuda a mapear a música" | `guias/playback-visual.md` |
 | "Como nomeio/exporto?" | `guias/entrega-e-arquivos.md` |
 | "Minha peça está pronta?" | `guias/checklist-de-aceite.md` |

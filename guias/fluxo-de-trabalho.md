@@ -5,7 +5,7 @@ Toda peça passa pelas mesmas sete etapas. O emoji entre parênteses é o que va
 | # | Etapa | O que fazer | Pronto quando |
 | --- | --- | --- | --- |
 | 1 | **Leitura** (📖) | Releia sua cena no [roteiro](../docs/roteiro.md) e no [mapa de cenas](../docs/mapa-de-cenas.md). Identifique a fala-gatilho, quando a peça sai e o que acontece no palco ao mesmo tempo | Você sabe dizer em uma frase quando entra, quando sai e qual a função |
-| 2 | **Referências / storyboard** (🎨) | Separe referências visuais. Para peças com mais de um estágio, monte uma sequência de quadros simples (pode ser à mão ou num Canva) | Referências na pasta da peça no Drive |
+| 2 | **Referências / storyboard** (🎨) | Separe referências visuais. Para peças com mais de um estágio, monte uma sequência de quadros simples (pode ser à mão ou num Canva) | Referências na pasta da peça no Drive; storyboard em [storyboards/MM-XX](../storyboards/) |
 | 3 | **Alpha** (🧪) | Versão em baixa resolução para validar conceito, ritmo e continuidade. Não perca tempo com acabamento | Link do alpha postado no grupo |
 | 4 | **Integração** (🔗) | Nas peças conectadas, troque último/primeiro frame, paleta e timing com o vizinho ([dependências](../docs/dependencias.md)) | Vizinho confirmou que encaixa |
 | 5 | **Teste no telão** (📺) | Verifique escala, brilho, legibilidade, velocidade de movimento e relação com luz e coreografia | Rodou no telão real |

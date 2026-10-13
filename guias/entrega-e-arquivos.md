@@ -5,6 +5,7 @@
 | Tipo | Onde | Por quê |
 | --- | --- | --- |
 | Texto, status, decisões, guias | **Este repositório** | Histórico, todo mundo vê a mesma versão |
+| Esboços de storyboard (JPG/PNG leves) | **Este repositório**, em [storyboards/](../storyboards/) | Ficam ao lado da ficha da peça e todo mundo vê sem abrir o Drive |
 | Vídeos, imagens, projetos, áudios | **Drive compartilhado** (link: _a definir, P-13_) | Arquivos grandes; Git não foi feito para isso |
 
 **Não suba vídeo, projeto de edição ou áudio no repositório.** O `.gitignore` já bloqueia os formatos comuns.
