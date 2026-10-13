@@ -1,0 +1,29 @@
+# Mídia e projetos pesados ficam no Drive, não no Git
+*.mp4
+*.mov
+*.mxf
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aif
+*.aiff
+*.m4a
+*.prproj
+*.aep
+*.aepx
+*.drp
+*.psd
+*.psb
+*.tif
+*.tiff
+*.exr
+*.zip
+*.rar
+Adobe Premiere Pro Auto-Save/
+Adobe After Effects Auto-Save/
+*Cache*/
+.DS_Store
+Thumbs.db
+desktop.ini
