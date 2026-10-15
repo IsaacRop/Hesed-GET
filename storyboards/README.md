@@ -4,6 +4,15 @@ Uma pasta por peça. Cada pasta já tem um `README.md` com a ficha do storyboard
 
 Storyboard é a etapa 🎨 do [fluxo de trabalho](../guias/fluxo-de-trabalho.md). Não precisa ser bonito: foto de desenho no papel, print do Canva ou frame tirado de uma referência servem. O objetivo é a equipe (e o vizinho de costura) entender a sequência antes do alpha.
 
+## Construção e briefing de cada quadro
+
+Seguimos o padrão das pranchas do Eduardo (Dudu), conectado ao briefing de cada MM: quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala.
+
+- [Guia de construção](guia-de-construcao.md): como planejar as composições, manter continuidade e passar da prancha para imagens individuais.
+- [Briefings dos quadros](briefings-dos-quadros.md): caderno vivo com o detalhamento e o prompt de cada imagem. A versão inicial cobre os 46 quadros das referências de MM-07, MM-10, MM-13 e MM-16D; novas peças e revisões devem ser registradas nele.
+
+As referências visuais orientam a construção. Tempos, sincronização e pontos de continuidade dependem das fontes e confirmações indicadas nos documentos.
+
 ## Como preencher pelo site
 
 1. Abra a pasta da sua peça (ex.: `storyboards/MM-06`).

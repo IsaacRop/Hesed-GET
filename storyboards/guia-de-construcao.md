@@ -1,0 +1,130 @@
+# Construção de storyboards e imagens · HESED
+
+**Padrão de trabalho:** seguir a estrutura das pranchas compartilhadas por Eduardo (Dudu), conforme orientação do usuário: quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala, conectados ao briefing de cada MM. Os detalhamentos de execução abaixo apoiam esse padrão. Tempos, sincronização e eventuais conflitos com os documentos-base ainda precisam de conferência.
+
+Este guia orienta a criação. O [caderno de briefings por quadro](briefings-dos-quadros.md) registra o que construir em cada imagem. As fichas em `storyboards/MM-XX/README.md` continuam sendo o resumo de cada peça. Consulte também o [briefing oficial](../docs/briefing.md), o [roteiro](../docs/roteiro.md), as [decisões](../docs/decisoes.md) e as [dependências](../docs/dependencias.md).
+
+## Diretrizes canônicas · consulta obrigatória antes de gerar
+
+Este guia é a referência canônica do **processo de criação visual**; o caderno é a referência canônica do **detalhamento de cada quadro**. A consulta aos dois é obrigatória para toda criação ou edição de imagem do HESED por Claude, Codex ou outra ferramenta, incluindo estudos, referências geradas, pranchas e bases definitivas. O briefing, o roteiro e as decisões aprovadas continuam regendo o conteúdo narrativo; propostas no caderno continuam propostas.
+
+Antes de cada chamada de geração ou edição:
+
+1. Identifique a peça, os IDs dos quadros envolvidos e a entrega: estudo, prancha ou base individual. Em pranchas, consulte todos os quadros incluídos.
+2. Leia a versão atual deste guia e os briefings correspondentes no caderno, incluindo o contrato visual da peça, os pontos de conferência e os quadros vizinhos necessários à continuidade. Confira as fontes narrativas e as referências reais pertinentes; não substitua essa leitura por lembrança de outra conversa.
+3. Se não houver briefing, registre-o primeiro no caderno com base nos documentos do projeto. Material ausente deve ser identificado como ausente. Se um conflito exigir decisão da equipe, resolva esse ponto antes da imagem afetada; o trabalho independente pode continuar.
+4. Monte o prompt a partir dessas diretrizes, do briefing do quadro e das referências disponíveis. Para edição, confira também a imagem atual e o feedback que motivou a mudança. Uma referência artística não autoriza alterar silenciosamente a cena.
+5. Antes de gerar, informe de forma breve: **“Diretrizes consultadas: guia de construção + caderno, [MM/IDs]; entrega: [tipo]”**, acrescentando outras fontes relevantes. Essa indicação acompanha a conversa/registro, sem virar texto embutido na imagem.
+6. Após a chamada, registre na ficha do quadro as fontes consultadas, as referências realmente usadas, o prompt efetivamente enviado, a versão/localização disponível e o feedback. Identifique falhas de geração e não registre aprovação ou arquivo inexistente. Para pranchas, associe o registro aos IDs incluídos.
+
+Se um pedido mudar uma diretriz, atualize o documento canônico correspondente e as referências dos assistentes antes da próxima geração afetada, preservando a distinção entre proposta e aprovação. Este procedimento mantém uma base compartilhada em vez de regras existentes somente no chat.
+
+## 1. O que produzir em cada etapa
+
+| Entrega | Finalidade | Conteúdo |
+| --- | --- | --- |
+| Storyboard em prancha | Avaliar o conjunto antes de produzir imagens finais | Miniaturas numeradas, descrição, movimento, transição e gatilho; tempos apenas quando medidos |
+| Briefing de cada quadro | Tornar cada imagem reproduzível e coerente com as vizinhas | Intenção, composição, personagens, cenário, luz, continuidade, restrições e prompt |
+| Imagem-base individual | Servir de fonte para animação e edição | Uma composição limpa, sem grade, legendas, títulos, números ou timecodes |
+| Clipe / alpha | Validar movimento, duração e passagem entre imagens | Animação das bases e efeitos em camadas, sincronização verificada quando aplicável |
+
+Um quadro representa um estado visual relevante. Não é necessariamente um corte, um arquivo de vídeo ou um intervalo fixo de tempo. Uma mesma base pode produzir mais de um estado por reenquadramento e luz. Evite gerar imagens novas para movimentos que a edição resolve.
+
+## 2. Preparar a peça antes de desenhar
+
+1. Identifique código, cena, responsável, função narrativa, fala-gatilho e condição de saída. Leia a página do responsável em [equipe/](../equipe/).
+2. Registre o que recebe e para quem entrega: frame, paleta, direção de luz, escala, movimento e materiais de referência. Quando não houver destinatário definido, escreva isso.
+3. Classifique o controle: **fala com duração variável**, **música com master definitivo** ou **módulo de um filme maior**. Não aplique uma timeline musical a todas as peças.
+4. Escreva o arco em uma frase e separe os estados necessários, mantendo a apresentação das pranchas do Dudu. Nas quatro referências já recebidas, preserve seus quadros e IDs; nas novas peças, a quantidade vem da narrativa, sem obrigação de usar 10 ou 12.
+5. Registre conflitos e dependências antes de gerar bases definitivas. Ideias podem ser exploradas enquanto o áudio ou o frame vizinho não chegam, mantendo o caráter de estudo.
+
+## 3. Construir a imagem para o telão
+
+**Direção comum:** realista e cinematográfica, reverente nos trechos bíblicos; branco, dourado, azul-noturno e luz quente. Essa linguagem admite símbolos e atmosfera, sem obrigar toda peça a repetir estrelas, explosões e feixes. O telão apoia atores e dança.
+
+- **Intenção:** escolha um foco principal e descreva o que o público deve sentir ou entender. Evite acumular vários acontecimentos numa única imagem.
+- **Composição:** defina plano aberto, médio ou detalhe; altura e posição da câmera; ponto focal; primeiro plano, plano médio e fundo. Use poucos elementos legíveis à distância.
+- **Espaço de movimento:** preveja margem para zoom e deslocamento sem cortar rostos, mãos ou objetos essenciais. A margem é uma necessidade de composição, sem percentual técnico definido até o enquadramento ser testado.
+- **Personagens:** crie referências de rosto, faixa etária aparente, cabelo, barba, figurino e proporção antes das séries com pessoas recorrentes. Registre essas escolhas como propostas até serem aceitas. Use a mesma referência nas peças conectadas, inclusive entre produtores.
+- **Cenário:** estabeleça geografia, arquitetura, materiais, horizonte e direção da entrada de luz. Reutilize o mesmo ambiente entre planos; uma nova imagem não deve inventar outra Belém ou outro estábulo.
+- **Iluminação:** descreva fonte, direção, temperatura, intensidade relativa e áreas de sombra. Reserve o maior brilho para o momento narrativo correto, preservando textura nos claros e leitura nos escuros.
+- **Época:** proponha arquitetura, objetos e roupas coerentes com o contexto bíblico, sem elementos modernos ou fantasia medieval. Realismo visual não é comprovação de precisão histórica.
+- **Representação:** detalhes de aparência, figuração de Cristo, anjos e recursos sobrenaturais são escolhas artísticas a alinhar com a direção. Não transforme detalhes da imagem gerada em afirmações do roteiro.
+- **Texto:** títulos, descrições e timecodes pertencem à prancha. As bases finais saem sem texto; frases eventualmente aprovadas entram depois na edição.
+
+Para imagens-base, a referência documental é **3840×2160**. Isso não define resolução, proporção de exibição, fps ou codec finais dos vídeos (P-01). Se a ferramenta não entregar esse tamanho nativamente, registre o tamanho real e valide a ampliação; não rotule um arquivo menor como 4K.
+
+## 4. Separar imagem de movimento e efeitos
+
+O prompt da base descreve um instante. Travelling, aproximação, abertura de nuvens e expansão luminosa ficam no campo de animação. Não peça à imagem estática que execute uma sequência inteira.
+
+Prefira zoom lento, parallax com poucos planos, máscaras, dissoluções e partículas discretas. Parallax exige separação de camadas ou reconstrução de áreas ocultas; uma imagem achatada não entrega isso automaticamente. Movimentar mãos, rostos, animais ou câmera com grande mudança de perspectiva exige validação específica e pode precisar de outra base.
+
+Para loops, evite movimento irreversível no centro da ação e faça início/fim compatíveis. Uma dissolução não garante um loop sem emenda: teste repetido na duração necessária. Não congele o público em imagens paradas por falta de planejamento.
+
+## 5. Continuidade antes da geração em série
+
+Escolha uma imagem de referência por personagem/ambiente e registre a versão aceita no caderno. Gere uma base piloto, confira sua leitura e só então avance pelas vizinhas. Compartilhe os frames de ligação com o outro responsável.
+
+Confira entre imagens: identidade, roupas, posição e quantidade de pessoas, escala do bebê, lado da manjedoura, desenho da cidade, direção do olhar, fonte de luz e sentido do movimento. Reutilize referências aprovadas na ferramenta quando disponíveis. Seed e prompt sozinhos não garantem consistência.
+
+## 6. Tempos e conflitos nas pranchas do Dudu
+
+| Peça | O que aproveitar | O que precisa ser resolvido |
+| --- | --- | --- |
+| MM-07 · Cena 3 | Belém noturna, calor humano, nascimento e progressão de luz | A prancha abre na cidade; o roteiro manda continuar com o bebê, e D-01 propõe o mesmo frame do MM-06. Validar com Isaac/Dudu a abertura e o uso de viagem/sem hospedagem, também tratados no MM-12 |
+| MM-10 · Cena 5 | Escala crescente, criação e luz preparando MM-11 | Acompanha a fala de João 1, não uma música de 4 minutos. Ajustar ao ensaio; reduzir explosões e estética de ficção científica; alinhar figuração de Cristo |
+| MM-13 · Cena 7 | Paisagem noturna contínua e crescimento até a glória | P-07/P-02 em aberto. A prancha põe a multidão celestial antes do anúncio; o roteiro traz anúncio antes da multidão. Reordenar na montagem sem perder os IDs |
+| MM-16D · Cena 9 | Sombra → morte → silêncio → ressurreição → luz | É o quarto módulo do MM-16, não um filme autônomo de 4 minutos. Lucas define a divisão (P-06); reduzir a longa introdução da Paixão se não couber e considerar P-05 |
+
+As durações e formas de onda desenhadas nas pranchas não comprovam medição de áudio. Use **“tempo a definir com o master”**, **“gatilho de fala”** ou **“duração a combinar no conform”**. Não associe refrão, virada ou clímax a segundos inventados.
+
+## 7. Comando-base melhorado para criar um storyboard
+
+```text
+Planeje a peça [MM-XX / nome], da Cena [N] do HESED 2026, sob responsabilidade
+de [pessoa], usando o briefing, o trecho do roteiro, as decisões aprovadas e
+as referências fornecidas. Identifique propostas e conflitos sem tratá-los
+como decisões. Não invente acesso a arquivos que não foram fornecidos.
+
+Função narrativa: [...]. Gatilho: [...]. Saída: [...].
+Recebe de: [...]. Entrega para: [...].
+Controle: [fala variável / música com master / módulo do filme final].
+Áudio e frames de ligação disponíveis: [... ou não fornecidos].
+
+Proponha os estados visuais necessários, com IDs estáveis MM-XX-QNN.
+Para cada um, descreva intenção, imagem de um único instante, composição,
+personagens, cenário, luz, continuidade e elementos a evitar. Em campo
+separado, descreva movimento, efeitos e transição para o próximo estado.
+Siga o estilo realista e cinematográfico e a linguagem visual do HESED.
+Não fixe tempos sem fonte medida. Planeje espera/loop onde houver fala.
+
+Entregue primeiro o plano textual para revisão. Para a prancha visual,
+use miniaturas com IDs e anotações fora da área de cada imagem. Para as
+bases definitivas, gere uma imagem limpa por vez, nunca uma colagem.
+Atualize o caderno de briefings por quadro com as escolhas e versões.
+```
+
+## 8. Registro e revisão de cada quadro
+
+Use este modelo ao acrescentar peças ao [caderno](briefings-dos-quadros.md):
+
+```markdown
+### MM-XX-QNN · Título
+- Situação e origem: proposta / referência / aprovado por quem e quando.
+- Função narrativa e gatilho: ...
+- Imagem-base: sujeito, ação congelada, ambiente e objetos.
+- Composição: plano, câmera, foco, camadas e margem de movimento.
+- Luz e cor: fonte, direção, contraste e relação com o quadro vizinho.
+- Continuidade: referência de personagem/cenário, entrada e saída.
+- Animação e transição: movimento, efeitos, espera/loop e ligação seguinte.
+- Evitar: desvios específicos deste quadro.
+- Prompt da imagem: descrição autossuficiente do instante a gerar.
+- Referências usadas: arquivos/versões reais; ausentes quando não recebidas.
+- Tempo: fonte medida ou a definir; nunca estimativa apresentada como real.
+- Arquivo/versão/feedback: localização real, revisão e correção necessária.
+```
+
+Não renumere IDs após revisão: mude a ordem de montagem numa lista separada. Marque quadros retirados como não utilizados e dê novo ID a adições. Ao gerar uma imagem, registre a versão e o feedback no quadro correspondente; não sobrescreva versões aprovadas. Miniaturas podem seguir `q01.jpg`; para as bases no Drive, uma convenção proposta é `HESED_C03_MM-07_Q01_base_v01.png`, a alinhar com o [guia de entrega](../guias/entrega-e-arquivos.md).
+
+Antes de aprovar: conferir fidelidade à função da cena, anatomia, identidade, continuidade, leitura de longe, possibilidade de animação e relação com palco/música. Uma imagem bonita ainda pode falhar como peça do espetáculo. Use o [checklist de aceite](../guias/checklist-de-aceite.md) na validação do vídeo.
