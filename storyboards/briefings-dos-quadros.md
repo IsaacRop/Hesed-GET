@@ -1124,6 +1124,8 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-05 · Queda — silhuetas de luz
 
+**Vigência:** v03/D-23 corrige gestos, olhares e retira vestes com desfoque corporal; mantém seis quadros e direção da v02/D-22. A revisão v02 abaixo substitui as escolhas da v01 quanto à quantidade de quadros, luz inicial e final em silhuetas. V01 preservada como histórico.
+
 **Cena 3 · Lucas · storyboard v01 · 16/10/2026.** Pedido do usuário autoriza preparar a peça. Escolhas visuais abaixo são propostas, sem aprovação artística presumida.
 
 **Fontes consultadas:** briefing v1.0 §11/MM-05 e §8/MM-04; roteiro Cena 3, da indicação de Adão/Eva/fruto até “Enviando alguém pra nos salvar”; Bíblia de Produção §§3/5.2/7.1/9 (BIB-Q008), alinhamento, decisões, dependências, mapa e página de Lucas; guia canônico, contrato/prancha MM-04 e ficha MM-06. Transcrição original ausente (P-14). Não houve acesso a áudio master ou frame final do MM-06.
@@ -1179,3 +1181,81 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Original preservado:** `/workspace/generated_images/exec-2582da56-15e8-400b-bfd7-0b86dfe5b358.png`, PNG 1672×941, 2768857 bytes, fora do repositório. **Prancha leve:** [prancha-v01.jpg](MM-05/prancha-v01.jpg), JPEG 1672×941, 695213 bytes, mesma composição; apenas conversão de formato. AR próximo de 16:9; não base 4K nem matriz LED final.
 - **Revisão visual:** quatro estados legíveis, exatamente duas silhuetas recorrentes na margem esquerda; fruto pequeno em Q02; brilho interno decresce, ambiente esfria/escurece, sem destruição do mundo ou antecipação da cruz/bebê. Q04 conserva silhuetas e leitura da água/árvore em penumbra. A ferramenta manteve brilho de contorno residual; revisar sua intensidade no LED. Há variações gerativas de árvore, pedras, colinas/nuvens entre painéis; não são cópias de uma única base. Para animação usar base piloto aceita, figuras e luz em camadas, preservando geometria; esta prancha não comprova continuidade métrica nem loop.
 - **Situação/feedback:** primeira proposta entregue, sem aprovação artística, base individual, alpha, teste no LED ou upload Drive. A MM-04 usada é estudo não aprovado; costura definitiva com Melissa/base de criação e frame de Isaac/MM-06 continua pendente. Gatilhos intermediários são associações de proposta, não sincronização medida.
+
+
+### Revisão MM-05 v02 · D-22
+
+**Complemento recebido antes da geração:** no último quadro, casal em desespero, mãos na cabeça, olhando um para o outro, troncos levemente encurvados/prostrados. Homem com mãos nos lados/topo da cabeça; mulher com mãos à testa/têmporas/cabeça, ambos voltados em três quartos um ao outro. Mesmos corpos e posição na margem, pose muda; não terminar em casal calmo de mãos dadas.
+
+**Pedido e situação:** usuário achou v01 interessante, pede seis quadros, primeiro com muito mais luz emanando dos corpos, revelação gradual da forma física e último com pessoas reconhecíveis e ambiente muito mais sombrio. D-22 confirma direção, não aprovação automática da nova arte. Q01–Q04 mantêm IDs, mas têm estados revisados; Q04 deixa de ser terminal. Acrescentar Q05/Q06 ao fim, sem renumerar IDs antigos.
+
+**Consulta/fontes:** pedido atual/D-22; guia vigente, contrato v01 e MM-04; briefing §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, alinhamento e página de Lucas. Gatilhos e relação MM-04 → MM-05 → MM-06 preservados; espera por fala sem duração medida. Transcrição original e base final da criação/frame MM-06 ainda ausentes. Não alterar documentos-fonte para esconder que esta especificação vem do usuário.
+
+**Referência real:** [MM-05 v01](MM-05/prancha-v01.jpg), inspecionada, única imagem a enviar. Mantém árvore à esquerda, água central, pedras/margens, colinas, duas figuras na margem esquerda e fonte inicial à direita. Prancha horizontal aproximadamente 16:9, seis imagens em 3 colunas × 2 linhas, ordem Q01/Q02/Q03 e Q04/Q05/Q06. Uma única paisagem/transformação, não seis ambientes.
+
+**Identidade física proposta para esta série:** dois adultos aparentando 30–35 anos, pele oliva/morena, homem à esquerda com cabelo curto ondulado castanho-escuro e barba curta; mulher à direita com cabelo longo ondulado castanho-escuro, proporções naturais. Vestes/envoltórios rústicos simples em tons terrosos, textura de tecido natural, braços/pernas inferiores/pés legíveis. Escolhas artísticas do Codex, não elenco/figurino aprovado. Mesmo rosto, cabelo, estatura, posição e roupa ao revelar a luz, sem troca de identidade. Q01 oculta detalhes pelo brilho; Q03 começa a revelá-los; Q06 mostra pessoas reais/volumétricas. Preparar esta definição antes da geração atende à referência de aparência, mesmo sem foto de ator fornecida.
+
+**Regra central:** brilho próprio cai enquanto reconhecimento físico cresce. No final, eliminar aura/traço dourado; manter pele, rosto, mãos e volume por luz ambiente refletida discreta. Escurecer profundamente a paisagem, sem perder completamente a legibilidade das pessoas. Não confundir corpos físicos com figuras pretas chapadas. Sem duplicar elenco do palco, antecipar cruz/bebê, destruir a geografia ou acrescentar catástrofe.
+
+| ID | Instante/composição/luz v02 | Animação e continuidade | Evitar |
+| --- | --- | --- | --- |
+| MM-05-Q01 · Luz emanante | Duas formas volumétricas branco-douradas irradiam aura ampla e luz sobre o chão/vegetação; detalhes físicos velados | Mesma margem/câmera; entrada “escolheu viver longe de Deus”; luz em camadas a desenvolver | Apenas traço de contorno, explodir/expor toda a imagem |
+| MM-05-Q02 · A escolha | Brilho ainda forte mas menor; uma figura ergue pequeno fruto, primeiros indícios de volume | Gesto mínimo já proposto no roteiro; mesmos corpos e geografia | Close de fruto, novas pessoas ou muitos gestos |
+| MM-05-Q03 · Primeiros traços | Pele/cabelo/feições/tecido aparecem através de luz residual; sombras frias crescem | Mãos baixas, mesma identidade; transição sob fala, sem corte/tempo imposto | Permanecer bonecos vazios ou mudar rostos |
+| MM-05-Q04 · Corpo emergente | Pessoas majoritariamente físicas, com rosto/mãos/tecido; brilho parcial em retração | Estado intermediário revisado; Q04 não é mais final | Silhueta escura plana ou renumerar IDs antigos |
+| MM-05-Q05 · Presença física | Pessoas físicas reconhecíveis, quase sem emissão; último resíduo localizado; mundo bem escuro | Mesmos rostos/roupas/posição; prepara Q06 | Nova aura forte, esconder anatomia inteira |
+| MM-05-Q06 · Sombra profunda | Ambiente mais escuro de todos; dois adultos plenamente físicos, sem aura, em desespero: mãos na cabeça, ombros caídos, troncos encurvados, olham um para o outro; volume/pele/cabelo/mãos/pés lidos por luz refletida fria discreta | Espera/loop futuro até “Enviando alguém pra nos salvar” → MM-06 | Só contornos, preto sem informação, novo feixe de esperança |
+
+**Prompt efetivo dos seis quadros:** [prompt-prancha-v02.txt](MM-05/prompt-prancha-v02.txt). Primeiro e último estados não devem ser recortados de pranchas como se fossem bases métricas; animação futura exige base única e camadas. Matriz LED/P-01, ensaio e aprovação da arte continuam pendentes.
+
+
+### Refinamento Q06 antes da entrega v02
+
+Primeira geração dos seis quadros retornou `/workspace/generated_images/exec-338f8d8b-4471-4105-995e-3eb4252f6acf.png`, inspecionada: progressão/final físico/sombra presentes, mas mãos cobrem rostos e olhares estão para baixo. Corrigir só Q06 para cumprir o olhar mútuo pedido: palmas nas têmporas/laterais acima das orelhas, dedos nos cabelos, rostos livres e queixos levemente elevados, homem olhando à direita para mulher e mulher à esquerda para homem. Manter troncos encurvados, desespero e ambiente escuro. Q01–Q05 preservados.
+
+**Referência real desta segunda chamada:** PNG acima, inspecionado, única imagem enviada. **Prompt efetivo:** [prompt-ajuste-Q06-v02.txt](MM-05/prompt-ajuste-Q06-v02.txt). Guia/contrato v02/D-22 e complemento corporal do usuário consultados; não é novo escopo ou nova aprovação. Registrar tentativas e resultado, sem afirmar preservação pixel a pixel.
+
+
+### Registro de geração · MM-05 v02 · Q01–Q06
+
+- **Data/executor:** 16/10/2026 · Codex; D-22 e complemento corporal do usuário. Guia/caderno v02, seis briefings, fontes e referência inspecionados antes da primeira chamada; contrato de refinamento Q06 lido antes da segunda.
+- **Primeira chamada:** `image_gen.imagegen`, fundo opaco, única referência `/workspace/Hesed-GET/storyboards/MM-05/prancha-v01.jpg`; [prompt integral](MM-05/prompt-prancha-v02.txt). Resultado `/workspace/generated_images/exec-338f8d8b-4471-4105-995e-3eb4252f6acf.png`, PNG 1672×941, 2921599 bytes, preservado fora do repositório. Seis estados presentes; rostos finais ocultos pelas mãos motivaram refinamento.
+- **Segunda chamada:** mesma ferramenta, fundo opaco, somente PNG anterior inspecionado como referência; [prompt efetivo do ajuste Q06](MM-05/prompt-ajuste-Q06-v02.txt). Nenhuma referência fotográfica de ator/figurino enviada.
+- **Resultado entregue:** `/workspace/generated_images/exec-5cd660fc-275a-49a7-9914-0577dd19a5cd.png`, PNG 1672×941, 2773435 bytes, original preservado. [Prancha no repositório](MM-05/prancha-v02.jpg): JPEG 1672×941, 692500 bytes, conversão de formato sem mudar composição. AR próximo de 16:9, não base 4K/matriz LED.
+- **Revisão visual:** seis quadros, emissão intensa nos corpos em Q01, tecido/pele/cabelo/feições revelados ao reduzir luz. Q06 é o mais sombrio, duas pessoas opacas reconhecíveis, mãos nas laterais da cabeça e olhares voltados um ao outro, troncos encurvados. A curva dos joelhos e a inclinação ficaram acentuadas; proposta a avaliar. Q03 já mostra bastante forma física e Q04 ainda tem contorno quente forte: calibrar gradação se solicitado. Há pequenas mudanças de textura, escala aparente e paisagem entre quadros; não comprova câmera fixa/continuidade métrica. O refinamento não é preservação pixel a pixel dos outros quadros.
+- **Situação:** v02 entregue para revisão do usuário; v01 preservada como histórico. Direção de seis estados/final corporal é autorizada; rosto/vestes novos são proposta, sem aprovação artística automática. Não há base limpa, camadas, alpha/loop, teste LED ou upload Drive. MM-04/base final e costura MM-06 ainda pendentes.
+
+
+### Revisão MM-05 v03 · D-23
+
+**Origem/feedback:** usuário disse “melhorou” e pediu correções específicas antes de aprovação integral: Q02 mulher entrega fruta; Q03 homem morde; Q05 casal se olha percebendo a condição; não estão vestidos, usar corpo borrado para não exibir nudez. Q04 mantido; Q06 mantém desespero da v02. D-23 substitui vestes e alguns gestos propostos anteriormente, sem mudar D-22 ou gatilhos narrativos.
+
+**Referência real:** [prancha-v02.jpg](MM-05/prancha-v02.jpg), inspecionada, única imagem a enviar. Mesmos dois adultos 30–35 anos e rostos/cabelos/estaturas da v02; nenhuma pessoa nova ou referência fotográfica. A representação sem vestes é não sexual e encoberta por desfoque óptico efetivo no tronco/peito/quadris/pelve/coxa superior. Não exibir detalhes íntimos; não trocar desfoque por novo figurino. Rostos, mãos, antebraços e pernas inferiores/pés preservam leitura física/gestual. Luz intensa inicial ajuda a velar formas, mas a proteção por desfoque se mantém enquanto o brilho diminui. Poses naturais, mesma posição homem esquerda/mulher direita.
+
+| ID | Instante vigente v03 | Continuidade/evitar |
+| --- | --- | --- |
+| MM-05-Q01 · Luz emanante | Mesmo brilho próprio intenso, corpos sem roupa mas ocultos por luz/desfoque | Paisagem/câmera da v02; não revelar anatomia íntima |
+| MM-05-Q02 · A entrega | Mulher estende pequeno fruto entre ambos; homem recebe | Fruto longe da boca dela; um gesto simples, sem mãos extras |
+| MM-05-Q03 · A mordida | Homem segura fruto na própria boca e morde, mulher observa | Mesmo fruto/personagens; não pôr mulher mordendo |
+| MM-05-Q04 · Corpo emergente | Estado de luz/postura da v02, retirando roupas e desfocando corpo | Física humana reconhecível em rosto/mãos/volume, sem nudez exposta |
+| MM-05-Q05 · A percepção | Quase sem brilho, viram rostos um ao outro com surpresa/inquietude, percebendo a condição | Rostos/olhos visíveis, nada de olhar apenas para baixo ou romantização |
+| MM-05-Q06 · Sombra profunda | Desespero, mãos na cabeça, troncos encurvados e olhares mútuos; fundo mais sombrio | Mesma pose da v02, corpo protegido por desfoque, sem aura ou novo figurino |
+
+**Ambiente/luz/animação:** mesmos árvore/água/pedras/margens/colinas e progressão frio/penumbra, sem catástrofe; câmera fixa/transformação futura contínua por fala, espera final até MM-06. Não adicionar tempos ou imagens de redenção. Prancha horizontal aproximadamente 16:9, seis quadros em 3×2. Fontes: pedido atual/D-23, guia e contratos/registro v02, briefing §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9 e alinhamento já conferidos nesta sequência. **Prompt efetivo:** [prompt-prancha-v03.txt](MM-05/prompt-prancha-v03.txt). Aprovação artística e técnica pendentes.
+
+
+### Tentativa v03 bloqueada e alternativa com cobertura opaca
+
+A primeira chamada v03 (`prompt-prancha-v03.txt`, referência v02) foi rejeitada na moderação de saída do gerador (HTTP 400, `moderation_blocked`, categoria `sexual`), sem imagem retornada. Não registrar essa tentativa como arquivo gerado. Pedido do usuário é não exibir nudez; para concretizá-lo sem gerar anatomia nua, próxima chamada mantém as áreas cobertas da fonte e aplica **desfoque opaco sobre essas áreas já cobertas**, ocultando roupa e anatomia. Não remover cobertura para depois censurar; não gerar nudez por baixo. Rostos/mãos/gestos permanecem legíveis. Essa alternativa de execução é comunicada ao usuário, sem alegar reprodução de anatomia nua.
+
+**Consulta/escopo da segunda tentativa:** guia e contrato v03/Q01–Q06/D-23, mesmos gestos Q02/Q03/Q05 e final Q06; referência única v02 já inspecionada. **Prompt efetivo:** [prompt-ajuste-desfoque-v03.txt](MM-05/prompt-ajuste-desfoque-v03.txt). Resultado deve ser avaliado quanto a opacidade e leitura dos gestos; arte não automaticamente aprovada.
+
+
+### Registro de geração · MM-05 v03 · Q01–Q06
+
+- **Data/executor:** 16/10/2026 · Codex, conforme D-23. Guia/caderno, contrato e alternativa com cobertura opaca consultados antes da chamada.
+- **Tentativa sem resultado:** [prompt inicial](MM-05/prompt-prancha-v03.txt), única referência v02, rejeitada pelo sistema do gerador; nenhum arquivo foi retornado e nenhum foi salvo como imagem dessa tentativa.
+- **Chamada bem-sucedida:** `image_gen.imagegen`, fundo opaco, única referência `/workspace/Hesed-GET/storyboards/MM-05/prancha-v02.jpg`, inspecionada; [prompt efetivo da alternativa](MM-05/prompt-ajuste-desfoque-v03.txt). Mantém cobertura da fonte sob desfoque opaco, sem gerar anatomia nua; método comunicado ao usuário.
+- **Original preservado:** `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório. **Cópia leve:** [prancha-v03.jpg](MM-05/prancha-v03.jpg), JPEG 1672×941, 666212 bytes; apenas conversão de formato, mesma composição. Não base 4K/matriz LED.
+- **Revisão visual:** Q02 mulher oferece fruto ao homem, Q03 homem leva fruto à boca, Q05 casal troca olhares e Q06 mantém mãos na cabeça/encurvamento/desespero. Desfoque no tronco/quadris/coxa superior oculta roupa/anatomia, sem exposição de detalhes íntimos. Rostos, mãos e pernas inferiores ajudam leitura física. A borda inferior do desfoque tem aparência relativamente uniforme; revisar estética se solicitado. Seis quadros e progressão de sombra/luz preservados, com pequenas diferenças gerativas em rostos, cabelos, escala e paisagem; não afirmar identidade pixel a pixel ou consistência métrica. A ferramenta preservou legenda antiga de Q06, mas a pose continua visível.
+- **Situação/feedback:** v03 entregue para avaliação; usuário disse que v02 melhorou, mas isso não aprova automaticamente v03. D-23 autoriza direção/gestos, não arte final. V01/v02 preservadas como histórico. Sem base limpa, animação/loop testado, upload Drive ou ensaio LED. Costuras finais MM-04/MM-06 pendentes.

@@ -98,3 +98,7 @@ D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM
 **Destino de publicação:** por orientação explícita do usuário, integrar e enviar alterações deste repositório para a **main**, preservando commits remotos e sem force-push. Enviar somente para outra branch não conclui a publicação. Verificar o resultado remoto.
 
 **MM-01 · D-21:** única referência oficial [V05](storyboards/MM-01/prancha-v05.jpg), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
+
+**MM-05 · D-22:** seis quadros: corpos irradiam mais luz no início, depois revelam pessoas fisicamente reconhecíveis; final profundamente sombrio, sem terminar apenas em silhuetas. Aplicar o [contrato v02](storyboards/briefings-dos-quadros.md#revisão-mm-05-v02--d-22) antes de gerar. Aparência/vestes e nova arte para revisão.
+
+**MM-05 · D-23:** Q02 entrega do fruto, Q03 mordida do homem, Q05 olhares mútuos de percepção; casal sem vestes, com corpo desfocado para não exibir nudez. Preservar rosto/mãos e Q06 em desespero. [Contrato v03](storyboards/briefings-dos-quadros.md#revisão-mm-05-v03--d-23) prevalece sobre figurino/gestos da v02.

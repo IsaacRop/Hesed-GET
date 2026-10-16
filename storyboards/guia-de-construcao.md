@@ -79,6 +79,12 @@ Antes de desenhar, registre no briefing do quadro: **função visual**, **ação
 
 Para imagens-base, a referência documental é **3840×2160**. Isso não define resolução, proporção de exibição, fps ou codec finais dos vídeos (P-01). Se a ferramenta não entregar esse tamanho nativamente, registre o tamanho real e valide a ampliação; não rotule um arquivo menor como 4K.
 
+### Queda · MM-05 · diretrizes atuais
+
+**D-23 complementa D-22:** Q02 entrega do fruto pela mulher ao homem; Q03 mordida do homem; Q05 olhar mútuo de percepção. Casal sem roupas, corpo com desfoque suficiente para não exibir nudez, preservando leitura de rostos/mãos/gestos. Q06 mantém desespero e ambiente sombrio. Vestes da v02 deixam de valer. Ver [contrato v03](briefings-dos-quadros.md#revisão-mm-05-v03--d-23).
+
+**D-22:** seis estados, com luz mais intensa **emanando dos corpos** no primeiro e progressiva revelação de pessoas com volume, pele, rosto, cabelo e membros reconhecíveis até o último. Não terminar em figuras chapadas/contornos luminosos. No último, casal em desespero, mãos na cabeça, olhando um para o outro e levemente encurvado/prostrado, conforme complemento explícito do usuário. Último ambiente muito mais escuro e sombrio; iluminação ambiente refletida discreta pode preservar a leitura dos corpos sem restituir brilho próprio. Mesma paisagem MM-04, duas pessoas e câmera fixa. Aparência dos rostos da v02 é referência de continuidade, ainda proposta; aplicar D-23 para retirar vestes e desfocar o corpo. Ver [contrato v02/Q01–Q06](briefings-dos-quadros.md#revisão-mm-05-v02--d-22). MM-06 continua começando no gatilho “Enviando alguém pra nos salvar”.
+
 ### Prisão · MM-01 · diretrizes atuais
 
 **D-21 prevalece:** [V05](MM-01/prancha-v05.jpg) é a única versão oficial, escolhida pelo usuário por ser a mais adequada. Preservada sem alteração; todas as outras versões/imagens e prompts correspondentes foram excluídos da pasta MM-01. Não usar v06/v07/v08 ou reaplicar correções D-17–D-20 sem novo pedido. Consultar [contrato vigente](briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). A imagem aceita rege arquitetura, enquadramentos, quantidade e disposição dos elementos, incluindo figuração de segurança autorizada. Jesus e detentas permanecem no palco. Aprovação artística não é aceite técnico do LED nem confirmação de padronagem oficial da frota.
