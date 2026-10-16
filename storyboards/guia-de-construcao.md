@@ -81,9 +81,7 @@ Para imagens-base, a referência documental é **3840×2160**. Isso não define 
 
 ### Queda · MM-05 · diretrizes atuais
 
-**D-23 complementa D-22:** Q02 entrega do fruto pela mulher ao homem; Q03 mordida do homem; Q05 olhar mútuo de percepção. Casal sem roupas, corpo com desfoque suficiente para não exibir nudez, preservando leitura de rostos/mãos/gestos. Q06 mantém desespero e ambiente sombrio. Vestes da v02 deixam de valer. Ver [contrato v03](briefings-dos-quadros.md#revisão-mm-05-v03--d-23).
-
-**D-22:** seis estados, com luz mais intensa **emanando dos corpos** no primeiro e progressiva revelação de pessoas com volume, pele, rosto, cabelo e membros reconhecíveis até o último. Não terminar em figuras chapadas/contornos luminosos. No último, casal em desespero, mãos na cabeça, olhando um para o outro e levemente encurvado/prostrado, conforme complemento explícito do usuário. Último ambiente muito mais escuro e sombrio; iluminação ambiente refletida discreta pode preservar a leitura dos corpos sem restituir brilho próprio. Mesma paisagem MM-04, duas pessoas e câmera fixa. Aparência dos rostos da v02 é referência de continuidade, ainda proposta; aplicar D-23 para retirar vestes e desfocar o corpo. Ver [contrato v02/Q01–Q06](briefings-dos-quadros.md#revisão-mm-05-v02--d-22). MM-06 continua começando no gatilho “Enviando alguém pra nos salvar”.
+**D-24:** [V03](MM-05/prancha-v03.jpg) é a única versão oficial, aprovada pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Aplicar [contrato vigente](briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz) e a imagem aceita: seis estados, luz emanante → forma física, Q02 entrega do fruto, Q03 mordida do homem, Q05 percepção por olhar mútuo e Q06 desespero/olhares/mãos na cabeça no mundo mais sombrio. Corpo oculto por desfoque, sem exposição de nudez. Não usar a versão vestida ou o final apenas em silhuetas. Mesma paisagem MM-04; MM-06 entra em “Enviando alguém pra nos salvar”. Aprovação artística não é aceite técnico ou loop validado.
 
 ### Prisão · MM-01 · diretrizes atuais
 

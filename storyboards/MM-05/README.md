@@ -4,20 +4,20 @@
 | --- | --- |
 | **Responsável** | Lucas |
 | **Cena / bloco** | 3 · Bloco II |
-| **Versão / situação** | v03 · seis quadros · 16/10/2026 · proposta para revisão |
+| **Versão / situação** | **V03 oficial** · seis quadros · aprovada pelo usuário em 16/10/2026 (D-24) |
 | **Recebe de** | Melissa/MM-04: paisagem luminosa, paleta e estado corrente do loop |
 | **Entrega para** | Isaac/MM-06: “Enviando alguém pra nos salvar” |
 | **Entrada** | “Deu errado quando o ser humano escolheu viver longe de Deus” |
 | **Controle** | Fala variável; transformação e espera/loop, sem tempos medidos |
 | **Drive** | A definir (P-13); nenhum upload realizado |
 
-## Prancha v03 · seis estados
+## V03 · única versão oficial
 
 ![MM-05 v03 — entrega, mordida, percepção e desespero com desfoque corporal](prancha-v03.jpg)
 
-**Direção do usuário (D-22):** ampliar para seis quadros, aumentar a luz emanando dos corpos no início e revelar gradualmente pessoas fisicamente reconhecíveis no último. Final muito mais escuro e sombrio, casal em desespero, mãos na cabeça, olhando um para o outro e levemente encurvado/prostrado. Essa direção substitui o final apenas em silhuetas da v01; a arte nova ainda depende de avaliação. **D-23:** Q02 ela entrega o fruto, Q03 ele morde, Q05 trocam olhares percebendo a condição; retirar a leitura de roupa e ocultar o corpo com desfoque. Para não gerar nudez, a edição bem-sucedida aplicou desfoque opaco sobre áreas já cobertas da referência, ocultando detalhes de roupa/anatomia. Q06 mantém desespero.
+**Direção do usuário (D-22):** ampliar para seis quadros, aumentar a luz emanando dos corpos no início e revelar gradualmente pessoas fisicamente reconhecíveis no último. Final muito mais escuro e sombrio, casal em desespero, mãos na cabeça, olhando um para o outro e levemente encurvado/prostrado. Essa direção substitui o final apenas em silhuetas da v01. **V03 aprovada pelo usuário em D-24**, preservada sem alteração; demais versões e seus prompts excluídos da pasta. **D-23:** Q02 ela entrega o fruto, Q03 ele morde, Q05 trocam olhares percebendo a condição; retirar a leitura de roupa e ocultar o corpo com desfoque. Para não gerar nudez, a edição bem-sucedida aplicou desfoque opaco sobre áreas já cobertas da referência, ocultando detalhes de roupa/anatomia. Q06 mantém desespero.
 
-[Prancha atual](prancha-v03.jpg) · [Prompt efetivo do ajuste](prompt-ajuste-desfoque-v03.txt) · [Contrato/registro](../briefings-dos-quadros.md#revisão-mm-05-v03--d-23)
+[Prancha atual](prancha-v03.jpg) · [Prompt efetivo do ajuste](prompt-ajuste-desfoque-v03.txt) · [Contrato/registro](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz)
 
 ## Quadros
 
@@ -44,16 +44,16 @@ Detentas ouvem a história no palco com casa/mesa presentes fisicamente; não du
 
 ## Fontes e rastreabilidade
 
-[Briefing](../../docs/briefing.md) §11/MM-05 e §8/MM-04; [roteiro Cena 3](../../docs/roteiro.md); [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/7.1/9; [D-22/D-23](../../docs/decisoes.md); [alinhamento](../../docs/alinhamento-das-fontes.md); [Lucas](../../equipe/lucas.md); [dependências](../../docs/dependencias.md); [guia](../guia-de-construcao.md) e [caderno](../briefings-dos-quadros.md#revisão-mm-05-v02--d-22). Transcrição original ausente (P-14).
+[Briefing](../../docs/briefing.md) §11/MM-05 e §8/MM-04; [roteiro Cena 3](../../docs/roteiro.md); [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/7.1/9; [D-22/D-23](../../docs/decisoes.md); [alinhamento](../../docs/alinhamento-das-fontes.md); [Lucas](../../equipe/lucas.md); [dependências](../../docs/dependencias.md); [guia](../guia-de-construcao.md) e [caderno](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz). Transcrição original ausente (P-14).
 
-- Ferramenta: `image_gen.imagegen`, fundo opaco, única referência [v02](prancha-v02.jpg), inspecionada. Sem referência fotográfica externa de atores.
-- A [tentativa inicial v03](prompt-prancha-v03.txt) foi bloqueada pelo gerador e não retornou arquivo. A [alternativa efetivamente gerada](prompt-ajuste-desfoque-v03.txt) desfoca de forma opaca as áreas já cobertas da fonte, sem gerar nudez sob o desfoque; preserva rostos/mãos e corrige gestos.
-- Original final: `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, preservado fora do repositório.
-- Arquivo leve: `prancha-v03.jpg`, JPEG **1672×941**, **666212 bytes**, conversão de formato sem mudar composição. Aproximadamente 16:9; não é base 4K/matriz final do painel (P-01).
-- Histórico: [v01 de quatro quadros](prancha-v01.jpg), [prompt v01](prompt-prancha-v01.txt), [v02 de seis quadros](prancha-v02.jpg), [prompt v02](prompt-prancha-v02.txt) e [refinamento Q06/v02](prompt-ajuste-Q06-v02.txt), preservados com originais/metadata no caderno.
+- Imagem oficial: [prancha-v03.jpg](prancha-v03.jpg), JPEG **1672×941**, **666212 bytes**, preservada byte a byte. SHA-256: `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`.
+- [Prompt integral efetivamente usado](prompt-ajuste-desfoque-v03.txt). Ferramenta: `image_gen.imagegen`, fundo opaco; referência à época: v02, inspecionada, agora excluída da pasta por D-24. Nenhuma foto externa de ator usada.
+- Original: `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório. JPEG leve é conversão sem mudar composição.
+- Demais versões e prompts retirados da pasta; histórico de produção permanece no Git. Não usar versões descartadas em novas decisões.
+- Prancha próxima de 16:9; não base 4K/matriz final do LED (P-01). O arquivo aceita a leitura de desfoque produzida, sem nova geração nesta oficialização.
 
 ## Revisão
 
-Q02/Q03/Q05 corrigidos, corpo oculto por desfoque e Q06 com desespero. Desfoque tem bordas relativamente uniformes; estética pode ser revisada conforme feedback. Pequenas mudanças gerativas de rosto/cabelo/escala/paisagem exigem uma base única antes de animar; prancha não valida continuidade métrica. Conferir gradação de luz e escuros no LED.
+Q02/Q03/Q05 corrigidos, corpo oculto por desfoque e Q06 com desespero. Preservar o desfoque e os gestos da imagem aprovada. Pequenas mudanças gerativas de rosto/cabelo/escala/paisagem exigem uma base única antes de animar; prancha não valida continuidade métrica. Conferir gradação de luz e escuros no LED.
 
-**Aprovação artística da v03 pendente.** Sem alpha, base individual, loop testado ou aceite LED; costuras MM-04/MM-06 e especificações técnicas abertas.
+**Aprovação artística da V03 confirmada pelo usuário (D-24).** Sem alpha, base individual, loop testado ou aceite LED; costuras MM-04/MM-06 e especificações técnicas abertas.

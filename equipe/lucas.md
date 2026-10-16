@@ -11,7 +11,7 @@
 
 ## MM-05 · Queda (silhuetas de luz)
 
-**Storyboard v03 disponível:** [prancha e ficha](../storyboards/MM-05/README.md), seis quadros conforme D-22/D-23: luz → forma física, entrega/mordida do fruto, olhar de percepção e desespero final; corpo oculto por desfoque. Proposta para revisão em 16/10/2026; base/paleta MM-04 e integração MM-06 ainda pendentes.
+**Storyboard V03 oficial (D-24):** [prancha e ficha](../storyboards/MM-05/README.md), seis quadros conforme D-22/D-23: luz → forma física, entrega/mordida do fruto, olhar de percepção e desespero final; corpo oculto por desfoque. Aprovado pelo usuário em 16/10/2026; versões anteriores excluídas. Base/paleta MM-04 e integração MM-06 ainda pendentes.
 
 | | |
 | --- | --- |
