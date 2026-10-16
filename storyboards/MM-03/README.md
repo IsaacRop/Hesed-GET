@@ -1,31 +1,31 @@
-# Storyboard · MM-03 · Sala da casa
+# MM-03 · Casa da Religiosidade · V03 oficial
 
-| | |
-| --- | --- |
-| **Responsável** | Victor |
-| **Cena** | 2–4 |
-| **Recebe de** | - |
-| **Entrega para** | - |
-| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/victor.md) |
-| **Pasta no Drive** | _a definir (P-13)_ |
+A única composição oficial é a imagem reenviada pelo usuário e registrada em D-13: relógio à esquerda, bandejinha/chaves sobre renda delicada pendendo pela frente ao centro, menorá à direita. Sem foto ou Bíblia. Pia à esquerda sob o armário aéreo e cooktop à direita.
 
-Como preencher: [storyboards/README.md](../README.md).
+## Imagens atuais
 
-## Conceito em uma frase
+| Nome | Iluminação | Arquivo |
+| --- | --- | --- |
+| **V03 oficial** | Referência aprovada da sala, iluminação diurna original | [V03.jpg](V03.jpg) |
+| **V03-01** | Noite, todas as luzes internas acesas | [V03-01.jpg](V03-01.jpg) |
+| **V03-02** | Noite, somente luz central acesa | [V03-02.jpg](V03-02.jpg) |
+| **V03-03** | Noite, luzes internas apagadas, somente luar | [V03-03.jpg](V03-03.jpg) |
 
+![V03 oficial](V03.jpg)
 
-## Quadros
+A imagem enviada pelo usuário tinha inscrição antiga “Estudo v07”; seu nome oficial atual é **V03**. As três variações novas usam essa imagem diretamente, com bandejinha/renda, preservando a cozinha correta. Não derivam das variações rejeitadas com porta-retrato.
 
-| # | Esboço | O que se vê | Movimento / transição | Quando entra (fala ou tempo da música) |
-| --- | --- | --- | --- | --- |
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+## Diretrizes e registros
 
-## Primeiro e último frame
+- [Contrato vigente dos quadros Q01–Q04](../briefings-dos-quadros.md#mm-03--casa-da-religiosidade) e [D-13](../../docs/decisoes.md).
+- Prompts efetivamente enviados: [V03-01](prompts/V03-01.txt), [V03-02](prompts/V03-02.txt), [V03-03](prompts/V03-03.txt).
+- Responsável cadastrado: Victor. Cenas documentadas: 2, início da 3 até “Não tinha dor” → MM-04, retorno na 4 até definição de graça → MM-08. Não foram criados cues, durações ou mudanças de responsável.
+- Panorama e três detalhes em cada prancha, arquivos de 1672×941 (aproximadamente 16:9 com arredondamento de pixels). Quatro imagens leves no repositório; originais de geração e metadados reais identificados no caderno.
+- Câmera, enquadramentos, ambientes e objetos devem permanecer iguais; muda o estado de iluminação. Conferência visual feita pelo Codex: bandejinha/renda, ausência de foto/Bíblia, pia/cooktop e contraste entre os três estados verificados.
+- V03 é referência oficial aprovada pelo usuário. V03-01/02/03 são imagens novas para revisão; não houve aceite técnico, teste no telão, animação, render final ou envio ao Drive. Painel ≈6×3 m não define matriz/fps/codec (P-01).
 
-- **Primeiro frame** (como começa / o que recebe):
-- **Último frame** (como termina / o que entrega):
+## Limpeza solicitada
 
-## Notas e feedback
+As versões antigas e as duas variações noturnas erradas foram excluídas da pasta da sala, juntamente com seus prompts. Restam somente a V03 oficial, as três variações novas, os três prompts atuais e esta ficha. Outros storyboards foram preservados.
 
+Na fala, o usuário repetiu “02” no último estado; foi adotada e comunicada a sequência 01/02/03 para distinguir as três iluminações. Para produção, revisar leitura do Salmo 91, detalhes dos objetos, continuidade entre recortes e nível das sombras no painel real.

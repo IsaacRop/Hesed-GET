@@ -6,7 +6,7 @@ Perguntas abertas que travam ou podem travar alguém. Cada uma tem um código fi
 
 | Código | Pergunta | Afeta | Quem responde | Prioridade | Situação |
 | --- | --- | --- | --- | --- | --- |
-| P-01 | Qual a resolução, frame rate e codec do telão? (o briefing só define 3840×2160 para imagens-base) | Todos | Coordenação + operação técnica | 🔴 | aberta |
+| P-01 | Confirmar matriz real em pixels, frame rate e codec do telão. Usuário informou painel aproximadamente 6 m × 3 m (D-03), referência física 2:1; não define matriz ou render final. | Todos | Coordenação + operação técnica | 🔴 | aberta |
 | P-02 | Onde estão os audio masters definitivos de cada música? (sem eles não dá para mapear playbacks) | MM-07, MM-11, MM-16, MM-13 | Coordenação / som | 🔴 | aberta |
 | P-03 | Onde está o material bruto do musical de Páscoa (Goel) e quem tem acesso? | MM-02, MM-08 | Coordenação | 🔴 | aberta |
 | P-04 | Como dividir os takes de Goel entre o recap (MM-02) e a montagem da graça (MM-08)? | Victor, Isaac | Victor + Isaac | 🟡 | aberta |

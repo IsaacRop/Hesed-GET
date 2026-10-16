@@ -87,3 +87,7 @@ Se estes procedimentos mudarem, atualize os guias compartilhados e suas referên
 | "Minha peça está pronta?" | `guias/checklist-de-aceite.md` |
 | "Atualiza meu status" | `STATUS.md` (só a linha da pessoa + data/nome no topo) |
 | "Resumo do andamento do projeto" | `STATUS.md`, `docs/pendencias.md`, `docs/decisoes.md` |
+
+## Casa da Religiosidade · referência atual
+
+D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM-03/V03.jpg), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.

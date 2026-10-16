@@ -54,6 +54,12 @@ Um quadro representa um estado visual relevante. Não é necessariamente um cort
 
 Para imagens-base, a referência documental é **3840×2160**. Isso não define resolução, proporção de exibição, fps ou codec finais dos vídeos (P-01). Se a ferramenta não entregar esse tamanho nativamente, registre o tamanho real e valide a ampliação; não rotule um arquivo menor como 4K.
 
+### Casa da Religiosidade · diretrizes atuais
+
+**D-13 prevalece sobre referências anteriores:** usar somente a [V03 oficial](MM-03/V03.jpg), imagem reenviada pelo usuário com bandejinha sobre renda delicada, relógio à esquerda e menorá à direita. Sem foto ou Bíblia. Cimento queimado na sala, tijolinho na copa, pia à esquerda sob o armário aéreo e cooktop à direita. Mesma casa de classe média brasileira, arco panorâmico suave e desfoque discreto nas extremidades; não recriar cenário ou objetos. Mesa e sofá fora do painel; aparador projetado conforme referência.
+
+V03-01 = noite/todas as luzes internas acesas; V03-02 = noite/somente luz central; V03-03 = noite/todas as luzes internas apagadas, apenas luar. As três foram solicitadas para refazer a série correta. Manter panorama e três detalhes, AR próximo de 16:9, mesmos IDs Q01–Q04 (Q05 não utilizado). Ver [contrato vigente](briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Antigas versões da pasta foram excluídas a pedido do usuário. Não usar V04 ou imagens com porta-retrato. Painel físico ≈6×3 m não define a matriz de saída; validar no LED antes do aceite técnico.
+
 ## 4. Separar imagem de movimento e efeitos
 
 O prompt da base descreve um instante. Travelling, aproximação, abertura de nuvens e expansão luminosa ficam no campo de animação. Não peça à imagem estática que execute uma sequência inteira.

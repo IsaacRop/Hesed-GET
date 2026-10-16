@@ -40,3 +40,7 @@ O [guia de construção](storyboards/guia-de-construcao.md) e o [caderno de brie
 - Informe o que mudou, o que foi verificado e o que depende de material, decisão ou ensaio. Distinga arquivos locais, commit e envio ao GitHub; não diga que mudanças estão no GitHub sem confirmar o envio.
 
 Mudanças nos procedimentos comuns devem atualizar os guias canônicos e suas referências no `CLAUDE.md`, no [CODEX.md](CODEX.md) e neste arquivo, mantendo os três assistentes alinhados.
+
+## Casa da Religiosidade · referência atual
+
+D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM-03/V03.jpg), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.

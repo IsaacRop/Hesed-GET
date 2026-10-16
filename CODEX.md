@@ -41,3 +41,7 @@ A consulta ao guia e ao briefing da peça/quadro é **obrigatória antes de toda
 - Não confunda 3840×2160 das imagens-base com especificação final de vídeo; consulte a definição do telão antes do render final.
 - Siga o [checklist de aceite](guias/checklist-de-aceite.md). Validação documental ou visual no computador não substitui ensaio no telão real.
 - Este repositório é documental: não exige instalação, build ou servidor. Informe quais verificações foram realizadas, o que foi alterado e o que ainda depende de materiais ou decisões da equipe.
+
+## Casa da Religiosidade · referência atual
+
+D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM-03/V03.jpg), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.
