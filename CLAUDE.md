@@ -52,7 +52,9 @@ Originais em `docs/fontes/` prevalecem sobre erros de conversão; não sobrescre
 
 ## Storyboards e imagens individuais · padrão compartilhado
 
-Siga a estrutura das pranchas de Eduardo (Dudu), adotada como padrão para os demais storyboards: **quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala**, sempre conectados ao briefing do respectivo MM. Preserve a linguagem realista e cinematográfica e as costuras entre produtores.
+Para **storyboards ligados à música**, siga a estrutura das pranchas de Eduardo (Dudu): cabeçalho com objetivo/estilo, quadros numerados com descrição/movimento e bloco de momentos musicais e impactos visuais ligado aos IDs. Para os demais, a estrutura pode ser simples, orientada por fala/operação. **Todos** devem apresentar blocos explícitos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme a seção “Padrão das pranchas · música e direção visual comum” do [guia](storyboards/guia-de-construcao.md). Sem master, manter o bloco musical como estudo e tempos a definir; não inventar forma de onda. Preserve referências aprovadas, função de cada MM e costuras entre produtores.
+
+Antes de incluir personagens, classifique a função visual e separe o que acontece no palco do que deve aparecer no telão. Consulte a seção **“Ambientação, personagens e alcance da criação”** do [guia](storyboards/guia-de-construcao.md). O padrão de apresentação não exige filme completo em todas as peças: [MM-03](storyboards/MM-03/README.md) é ambientação da casa sem pessoas, enquanto [MM-14](storyboards/MM-14/README.md) é montagem curta de ações simbólicas dos pecados, sem exigir dramatização completa de cada um. Não transforme referências artísticas em requisitos nem retire personagens exigidos de outras peças. Claude, Codex e AntiGravity devem aplicar essa mesma distinção.
 
 O guia de construção e o caderno de quadros são as **diretrizes canônicas de criação visual** para Claude, Codex e demais assistentes. Sua consulta é obrigatória antes de toda criação ou edição de imagem do HESED, incluindo estudos, referências geradas, pranchas e bases definitivas. Aplique o procedimento de consulta e registro do guia antes de acionar qualquer ferramenta de imagem; não dependa apenas do chat ou da memória. Essa autoridade sobre o processo visual não altera a hierarquia das fontes narrativas nem transforma propostas em decisões aprovadas.
 
@@ -72,6 +74,7 @@ Se faltar o briefing do quadro, escreva-o no caderno a partir das fontes antes d
 - 3840×2160 é a referência para imagens-base, não a especificação final dos vídeos. Confira P-01 e o [checklist de aceite](guias/checklist-de-aceite.md); uma revisão no computador não substitui o teste no telão.
 
 Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo, no `CODEX.md` e no `ANTIGRAVITY.md`, evitando cópias divergentes das regras de produção.
+Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo e no `CODEX.md`, evitando cópias divergentes das regras de produção.
 
 ## Tarefas comuns e onde olhar
 
@@ -91,3 +94,9 @@ Se estes procedimentos mudarem, atualize os guias compartilhados e suas referên
 ## Casa da Religiosidade · referência atual
 
 D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM-03/V03.jpg), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.
+
+**Destino de publicação:** por orientação explícita do usuário, integrar e enviar alterações deste repositório para a **main**, preservando commits remotos e sem force-push. Enviar somente para outra branch não conclui a publicação. Verificar o resultado remoto.
+
+**MM-01 · D-21:** única referência oficial [V05](storyboards/MM-01/prancha-v05.jpg), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
+
+**MM-05 · D-24:** única referência oficial [V03](storyboards/MM-05/prancha-v03.jpg), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.

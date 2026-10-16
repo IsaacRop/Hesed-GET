@@ -1,6 +1,6 @@
 # Alinhamento das fontes e decisões · HESED
 
-**Atualização:** 16/10/2026 · Codex, a pedido do usuário (D-14). **Escopo desta etapa:** incorporar a Bíblia, preparar sua consulta pelos agentes e registrar diferenças. Não criar o storyboard ou imagens de MM-01 ainda; o usuário pediu concluir e commitar a documentação primeiro.
+**Atualização:** 16/10/2026 · Codex, a pedido do usuário (D-14). **Escopo desta etapa:** incorporar a Bíblia, preparar sua consulta pelos agentes e registrar diferenças. Naquela etapa o usuário pediu concluir e commitar a documentação antes de criar MM-01. Essa etapa foi concluída; pedido posterior autorizou o storyboard, agora em revisão conforme D-15.
 
 ## Fontes disponíveis e autoridade
 

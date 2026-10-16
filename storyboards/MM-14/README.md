@@ -14,6 +14,15 @@
 | **Controle** | Montagem curta sob fala, sem música própria/timecodes; último estado sustentado até a saída |
 | **Pasta no Drive** | A definir (P-13); nada enviado ao Drive neste trabalho |
 
+## Direção para a próxima revisão · montagem curta dos pecados
+
+- **Função visual:** representar aprisionamento, comportamento destrutivo e a condição anterior das personagens, com uma montagem curta. Não é apenas fundo vazio, mas também não exige uma encenação completa da história de cada personagem.
+- **Gatilho e saída:** entra na recapitulação de como as personagens se aprisionaram nos pecados, na Cena 8. Entrega para MM-15 (Lucas), que entra em “Ele curou, ensinou e perdoou”. Não há material recebido de outra peça especificado na ficha.
+- **Conteúdo conforme o [briefing](../../docs/briefing.md):** ações simbólicas e diretas, como obsessão por status, raiva, mentira, apropriação, isolamento, comparação e desobediência. Podem ser stills animados ou pequenos vídeos com cortes simples.
+- **Evitar ampliação de escopo:** não ilustrar cada pecado de modo literal ou prolongado; não impor um personagem ou uma sequência dramática para cada pecado. Pessoas, gestos ou silhuetas podem ser usados quando comunicarem a ação; a regra da casa sem pessoas não se aplica automaticamente aqui.
+- **Integração:** alinhar ritmo de corte e tratamento de cor com Lucas no MM-15. A passagem precisa comunicar aprisionamento → restauração, com leitura rápida e sem competir com a fala no palco.
+- **Antes de refazer:** consultar o [guia canônico](../guia-de-construcao.md) e registrar/revisar os briefings no [caderno](../briefings-dos-quadros.md). Preservar versões e IDs apresentados na tarefa. Esta anotação prepara a revisão; não representa storyboard ou imagem já refeitos.
+
 ## Conceito em uma frase
 
 Apego, raiva, ocultação e isolamento sintetizam o aprisionamento anterior das personagens e preparam o contraste com a restauração no MM-15.

@@ -1,10 +1,12 @@
 # Briefings dos quadros · HESED
 
-**Padrão:** estrutura das pranchas do Eduardo (Dudu), adotada pelo usuário como referência para os demais storyboards. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
+**Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
 
 **Consulta obrigatória:** este caderno e o guia são as diretrizes canônicas de criação visual. Antes de toda geração ou edição, leia o guia e o briefing atual dos quadros envolvidos e cumpra o procedimento de consulta e registro do guia. Se faltar um briefing, escreva-o antes de gerar. O caráter canônico deste registro não aprova automaticamente os estudos nem substitui as fontes narrativas.
+
+**Escopo antes da imagem:** consulte a seção “Ambientação, personagens e alcance da criação” do guia. As próximas tarefas de [MM-03](MM-03/README.md) e [MM-14](MM-14/README.md) já têm orientações específicas nas fichas: casa sem pessoas; pecados como montagem curta de ações simbólicas, sem ilustrar cada um de forma literal ou prolongada. Acrescente os briefings dos quadros quando essas tarefas forem executadas. Nos estudos existentes, pessoas de MM-10-Q03/Q09/Q10 são escolhas da referência e não exigências do briefing; conferir sua necessidade antes de gerar. As anotações de escopo não renumeram os 46 quadros nem representam imagens novas.
 
 ## Origem e alcance
 
@@ -34,8 +36,11 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## Índice
 
+- [MM-01 · Exterior/entrada da prisão](#mm-01--exteriorentrada-da-prisão)
+
 - [MM-03 · Casa da Religiosidade](#mm-03--casa-da-religiosidade)
 - [MM-04 · Criação perfeita](#mm-04--criação-perfeita)
+- [MM-05 · Queda — silhuetas de luz](#mm-05--queda--silhuetas-de-luz)
 
 - [MM-07 · Nasceu em Belém](#mm-07--nasceu-em-belém)
 - [MM-09 · Profetas](#mm-09--profetas)
@@ -1088,3 +1093,58 @@ Para uma nova peça, seguir o modelo do [guia de construção](guia-de-construca
 ### Reinício oficial da casa · D-13
 
 Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; versões antigas da pasta excluídas. Três estados noturnos serão gerados exclusivamente da mesma referência; registros atuais no contrato MM-03 acima.
+
+
+## MM-01 · Exterior/entrada da prisão
+
+**Versão oficial: V05 · D-21 · 16/10/2026 · Victor · Cena 1.** Escolha explícita do usuário: V05 é a mais adequada; excluir todas as demais. [Imagem oficial](MM-01/prancha-v05.jpg) preservada sem edição. Revisões posteriores e instruções D-17–D-20 foram substituídas; não reaplicá-las sem novo pedido. Imagens/prompts das outras versões excluídos da pasta; seus registros históricos permanecem no Git, não são referência atual.
+
+**Função/fontes:** ambientação da abertura, espera durante falas e retorno após MM-02. Bíblia §§2.2/3/5.2/7.1/9/16, roteiro Cena 1, briefing Bloco I, D-16 e escolha final D-21. Jesus e dez detentas no palco; agentes e viaturas projetados foram expressamente autorizados pelo usuário. Sem cadeia física/correntes/cruz física na abertura. Não duplicar protagonistas no LED.
+
+**Contrato visual:** seguir a V05 como está — prédio penitenciário, duas telas, guarita, pátio/viaturas, agentes, segundo portão de aço, muros laterais com concertina, refletores e luz fria de entardecer. Composição e quantidade dos elementos derivam da imagem aceita, não de correções posteriores. Referência verbal Prison Break, sem foto da série recebida. Não regenerar para “corrigir” a escolha oficial nesta tarefa.
+
+| ID | Referência aceita | Uso/continuidade |
+| --- | --- | --- |
+| MM-01-Q01 | Panorama superior da V05 | Composição geral, abre com cortina e retorna após MM-02 |
+| MM-01-Q02 | Detalhe da guarita/viaturas na V05 | Mesmo arquivo aceito, sem trocar pelo Q02 de versões descartadas |
+| MM-01-Q03 | Detalhe de telas/pátio da V05 | Manter desenho e disposição da imagem oficial |
+| MM-01-Q04 | Acesso/segundo portão da V05 | Manter imagem aceita; não reaplicar edição posterior |
+
+**Movimento/tempo:** detalhes espaciais, não cortes narrativos impostos; câmera fixa/loop discreto a desenvolver. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha pronto.
+
+### Registro da geração V05 e aprovação D-21
+
+- **Geração:** 16/10/2026, Codex, `image_gen.imagegen`, fundo opaco. [Prompt integral efetivamente usado](MM-01/prompt-prancha-v05.txt) preservado. Referência da edição à época: prancha v04, inspecionada; excluída da pasta depois por pedido D-21. Nenhuma foto de viatura foi enviada à ferramenta.
+- **Original:** `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, PNG 1672×941, 2608067 bytes, fora do repositório.
+- **Oficial no repositório:** [prancha-v05.jpg](MM-01/prancha-v05.jpg), JPEG 1672×941, 630218 bytes, conversão de formato sem mudar composição. SHA-256 `c19ac147d9edf5f2c2e760d6f837dd84ca675065d8d6fcad3c66d4f7e0fc722b`; preservado byte a byte na oficialização.
+- **Feedback final:** usuário recusou a v08, escolheu a V05 como a mais adequada e autorizou excluir o restante. Aprovação da referência visual registrada; não implica validação métrica dos detalhes, padronagem oficial dos carros ou ensaio técnico. A ressalva anterior do Codex sobre quantidade não prevalece sobre essa escolha explícita.
+- **Referência de viatura:** URL fornecida pelo usuário retornou 403 e não foi vista; aviso já presente na imagem. Identidade oficial não conferida. Não alterar a imagem aceita por inferência.
+- **Situação:** somente V05 e seu prompt na pasta MM-01, além da ficha. AR próximo de 16:9, não base 4K nem matriz final do LED (P-01). Base limpa, animação, Drive e teste LED pendentes. Sem nova geração nesta oficialização.
+
+
+## MM-05 · Queda — silhuetas de luz
+
+**V03 oficial · seis quadros · Lucas · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](MM-05/prancha-v03.jpg) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
+
+**Fontes:** pedido de aprovação D-24, diretrizes D-22/D-23, briefing v1.0 §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, mapa/dependências e página de Lucas. Transcrição original ainda ausente (P-14).
+
+**Contrato visual aceito:** mesma paisagem da criação MM-04 (árvore à esquerda, água central, margens/pedras/colinas) e dois adultos recorrentes. Corpos irradiam luz intensa no começo; emissão diminui revelando forma física; fundo ganha sombra/peso. Corpo oculto por desfoque, rostos/mãos/gestos legíveis, sem exposição de detalhes íntimos. Q02 entrega, Q03 mordida, Q05 percepção, Q06 desespero com mãos na cabeça, troncos encurvados e olhares mútuos, no ambiente mais sombrio. Aparência/posição/desfoque da V03 aceita são a referência; não restituir roupas ou usar personagens das versões excluídas por inferência.
+
+**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Melissa/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
+
+| ID estável | Estado aceito da V03 | Continuidade/animação futura |
+| --- | --- | --- |
+| MM-05-Q01 · Luz emanante | Duas formas humanas irradiam luz branco-dourada intensa | Entrada na mesma paisagem de MM-04; luz em camadas |
+| MM-05-Q02 · A entrega | Mulher oferece fruto ao homem, brilho ainda forte | Mesmo fruto/personagens; gesto simples |
+| MM-05-Q03 · A mordida | Homem leva fruto à boca e morde, mulher observa | Menos emissão, mais leitura física |
+| MM-05-Q04 · Corpo emergente | Volume humano mais visível, brilho em retração | Mesmo corpo desfocado, rosto/mãos legíveis |
+| MM-05-Q05 · A percepção | Casal se olha percebendo a condição, quase sem luz própria | Transição de expressão para Q06 |
+| MM-05-Q06 · Sombra profunda | Desespero, mãos na cabeça, troncos encurvados, olhares mútuos | Estado sombrio de espera até MM-06; loop a testar |
+
+### Registro da V03 e aprovação D-24
+
+- **Geração:** 16/10/2026 · Codex · `image_gen.imagegen`, fundo opaco; [prompt efetivamente usado](MM-05/prompt-ajuste-desfoque-v03.txt). Única referência da edição à época: prancha v02 inspecionada, depois excluída por pedido D-24. Sem referência externa de ator/áudio. Uma tentativa anterior foi rejeitada sem imagem; seu prompt não rege a imagem aceita e foi retirado da pasta junto da limpeza.
+- **Método entregue:** desfoque opaco sobre áreas já cobertas da referência para ocultar roupa/anatomia, sem gerar nudez; rostos/mãos/gestos preservados. Usuário aprovou o resultado V03 como está.
+- **Original:** `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório.
+- **Arquivo oficial:** [prancha-v03.jpg](MM-05/prancha-v03.jpg), JPEG 1672×941, 666212 bytes; conversão de formato sem mudar composição. SHA-256 `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`, conferido antes/depois da limpeza.
+- **Situação:** aprovação artística explícita, seis quadros; demais versões excluídas da pasta. Não há base limpa/camadas, animação, loop testado, upload Drive ou teste LED. Pequenas variações gerativas não validam continuidade métrica; produção definitiva pede uma base única e teste das costuras MM-04/MM-06. Matriz/fps/codec seguem P-01; prancha próxima de 16:9 não é base 4K. Sem nova geração nesta oficialização.

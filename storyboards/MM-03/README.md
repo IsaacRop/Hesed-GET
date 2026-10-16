@@ -29,3 +29,10 @@ A imagem enviada pelo usuário tinha inscrição antiga “Estudo v07”; seu no
 As versões antigas e as duas variações noturnas erradas foram excluídas da pasta da sala, juntamente com seus prompts. Restam somente a V03 oficial, as três variações novas, os três prompts atuais e esta ficha. Outros storyboards foram preservados.
 
 Na fala, o usuário repetiu “02” no último estado; foi adotada e comunicada a sequência 01/02/03 para distinguir as três iluminações. Para produção, revisar leitura do Salmo 91, detalhes dos objetos, continuidade entre recortes e nível das sombras no painel real.
+
+## Direção de ambientação preservada da main
+
+- O roteiro coloca atrizes e conversa no palco: o telão mostra o ambiente doméstico, sem duplicar Religiosidade, detentas, morador ou silhuetas humanas na projeção.
+- Uma imagem-base com movimento ambiental discreto pode bastar; os detalhes desta prancha são leituras do mesmo espaço, não novos ambientes ou ações para preencher uma grade. Não fixar duração de fala.
+- Mantêm-se entrada após transição da Cena 2, passagem ao MM-04 em “Não tinha dor” e retorno na Cena 4 antes do MM-08. Sem frame técnico de ligação recebido; manter o mesmo ambiente nos retornos.
+- Antes de nova geração, consultar o guia/caderno e a V03 oficial registrada em D-13. Esta diretriz de escopo preserva a anotação remota; os objetos, enquadramentos e iluminação já definidos pelo usuário estão documentados acima.
