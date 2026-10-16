@@ -11,7 +11,7 @@ Este guia é a referência canônica do **processo de criação visual**; o cade
 Antes de cada chamada de geração ou edição:
 
 1. Identifique a peça, os IDs dos quadros envolvidos e a entrega: estudo, prancha ou base individual. Em pranchas, consulte todos os quadros incluídos.
-2. Leia a versão atual deste guia e os briefings correspondentes no caderno, incluindo o contrato visual da peça, os pontos de conferência e os quadros vizinhos necessários à continuidade. Confira as fontes narrativas e as referências reais pertinentes; não substitua essa leitura por lembrança de outra conversa.
+2. Leia a versão atual deste guia e os briefings correspondentes no caderno, incluindo o contrato visual da peça, os pontos de conferência e os quadros vizinhos necessários à continuidade. Confira também a [Bíblia de Produção canônica](../docs/fontes/HESED_Biblia_de_Producao_v0_1.md), o [alinhamento das fontes](../docs/alinhamento-das-fontes.md), os selos de maturidade, as fontes narrativas e as referências reais pertinentes; não substitua essa leitura por lembrança de outra conversa.
 3. Se não houver briefing, registre-o primeiro no caderno com base nos documentos do projeto. Material ausente deve ser identificado como ausente. Se um conflito exigir decisão da equipe, resolva esse ponto antes da imagem afetada; o trabalho independente pode continuar.
 4. Monte o prompt a partir dessas diretrizes, do briefing do quadro e das referências disponíveis. Para edição, confira também a imagem atual e o feedback que motivou a mudança. Uma referência artística não autoriza alterar silenciosamente a cena.
 5. Antes de gerar, informe de forma breve: **“Diretrizes consultadas: guia de construção + caderno, [MM/IDs]; entrega: [tipo]”**, acrescentando outras fontes relevantes. Essa indicação acompanha a conversa/registro, sem virar texto embutido na imagem.
@@ -78,6 +78,12 @@ Antes de desenhar, registre no briefing do quadro: **função visual**, **ação
 - **Texto:** títulos, descrições e timecodes pertencem à prancha. As bases finais saem sem texto; frases eventualmente aprovadas entram depois na edição.
 
 Para imagens-base, a referência documental é **3840×2160**. Isso não define resolução, proporção de exibição, fps ou codec finais dos vídeos (P-01). Se a ferramenta não entregar esse tamanho nativamente, registre o tamanho real e valide a ampliação; não rotule um arquivo menor como 4K.
+
+### Casa da Religiosidade · diretrizes atuais
+
+**D-13 prevalece sobre referências anteriores:** usar somente a [V03 oficial](MM-03/V03.jpg), imagem reenviada pelo usuário com bandejinha sobre renda delicada, relógio à esquerda e menorá à direita. Sem foto ou Bíblia. Cimento queimado na sala, tijolinho na copa, pia à esquerda sob o armário aéreo e cooktop à direita. Mesma casa de classe média brasileira, arco panorâmico suave e desfoque discreto nas extremidades; não recriar cenário ou objetos. Mesa e sofá fora do painel; aparador projetado conforme referência.
+
+V03-01 = noite/todas as luzes internas acesas; V03-02 = noite/somente luz central; V03-03 = noite/todas as luzes internas apagadas, apenas luar. As três foram solicitadas para refazer a série correta. Manter panorama e três detalhes, AR próximo de 16:9, mesmos IDs Q01–Q04 (Q05 não utilizado). Ver [contrato vigente](briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Antigas versões da pasta foram excluídas a pedido do usuário. Não usar V04 ou imagens com porta-retrato. Painel físico ≈6×3 m não define a matriz de saída; validar no LED antes do aceite técnico.
 
 ## 4. Separar imagem de movimento e efeitos
 

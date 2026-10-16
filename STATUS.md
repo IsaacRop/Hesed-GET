@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 12/10/2026 · por Isaac
+**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (V03 oficial e variações refeitas)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -12,18 +12,18 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MM-01 | Exterior/entrada da prisão | 1 | Victor | ⬜ | - | - | - |
 | MM-02 | Flashback de Goel (recap) | 1 | Victor | ⬜ | - | Combinar com Isaac a divisão do arquivo de Goel (P-04) | - |
-| MM-03 | Sala da casa | 2–4 | Victor | ⬜ | - | - | - |
-| MM-04 | Criação perfeita (loop) | 3 | Melissa | ⬜ | - | Definir paleta/imagem-base e passar para Lucas | - |
+| MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
+| MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-04/prancha-v01.jpg), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |
 | MM-05 | Queda (silhuetas de luz) | 3 | Lucas | ⬜ | - | - | MM-04 (paleta) |
 | MM-06 | Retorno temporal → bebê | 3 | Isaac | ⬜ | - | Storyboard dos 4 estágios + loop final do bebê | - |
 | MM-07 | Nasceu em Belém (playback) | 3 | Eduardo | ⬜ | - | Mapear a faixa | MM-06 (frame final) |
 | MM-08 | Maravilhosa Graça / Goel (arquivo) | 4 | Isaac | ⬜ | - | Localizar material bruto de Goel | P-03 |
-| MM-09 | Profetas (loop) | 5 | Melissa | ⬜ | - | - | - |
+| MM-09 | Profetas (loop) | 5 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-09/prancha-v01.jpg), fixar referências e alinhar saída com Eduardo/MM-10 | - |
 | MM-10 | Cristo eterno / universo | 5 | Eduardo | ⬜ | - | - | - |
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
 | MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | ⬜ | - | - | - |
 | MM-13 | Noite, estrela, pastores, anjos | 7 | Eduardo | ⬜ | - | - | P-07 (posição musical) |
-| MM-14 | Resumo dos pecados | 8 | Melissa | ⬜ | - | - | - |
+| MM-14 | Resumo dos pecados | 8 | Melissa | 🎨 | v01 não aprovada | Reformular após estabelecer a casa MM-03, conforme feedback do usuário/D-03 | MM-03 (ambientação) |
 | MM-15 | Vida e atos de Jesus | 8 | Lucas | ⬜ | - | - | - |
 | MM-16A | Filme final: cegueira → visão | 9 | Melissa | ⬜ | - | - | P-05 (gravar atrizes?) |
 | MM-16B | Filme final: prisão → liberdade | 9 | Lucas | ⬜ | - | - | P-05 |

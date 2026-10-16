@@ -8,7 +8,7 @@ Progressão macro do espetáculo: **cotidiano → criação → queda → promes
 
 ## Bloco I
 
-### Cena 1 · Pós-libertação (cadeia sem correntes)
+### Cena 1 · Pós-libertação (exterior da prisão no telão; sem cadeia física)
 
 | Ordem | Gatilho | Telão | Música | Responsável |
 | --- | --- | --- | --- | --- |
@@ -16,6 +16,8 @@ Progressão macro do espetáculo: **cotidiano → criação → queda → promes
 | 2 | Cena congela no meio da discussão ("ENTRA VÍDEO") | **MM-02** flashback de Goel com narração ("vamos voltar um pouquinho na história"). Ao terminar, a cena volta instantaneamente | - | Victor |
 | 3 | "Bora trocar ideia em outro lugar" | ⚠️ sem peça atribuída (P-08) | Quebrando as Correntes | - |
 | 4 | Cortina fechada, retirada de cenário | ? | Fundo tipo elevador/telemarketing | - |
+
+> **Direção consolidada (D-14):** Bíblia v0.1 §§2.2/3/16 substitui a estrutura física da cadeia pelo exterior/entrada/corredor exterior no telão; sem correntes nem cruz física na abertura. O roteiro mantém Jesus saindo pelo corredor central enquanto as detentas aguardam congeladas; depois se levantam. Distinguir esse congelamento do segundo, durante a discussão para MM-02. Ao terminar MM-02, retomar a mesma ambientação de MM-01. A omissão de Quebrando as Correntes na lista musical da Bíblia não confirma retirada (P-08/P-15). Ver [alinhamento das fontes](alinhamento-das-fontes.md).
 
 ### Cena 2 · Transição (sala da casa da Religiosidade)
 

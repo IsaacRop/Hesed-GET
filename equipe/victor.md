@@ -15,9 +15,9 @@
 | --- | --- |
 | **Cena** | 1 · Bloco I |
 | **Gatilho** | Abertura da cortina |
-| **Palco** | Cadeia sem correntes; detentas na mesma posição do fim de Goel; Jesus sai pelo corredor |
+| **Palco** | Sem estrutura física de cadeia, correntes ou cruz na abertura (Bíblia §§2.2/3/16; D-14); detentas na posição do fim de Goel, Jesus sai pelo corredor central |
 
-**Nota do roteiro:** cobre todo o diálogo inicial até o congelamento. Provavelmente loop.
+**Nota do roteiro e direção:** MM-01 é o exterior/entrada da prisão no telão. Na abertura, detentas congeladas aguardam Jesus sair; depois se levantam e debatem. Novo congelamento aciona MM-02; ao terminar o recap, retoma-se o mesmo ambiente. Loop/still a desenvolver com movimento discreto, sem aprovação de duração. Consultar a Bíblia e o [alinhamento](../docs/alinhamento-das-fontes.md) antes do storyboard.
 
 ## MM-02 · Flashback de Goel (recap)
 

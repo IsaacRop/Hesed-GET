@@ -1,39 +1,38 @@
-# Storyboard · MM-03 · Sala da casa
+# MM-03 · Casa da Religiosidade · V03 oficial
 
-| | |
-| --- | --- |
-| **Responsável** | Victor |
-| **Cena** | 2–4 |
-| **Recebe de** | - |
-| **Entrega para** | - |
-| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/victor.md) |
-| **Pasta no Drive** | _a definir (P-13)_ |
+A única composição oficial é a imagem reenviada pelo usuário e registrada em D-13: relógio à esquerda, bandejinha/chaves sobre renda delicada pendendo pela frente ao centro, menorá à direita. Sem foto ou Bíblia. Pia à esquerda sob o armário aéreo e cooktop à direita.
 
-Como preencher: [storyboards/README.md](../README.md).
+## Imagens atuais
 
-## Direção para a próxima criação · ambientação da casa
+| Nome | Iluminação | Arquivo |
+| --- | --- | --- |
+| **V03 oficial** | Referência aprovada da sala, iluminação diurna original | [V03.jpg](V03.jpg) |
+| **V03-01** | Noite, todas as luzes internas acesas | [V03-01.jpg](V03-01.jpg) |
+| **V03-02** | Noite, somente luz central acesa | [V03-02.jpg](V03-02.jpg) |
+| **V03-03** | Noite, luzes internas apagadas, somente luar | [V03-03.jpg](V03-03.jpg) |
 
-- **Função visual:** fundo da sala da casa da Religiosidade, sem pessoas. O [roteiro](../../docs/roteiro.md) coloca as atrizes e a conversa no palco; não projetar outra encenação dessa ação.
-- **Conteúdo:** ambiente doméstico do mundo presente, com composição que amplie o espaço cênico. Não incluir Religiosidade, detentas, morador, figura humana ou silhueta; a linguagem bíblica de outras peças não define a época desta casa.
-- **Execução proporcional:** uma imagem-base com movimento sutil e loop pode bastar. Não criar vários ambientes ou ações para preencher a grade do storyboard. Não fixar duração para acompanhar falas variáveis.
-- **Entradas e saídas:** entra após a transição para a Cena 2; permanece no começo da Cena 3 até “Não tinha dor”, quando entra MM-04 (Melissa); retorna na Cena 4 antes de MM-08 (Isaac). Não há frame de ligação recebido de outro produtor especificado na ficha; preservar o mesmo ambiente nos retornos.
-- **Antes de gerar:** consultar o [guia canônico](../guia-de-construcao.md), especialmente a distinção entre ambientação e narrativa, e registrar o briefing do quadro no [caderno](../briefings-dos-quadros.md). Enquadramento, objetos e iluminação específicos serão definidos na tarefa de criação; esta anotação não representa imagem já criada ou aprovada.
+![V03 oficial](V03.jpg)
 
-## Conceito em uma frase
+A imagem enviada pelo usuário tinha inscrição antiga “Estudo v07”; seu nome oficial atual é **V03**. As três variações novas usam essa imagem diretamente, com bandejinha/renda, preservando a cozinha correta. Não derivam das variações rejeitadas com porta-retrato.
 
+## Diretrizes e registros
 
-## Quadros
+- [Contrato vigente dos quadros Q01–Q04](../briefings-dos-quadros.md#mm-03--casa-da-religiosidade) e [D-13](../../docs/decisoes.md).
+- Prompts efetivamente enviados: [V03-01](prompts/V03-01.txt), [V03-02](prompts/V03-02.txt), [V03-03](prompts/V03-03.txt).
+- Responsável cadastrado: Victor. Cenas documentadas: 2, início da 3 até “Não tinha dor” → MM-04, retorno na 4 até definição de graça → MM-08. Não foram criados cues, durações ou mudanças de responsável.
+- Panorama e três detalhes em cada prancha, arquivos de 1672×941 (aproximadamente 16:9 com arredondamento de pixels). Quatro imagens leves no repositório; originais de geração e metadados reais identificados no caderno.
+- Câmera, enquadramentos, ambientes e objetos devem permanecer iguais; muda o estado de iluminação. Conferência visual feita pelo Codex: bandejinha/renda, ausência de foto/Bíblia, pia/cooktop e contraste entre os três estados verificados.
+- V03 é referência oficial aprovada pelo usuário. V03-01/02/03 são imagens novas para revisão; não houve aceite técnico, teste no telão, animação, render final ou envio ao Drive. Painel ≈6×3 m não define matriz/fps/codec (P-01).
 
-| # | Esboço | O que se vê | Movimento / transição | Quando entra (fala ou tempo da música) |
-| --- | --- | --- | --- | --- |
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+## Limpeza solicitada
 
-## Primeiro e último frame
+As versões antigas e as duas variações noturnas erradas foram excluídas da pasta da sala, juntamente com seus prompts. Restam somente a V03 oficial, as três variações novas, os três prompts atuais e esta ficha. Outros storyboards foram preservados.
 
-- **Primeiro frame** (como começa / o que recebe):
-- **Último frame** (como termina / o que entrega):
+Na fala, o usuário repetiu “02” no último estado; foi adotada e comunicada a sequência 01/02/03 para distinguir as três iluminações. Para produção, revisar leitura do Salmo 91, detalhes dos objetos, continuidade entre recortes e nível das sombras no painel real.
 
-## Notas e feedback
+## Direção de ambientação preservada da main
 
+- O roteiro coloca atrizes e conversa no palco: o telão mostra o ambiente doméstico, sem duplicar Religiosidade, detentas, morador ou silhuetas humanas na projeção.
+- Uma imagem-base com movimento ambiental discreto pode bastar; os detalhes desta prancha são leituras do mesmo espaço, não novos ambientes ou ações para preencher uma grade. Não fixar duração de fala.
+- Mantêm-se entrada após transição da Cena 2, passagem ao MM-04 em “Não tinha dor” e retorno na Cena 4 antes do MM-08. Sem frame técnico de ligação recebido; manter o mesmo ambiente nos retornos.
+- Antes de nova geração, consultar o guia/caderno e a V03 oficial registrada em D-13. Esta diretriz de escopo preserva a anotação remota; os objetos, enquadramentos e iluminação já definidos pelo usuário estão documentados acima.
