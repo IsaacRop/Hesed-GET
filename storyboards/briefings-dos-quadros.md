@@ -1096,7 +1096,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-01 · Exterior/entrada da prisão
 
-**Vigência:** revisão v03/D-16 ao final desta seção prevalece sobre restrições e escolhas v01/v02 abaixo, preservadas como histórico.
+**Vigência:** v08/D-20 corrige só Q02 da v07. V07/D-19 mantém quantidade da v05 e substitui redução v06; preserva alinhamento v04/D-17 e contrato v03/D-16. Essas revisões prevalecem sobre restrições e escolhas v01/v02 abaixo, preservadas como histórico.
 
 **Cena 1 · Victor · Estudo v01 · 16/10/2026.** Pedido atual do usuário autoriza iniciar o storyboard após a incorporação documental D-14; arte ainda não aprovada.
 
@@ -1219,3 +1219,108 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Revisão visual:** prédio e guarita reconhecíveis, duas telas, segundo portão maciço com sentinelas, dois agentes na guarita, externos/viaturas, concertina nos muros laterais e refletores altos. Q03 aproxima bastante a tela. Detalhes não são recortes exatos; especialmente o eixo do segundo portão aparece mais central no panorama e alinhado ao acesso em Q04. Fixar a geografia numa base única antes da animação. Refletores, desenho do uniforme e identidade dos SUVs são estudo gerado, não reprodução técnica/oficial conferida.
 - **Referência recebida durante a geração:** [foto indicada pelo usuário](https://viuitauna.com.br/wp-content/uploads/2022/12/Policia-Penal-Fotos-Divulgacao-Governo-de-Minas-1.jpeg). Tentativas diretas de abrir/baixar via urllib e curl, inclusive execução escalada, retornaram 403. Arquivo não recebido/inspecionado; URL registrada como referência desejada, NÃO como imagem efetivamente usada. O caminho do link contém 2022/12, mas não comprova data da frota ou que seja o modelo mais recente. Necessário receber a imagem anexada para confirmar modelo, cores e brasão. Consulta oficial prévia também bloqueada.
 - **Situação:** estudo v03 entregue, sem aprovação artística, alpha, Drive ou teste LED. Texto na prancha explicita “Viaturas e insígnias: referência oficial a conferir”. Ajuste fiel dos veículos permanece pendente; não alegar tarefa integralmente concluída quanto à identidade visual solicitada.
+
+
+### Revisão MM-01 v04 · D-17
+
+**Pedido:** usuário identifica portão desalinhado no panorama e Q03, mas correto em Q04. Corrigir esses dois quadros usando Q04/v03 como referência espacial. Não é pedido de redesenhar arquitetura, luz, agentes ou veículos.
+
+**Fontes/consulta:** pedido atual/D-17, guia vigente, contrato v03/D-16 e registros anteriores, Bíblia §§2.2/3/7.1, alinhamento, roteiro Cena 1 e briefing Bloco I. V03 inspecionada; única referência visual real desta edição: [prancha-v03.jpg](MM-01/prancha-v03.jpg). Não foi possível abrir a referência externa da viatura; essa pendência permanece, independente deste ajuste.
+
+| ID | Ação v04 | Continuidade/restrição |
+| --- | --- | --- |
+| MM-01-Q01 | Deslocar segundo portão de aço, pilares imediatos e sentinelas para a direita, até o centro do portão coincidir com a entrada principal/eixo do bloco central | Reparar a tela no local antigo; adaptar pavimento imediato. Não mover o prédio para mascarar desalinhamento, nem duplicar portão |
+| MM-01-Q02 | Preservar guarita/viaturas e composição v03 | Sem mudança de figuração, padronagem ou luz |
+| MM-01-Q03 | Pequeno ajuste à direita do segundo portão/pilares/sentinelas, centro alinhado à entrada e torre central | Mesma geografia de Q01/Q04; preservar tela frontal e prédio |
+| MM-01-Q04 | Preservar: referência de alinhamento reconhecida como correta pelo usuário | Centro do portão, entrada principal e torre no mesmo eixo visual; não redesenhar |
+
+**Entrega:** prancha v04 horizontal, mesmos IDs; revisão localizada, mesma ambientação/figuração autorizada em D-16. Luz fria/contida, espera/loop futuro por fala, sem duração medida. Atualizar somente versão no subtítulo. Sem linhas/guias de edição na arte. **Prompt integral:** [prompt-prancha-v04.txt](MM-01/prompt-prancha-v04.txt). V04 gerada ficará pendente de revisão do usuário; não considerar aprovação das viaturas/uniformes nem aceite técnico.
+
+
+### Registro de geração · MM-01 v04 · Q01–Q04
+
+- **Execução:** 16/10/2026 · Codex; primeira tentativa interrompida pelo usuário sem resultado, retomada após novo pedido idêntico.
+- **Consulta:** guia/caderno v04, D-17 e fontes citadas no contrato. **Ferramenta:** `image_gen.imagegen`, fundo opaco, única referência `/workspace/Hesed-GET/storyboards/MM-01/prancha-v03.jpg`, inspecionada. **Prompt efetivo:** [prompt-prancha-v04.txt](MM-01/prompt-prancha-v04.txt).
+- **Original preservado:** `/workspace/generated_images/exec-35f2d4b6-6f1e-41fd-90b9-69103fd6c696.png`, PNG 1672×941, 2660632 bytes. **Repositório:** [prancha-v04.jpg](MM-01/prancha-v04.jpg), JPEG 1672×941, 614961 bytes; somente conversão de formato, não base 4K.
+- **Revisão visual:** segundo portão deslocado para o eixo do bloco principal no panorama e Q03; Q04 mantém leitura do eixo. A ferramenta redesenhou alguns detalhes da fachada mesmo sob instrução de preservação; não afirmar edição pixel a pixel. Sem aprovação integral.
+- **Feedback seguinte do usuário:** inconsistência das viaturas entre panorama e detalhes, ausentes em Q03/Q04; requer viaturas dos dois lados e visibilidade coerente com cada ângulo. V04 é intermediária, revisão v05/D-18 passa a vigente. Padronagem segue provisória; foto externa não vista.
+
+
+### Revisão MM-01 v05 · D-18
+
+**Pedido/origem:** usuário solicita viaturas em ambos os lados e coerência de visibilidade/ângulo entre os quatro quadros. A indicação verbal de lado no detalhe não altera a necessidade: fixar carros no espaço e mostrar os mesmos, sem trocas/ausências arbitrárias. D-18 autoriza correção; quatro SUVs, dois por lado, são proposta de execução, não contagem imposta pelo usuário.
+
+**Fontes/referência:** pedido atual, D-16/D-17/D-18, guia vigente, contratos Q01–Q04 e registro v04, Bíblia/roteiro/briefing e alinhamento consultados na preparação do mesmo ajuste. Única referência visual a enviar: [prancha-v04.jpg](MM-01/prancha-v04.jpg), inspecionada. Foto de viatura do link segue não acessada, sem identidade oficial confirmada.
+
+**Planta artística comum:** câmera fora da penitenciária; primeiro portão aberto/guarita no limite frontal; primeiro pátio com corredor desobstruído conduzindo ao segundo portão de aço e entrada principal. Dois bolsões fixos neste pátio, um de cada lado do corredor, com dois SUVs cada; nenhum veículo atrás do segundo portão. Orientação geral das frentes para fora, mantendo modelos, pintura provisória e posição relativa em todas as vistas. Segundo portão, entrada e bloco central permanecem no eixo corrigido em v04. Mesmas duas telas, muros laterais, concertina, agentes e luz.
+
+| ID | Correção solicitada na v05 | Continuidade/evitar |
+| --- | --- | --- |
+| MM-01-Q01 | Panorama mostra dois SUVs à esquerda e dois à direita do corredor, direita perto da guarita | Quatro veículos identificáveis através da tela; não esconder um par com guarita nem bloquear a via |
+| MM-01-Q02 | Detalhe moderadamente mais aberto da guarita e entrada mostrando ambos os bolsões | Mesmos carros em posições fixas; permitir ocultação parcial plausível, sem eliminar grupo; dois agentes dentro |
+| MM-01-Q03 | Reenquadrar pelo eixo mostrando pares nos dois lados antes da segunda tela/portão | Mesma geometria e alinhamento; não voltar a pátio vazio |
+| MM-01-Q04 | Preservar eixo correto, abrir um pouco o enquadramento para mostrar as viaturas nos dois lados | Carros não mudam de lugar para caber; posições e ocultações compatíveis com Q01/Q02/Q03 |
+
+**Animação/luz:** prancha espacial, sem nova ação ou corte obrigatório, luz fria/contida e futura câmera fixa/loop por fala. Não animar agentes, giroflex ou trânsito. Prancha horizontal 16:9 aproximado, dimensões reais a registrar, sem pressupor saída LED. Manter aviso de viaturas/insígnias a conferir. **Prompt efetivo:** [prompt-prancha-v05.txt](MM-01/prompt-prancha-v05.txt). Aprovação visual pendente; não apresentar modelo ou marca gerados como conferidos com a foto inacessível.
+
+
+### Registro de geração · MM-01 v05 · Q01–Q04
+
+- **Executor/data:** Codex, 16/10/2026. Guia/contrato v05 e D-18 consultados. Ferramenta `image_gen.imagegen`, fundo opaco, referência única [v04](MM-01/prancha-v04.jpg), inspecionada; [prompt efetivo](MM-01/prompt-prancha-v05.txt).
+- **Original:** `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, PNG 1672×941, 2608067 bytes, preservado. **Cópia leve:** [v05](MM-01/prancha-v05.jpg), JPEG 1672×941, 630218 bytes, mesma composição; não base 4K.
+- **Falha identificada pelo Codex:** o panorama ganhou viaturas extras entre os pares laterais, ultrapassando a contagem solicitada no prompt; Q02 não permite conferir os mesmos quatro carros. Melhora presença nos dois lados em Q03/Q04, mas não resolve continuidade. **V05 não recomendada para aprovação; intermediária.** Não houve feedback/aprovação do usuário sobre ela. Repetir correção com quantidade artística simplificada na v06, sem alterar D-18.
+
+### Revisão MM-01 v06 · continuidade D-18
+
+**Objetivo:** concluir correção pedida pelo usuário, preservando alinhamento D-17. Devido a duplicações da ferramenta, substituir proposta de quatro por **duas viaturas no total, uma em cada lado** do corredor. O usuário não fixou quantidade; esta é escolha de execução para reduzir ambiguidades, não nova decisão da equipe. Não alterar o pedido de viaturas dos dois lados.
+
+**Planta/IDs:** mesmos Q01–Q04 e ambiente v04/v05. Veículo A num único bolsão à esquerda do corredor; veículo B num único bolsão à direita, perto/atrás da guarita, ambos dentro do primeiro pátio e antes da segunda tela. Dois veículos iguais aos SUVs provisórios já gerados, mesma posição e orientação em cada vista. Q01 mostra ambos; Q02 abre ângulo em torno da guarita para mostrar B próximo e A do outro lado da via; Q03/Q04 mostram A à esquerda e B à direita em perspectiva. Nenhum terceiro carro, fragmento adicional ou roda solta. Portão maciço no eixo da entrada principal, figurantes e demais elementos preservados. Mesma luz e futuro loop, sem tempo medido.
+
+**Referência visual real:** [v05](MM-01/prancha-v05.jpg), inspecionada; só arquitetura/alinhamento e tipo provisório dos veículos, corrigir a contagem. Fontes: pedido atual/D-18, contrato v05, guia vigente e fontes narrativas já consultadas nesta revisão. **Prompt efetivo:** [prompt-prancha-v06.txt](MM-01/prompt-prancha-v06.txt). Manter aviso de identidade oficial não conferida. Prancha para revisão, não aceite técnico.
+
+
+### Registro de geração · MM-01 v06 · substituída pelo usuário
+
+- **Ferramenta:** `image_gen.imagegen`, fundo opaco; referência única v05 inspecionada, [prompt efetivo](MM-01/prompt-prancha-v06.txt). Original `/workspace/generated_images/exec-cae641d2-54ce-4255-88d1-f510024c7f98.png`, PNG 1672×941, 2577118 bytes, preservado. Cópia [v06](MM-01/prancha-v06.jpg), JPEG 1672×941, 631257 bytes; só conversão de formato.
+- **Feedback durante a execução:** usuário rejeitou a redução e aprovou manter a quantidade vista na v05, pedindo apenas visibilidade coerente em todos os quadros. A geração de duas viaturas já estava em execução e terminou antes da tentativa de interrupção. **V06 não vigente, não aprovada; não usar como referência para nova edição.** Não insistir na redução.
+
+### Revisão MM-01 v07 · D-19
+
+**Pedido vigente:** preservar a quantidade da v05, que agradou ao usuário; corrigir apenas enquadramentos e continuidade das viaturas. V06 e a proposta de reduzir frota foram substituídas explicitamente. Manter alinhamento D-17.
+
+**Referência:** [prancha-v05.jpg](MM-01/prancha-v05.jpg) já inspecionada, única imagem a enviar; **panorama Q01 é a planta espacial de referência**, sem modificar seus carros. Contagem visual adotada pelo Codex: seis SUVs no panorama, três à esquerda e três à direita do eixo do segundo portão, alguns parcialmente ocultos. Contagem derivada da imagem, não número pronunciado pelo usuário. Preservar esses carros em seus lugares, com mesmas orientações/escala relativa. Não usar a v06 reduzida.
+
+| ID | Correção v07 | Conferência |
+| --- | --- | --- |
+| MM-01-Q01 | Preservar integralmente panorama v05, inclusive quantidade e posição dos carros | Não remover/adicionar viatura, manter portão no eixo da entrada |
+| MM-01-Q02 | Abrir campo de visão e reposicionar apenas a câmera do detalhe, vendo guarita e os dois grupos estacionados | Pode colocar guarita mais ao centro/direita para caber o grupo do lado oposto; nunca mover carro para fingir continuidade |
+| MM-01-Q03 | Abrir detalhe para caber os mesmos três carros em cada lado do corredor | Mesmos bolsões, distâncias, veículo parcialmente oculto ainda identificável |
+| MM-01-Q04 | Preservar eixo certo, abrir campo para os mesmos dois grupos | Sem novos carros ou troca de lados; via livre até o portão interno |
+
+**Contrato comum:** mesmos edifício, duas telas, agentes, refletores, muros/concertina e luz. Prancha espacial em câmera fixa, loop futuro sem duração medida. Viaturas/insígnias continuam provisórias, referência externa não acessada; manter aviso na prancha. Fontes: pedido atual/D-19, D-16–D-18, guia atualizado, caderno e fontes narrativas já consultadas nesta sequência. **Prompt efetivo:** [prompt-prancha-v07.txt](MM-01/prompt-prancha-v07.txt). Próxima imagem para revisão, sem aceite automático.
+
+
+### Registro de geração · MM-01 v07 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex, D-17/D-18/D-19. Guia atualizado e contrato v07 consultados antes da chamada.
+- **Ferramenta:** `image_gen.imagegen`, fundo opaco; referência única `/workspace/Hesed-GET/storyboards/MM-01/prancha-v05.jpg`, inspecionada. Não foi usada a v06 reduzida ou foto oficial de viatura. **Prompt integral:** [prompt-prancha-v07.txt](MM-01/prompt-prancha-v07.txt).
+- **Original preservado:** `/workspace/generated_images/exec-478c3adc-f740-43cd-a853-0fb4e9e23d9f.png`, PNG 1672×941, 2625964 bytes, fora do repositório. **Cópia leve:** [prancha-v07.jpg](MM-01/prancha-v07.jpg), JPEG 1672×941, 645752 bytes; mesma composição, apenas conversão de formato. AR próximo de 16:9, não base 4K nem matriz final do LED.
+- **Revisão visual:** panorama mantém frota da v05 e eixo do portão corrigido na v04. Grupos de veículos presentes dos dois lados em Q02/Q03/Q04, com três por lado na leitura dos detalhes. Q02 abriu o campo e colocou a guarita mais central no enquadramento. A ferramenta reenquadrou/redesenhou os detalhes; não são projeções de um modelo 3D validado nem recortes pixel a pixel. Relações exatas de escala/distância, oclusões e padronagem precisam de revisão antes de extrair bases definitivas. Evitar afirmar continuidade métrica comprovada.
+- **Feedback/situação:** usuário aprovou preservar a quantidade da v05, não aprovou automaticamente a v07. V07 entregue para revisão, sem alpha/Drive/ensaio LED. Viaturas e insígnias continuam explicitamente provisórias até receber foto acessível; link fornecido retornou 403. V06 reduzida fica histórica e substituída por D-19.
+
+
+### Revisão MM-01 v08 · D-20
+
+**Feedback/origem:** usuário aprovou a leitura de Q01/Q03/Q04 da v07 e identificou entrada extra indevida à esquerda do Q02. Ali deve ser tela contínua, como no panorama. Isso não aprova identidade oficial das viaturas ou matriz técnica.
+
+**IDs e escopo:** editar apenas MM-01-Q02, removendo folha aberta/abertura de portão no limite esquerdo e recompondo tela de malha losangular com pilares de concreto na perspectiva correspondente. Preservar guarita, acesso real à direita, seis viaturas, posições, figuração, luz e prédio. **Q01/Q03/Q04 preservados**, incluindo eixo do segundo portão corrigido. Alterar apenas versão no subtítulo para v08. Sem novas aberturas, portões ou reorganização do pátio. Animação futura e controle por fala sem alteração.
+
+**Consulta:** guia vigente, D-20/pedido atual, contratos D-16–D-19 e registros v07, Bíblia/roteiro/briefing e alinhamento já consultados nesta sequência de correções. **Referência real:** [prancha-v07.jpg](MM-01/prancha-v07.jpg), inspecionada, única referência a enviar. **Prompt integral:** [prompt-prancha-v08.txt](MM-01/prompt-prancha-v08.txt). Nova imagem depende de revisão específica de Q02; não estender aprovação automaticamente. Manter aviso de padronagem/insígnias provisórias.
+
+
+### Registro de geração · MM-01 v08 · correção Q02
+
+- **Execução:** 16/10/2026 · Codex. Guia/caderno v08, D-20 e referências citadas consultados. Ferramenta `image_gen.imagegen`, fundo opaco, única referência `/workspace/Hesed-GET/storyboards/MM-01/prancha-v07.jpg`, inspecionada. **Prompt efetivo:** [prompt-prancha-v08.txt](MM-01/prompt-prancha-v08.txt).
+- **Original preservado:** `/workspace/generated_images/exec-f7aa129d-df5b-4f2d-a78b-50b83860f5dc.png`, PNG 1672×941, 2524362 bytes, fora do repositório. **Cópia no repositório:** [prancha-v08.jpg](MM-01/prancha-v08.jpg), JPEG 1672×941, 603513 bytes, apenas conversão de formato. Não é base 4K ou matriz técnica do LED.
+- **Revisão visual:** folha de portão extra à esquerda de Q02 removida e substituída por malha metálica/pilar; guarita e frota mantidas na composição. Demais três quadros mantêm o desenho geral aceito, eixo do portão e grupos de viaturas, com pequenas variações de textura/redesenho próprias da edição generativa; não afirmar identidade pixel a pixel. Continuidade técnica de câmera/escala ainda depende de base final e revisão, sem modelo 3D validado.
+- **Aprovação/limites:** usuário considerou Q01/Q03/Q04 da v07 corretos, não aprovou automaticamente a correção Q02/v08 nem padronagem oficial dos veículos. V08 para revisão. Foto externa segue inacessível; preservar aviso. Sem alpha, upload Drive ou teste LED.

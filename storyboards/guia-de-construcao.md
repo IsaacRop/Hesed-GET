@@ -81,6 +81,12 @@ Para imagens-base, a referência documental é **3840×2160**. Isso não define 
 
 ### Prisão · MM-01 · diretrizes atuais
 
+**Complemento D-20:** Q01/Q03/Q04 da v07 foram considerados corretos pelo usuário. Corrigir só Q02: remover entrada extra à esquerda e recompor tela contínua/pilares, sem inventar acesso. Preservar frota e demais quadros; ver [v08](briefings-dos-quadros.md#revisão-mm-01-v08--d-20).
+
+**Complementos D-18/D-19:** manter quantidade e posições das viaturas do panorama v05, que agradaram ao usuário. V06 com frota reduzida foi recusada; não reutilizá-la. Corrigir somente as vistas dos detalhes, abrindo/reposicionando a câmera para mostrar os mesmos grupos dos dois lados, com ocultações coerentes, sem carros trocando de lugar. Ver [contrato v07](briefings-dos-quadros.md#revisão-mm-01-v07--d-19).
+
+**Complemento D-17:** Q04/v03 é a referência correta de eixo. Em Q01 e Q03, alinhar o centro do segundo portão à entrada principal/bloco central da penitenciária, preservando o prédio e demais elementos. Ver [revisão v04](briefings-dos-quadros.md#revisão-mm-01-v04--d-17).
+
 **D-16 prevalece sobre a arquitetura de D-15:** manter prédio penitenciário e guarita da v02; duas cercas frontais de **tela metálica**, muros só nas laterais com concertina, segundo portão de **aço maciço** no acesso ao fundo, refletores altos voltados para fora. Guarita contígua ao portão externo, viaturas no primeiro pátio atrás/ao lado dela. **Figuração projetada agora expressamente autorizada:** dois agentes na guarita, agentes externos e sentinelas no segundo portão, todos da Polícia Penal de Minas Gerais; não duplicar Jesus/detentas do palco. Modelos, padronagem e insígnias atuais das viaturas exigem referência oficial; sem acesso à fonte, marcar estudo provisório, não reprodução conferida. Consultar [revisão v03 no caderno](briefings-dos-quadros.md#revisão-mm-01-v03--d-16). Mesmos IDs Q01–Q04. Telas são projetadas, não estrutura física no palco. Referência verbal Prison Break mantida para arquitetura. Arte resultante depende de avaliação.
 
 ### Casa da Religiosidade · diretrizes atuais
