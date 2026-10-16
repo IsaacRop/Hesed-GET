@@ -27,6 +27,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Usar IA (Claude, Codex, AntiGravity, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) · [ANTIGRAVITY.md](ANTIGRAVITY.md) |
 
 Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVITY.md antes de executar a tarefa e siga as diretrizes canônicas indicadas nesses arquivos.”** Não presuma que o nome do arquivo, sozinho, garante sua leitura automática.
+| Usar IA (Claude, Codex, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) |
 
 ## Equipe
 
