@@ -1,0 +1,21 @@
+Editar SOMENTE a iluminação e os rótulos de identificação da prancha oficial anexada. O usuário confirmou ESTA IMAGEM como única referência da sala, denominada V03. Não usar nenhuma outra versão.
+
+PRESERVAÇÃO OBRIGATÓRIA, EM TODOS OS QUATRO PAINÉIS:
+Mesma casa de classe média brasileira, mesma arquitetura/perspectiva em arco suave, mesmos enquadramentos, cimento queimado na parede central, Salmo 91 na mesma moldura, tijolinho na cozinha, mesmas duas portas à esquerda nas mesmas posições e estados de abertura, janela, geladeira, armários e bancada.
+Sobre o aparador, manter EXATAMENTE: RELÓGIO À ESQUERDA; BANDEJINHA DE CHAVES AO CENTRO SOBRE RENDA CLARA FINA E DELICADA QUE CAI PELA FRENTE; MENORÁ À DIREITA. Manter bandejinha, chaves, trama vazada e bordas delicadas da renda. NENHUM PORTA-RETRATO, NENHUMA FOTO DE FAMÍLIA, NENHUMA BÍBLIA.
+Na cozinha, manter a PIA COM TORNEIRA À ESQUERDA SOB O ARMÁRIO AÉREO e COOKTOP À DIREITA. NÃO remover cooktop nem voltar a pia à posição antiga.
+Não trocar objetos, não adicionar móveis, não criar pessoas. Não alterar câmera, perspectiva, blur das pontas, escala, quantidade de painéis, posição dos elementos, espessura da renda ou texto do quadro da parede.
+Manter prancha horizontal 16:9, um panorama grande superior e três detalhes inferiores, exatamente como referência. As legendas editoriais externas às vistas permanecem legíveis, fundo azul-noturno e fios dourados. Iluminação muda dentro dos painéis, não a exposição da prancha inteira.
+
+VARIAÇÃO SOLICITADA: V03-02 — NOITE — SOMENTE LUZ CENTRAL ACESA
+Manter APENAS A LUZ CENTRAL DA SALA ACESA, quente, sobre parede do Salmo 91 e aparador, sem nova luminária/holofote visível. Apagar a lâmpada esquerda, a luz interna do cômodo da porta entreaberta e a lâmpada da cozinha. Porta continua entreaberta, mas SEM LUZ quente na fresta. Laterais em penumbra com textura ainda reconhecível; centro nitidamente mais claro e quente. Janela da cozinha com noite azul profunda do lado de fora e LUAR FRIO SUAVE entrando, refletindo um pouco na bancada/piso. Cozinha eletricamente apagada, sem luz de dia ou chama na menorá. Aplicar o mesmo em Q01 panorama, Q02 portas escuras, Q03 centro quente aceso COM RENDA/BANDEJINHA e Q04 cozinha com luar, lâmpada desligada. Não escurecer toda a casa uniformemente: somente o centro fica aceso.
+
+IDENTIFICAÇÃO E LEGENDAS:
+Cabeçalho: "HESED • MM-03 | V03-02"
+Subtítulo: "NOITE — SOMENTE LUZ CENTRAL ACESA • Mesma composição da V03 oficial • 16:9"
+Manter IDs e títulos de cada painel: MM-03-Q01 PANORAMA; MM-03-Q02 PORTAS À ESQUERDA; MM-03-Q03 ESTAR CENTRAL; MM-03-Q04 COPA À DIREITA.
+Legenda central Q03: "Relógio • Bandejinha sobre renda delicada • Menorá".
+Legenda Q04: "Pia sob o armário aéreo • Cooktop à direita".
+Rodapé: "V03-02 • Variação de iluminação • Referência oficial com renda"
+"Estudo para revisão • Câmera fixa • 16:9"
+Substituir qualquer inscrição antiga Estudo v07 por V03-02; não alterar a composição aceita. Gerar somente esta variação, não criar comparação ou colagem adicional.

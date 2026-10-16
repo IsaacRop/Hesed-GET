@@ -1,0 +1,21 @@
+Editar SOMENTE a iluminação e os rótulos de identificação da prancha oficial anexada. O usuário confirmou ESTA IMAGEM como única referência da sala, denominada V03. Não usar nenhuma outra versão.
+
+PRESERVAÇÃO OBRIGATÓRIA, EM TODOS OS QUATRO PAINÉIS:
+Mesma casa de classe média brasileira, mesma arquitetura/perspectiva em arco suave, mesmos enquadramentos, cimento queimado na parede central, Salmo 91 na mesma moldura, tijolinho na cozinha, mesmas duas portas à esquerda nas mesmas posições e estados de abertura, janela, geladeira, armários e bancada.
+Sobre o aparador, manter EXATAMENTE: RELÓGIO À ESQUERDA; BANDEJINHA DE CHAVES AO CENTRO SOBRE RENDA CLARA FINA E DELICADA QUE CAI PELA FRENTE; MENORÁ À DIREITA. Manter bandejinha, chaves, trama vazada e bordas delicadas da renda. NENHUM PORTA-RETRATO, NENHUMA FOTO DE FAMÍLIA, NENHUMA BÍBLIA.
+Na cozinha, manter a PIA COM TORNEIRA À ESQUERDA SOB O ARMÁRIO AÉREO e COOKTOP À DIREITA. NÃO remover cooktop nem voltar a pia à posição antiga.
+Não trocar objetos, não adicionar móveis, não criar pessoas. Não alterar câmera, perspectiva, blur das pontas, escala, quantidade de painéis, posição dos elementos, espessura da renda ou texto do quadro da parede.
+Manter prancha horizontal 16:9, um panorama grande superior e três detalhes inferiores, exatamente como referência. As legendas editoriais externas às vistas permanecem legíveis, fundo azul-noturno e fios dourados. Iluminação muda dentro dos painéis, não a exposição da prancha inteira.
+
+VARIAÇÃO SOLICITADA: V03-03 — NOITE — TODAS AS LUZES INTERNAS APAGADAS
+APAGAR TODA A ILUMINAÇÃO ELÉTRICA INTERNA, incluindo a luz CENTRAL DA SALA, lâmpada esquerda, lâmpada da cozinha e luz no cômodo atrás da porta entreaberta. Nenhuma fonte quente/âmbar central ou luz na fresta. Todas as lâmpadas sem brilho e menorá sem chamas. A ÚNICA FONTE É LUAR FRIO SUAVE entrando pela janela da cozinha, com exterior noturno azul profundo. Reflexos discretos de caixilho sobre bancada/piso à direita; reflexão fraca e indireta alcança o centro e deixa RENDA/BANDEJINHA, relógio e menorá apenas sutilmente legíveis. Penumbra mais profunda à esquerda. Centro agora apagado, não manter foco dourado. Casa inteira em penumbra natural com formas/contornos ainda perceptíveis, sem preto absoluto, névoa ou exposição de dia. Aplicar em todos os quatro painéis: Q01 panorama todo apagado, Q02 portas escuras, Q03 estar apagado com reflexo de luar e Q04 cozinha somente com luar.
+
+IDENTIFICAÇÃO E LEGENDAS:
+Cabeçalho: "HESED • MM-03 | V03-03"
+Subtítulo: "NOITE — TODAS AS LUZES INTERNAS APAGADAS • Mesma composição da V03 oficial • 16:9"
+Manter IDs e títulos de cada painel: MM-03-Q01 PANORAMA; MM-03-Q02 PORTAS À ESQUERDA; MM-03-Q03 ESTAR CENTRAL; MM-03-Q04 COPA À DIREITA.
+Legenda central Q03: "Relógio • Bandejinha sobre renda delicada • Menorá".
+Legenda Q04: "Pia sob o armário aéreo • Cooktop à direita".
+Rodapé: "V03-03 • Variação de iluminação • Referência oficial com renda"
+"Estudo para revisão • Câmera fixa • 16:9"
+Substituir qualquer inscrição antiga Estudo v07 por V03-03; não alterar a composição aceita. Gerar somente esta variação, não criar comparação ou colagem adicional.

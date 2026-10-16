@@ -10,6 +10,9 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 
 | Se você quer... | Abra |
 | --- | --- |
+| Ver o storyboard oficial da queda | [MM-05 · V03 oficial](storyboards/MM-05/README.md) |
+| Ver a versão oficial da prisão | [MM-01 · V05 oficial](storyboards/MM-01/README.md) |
+| Ver as imagens oficiais da sala e variações noturnas | [MM-03 · V03 oficial e V03-01/02/03](storyboards/MM-03/README.md) |
 | Saber como está o projeto agora | [STATUS.md](STATUS.md) |
 | Ver só as suas tarefas | [equipe/](equipe/) → seu nome |
 | Entender o que acontece em cada cena e quando cada vídeo entra | [docs/mapa-de-cenas.md](docs/mapa-de-cenas.md) |
@@ -17,6 +20,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Ver o que ainda não foi decidido | [docs/pendencias.md](docs/pendencias.md) |
 | Ver o que já foi decidido (e por quem) | [docs/decisoes.md](docs/decisoes.md) |
 | Entender a linguagem visual e o vocabulário (loop, still, conform...) | [docs/visao-geral.md](docs/visao-geral.md) |
+| Consultar direção/cenografia e cruzamento da reunião | [Bíblia de Produção canônica](docs/fontes/HESED_Biblia_de_Producao_v0_1.md) · [alinhamento das fontes](docs/alinhamento-das-fontes.md) · [origem dos documentos](docs/fontes/README.md); transcrição original ainda não recebida |
 | Ler o roteiro ou o briefing completos | [docs/roteiro.md](docs/roteiro.md) · [docs/briefing.md](docs/briefing.md) · originais em [docs/fontes/](docs/fontes/) |
 | Montar ou ver o storyboard de uma peça | [storyboards/](storyboards/) → código da peça |
 | Criar ou editar imagens do HESED | Consulta obrigatória ao [guia canônico](storyboards/guia-de-construcao.md) e ao [briefing do quadro](storyboards/briefings-dos-quadros.md) antes da geração |
@@ -24,6 +28,9 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Saber como nomear, exportar e entregar arquivos | [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md) |
 | Conferir se uma peça está pronta | [guias/checklist-de-aceite.md](guias/checklist-de-aceite.md) |
 | Nunca usou GitHub | [guias/como-usar-este-repo.md](guias/como-usar-este-repo.md) |
+| Usar IA (Claude, Codex, AntiGravity, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) · [ANTIGRAVITY.md](ANTIGRAVITY.md) |
+
+Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVITY.md antes de executar a tarefa e siga as diretrizes canônicas indicadas nesses arquivos.”** Não presuma que o nome do arquivo, sozinho, garante sua leitura automática.
 | Usar IA (Claude, Codex, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) |
 
 ## Equipe
@@ -51,6 +58,8 @@ hesed-producao/
 ├── README.md              ← você está aqui
 ├── STATUS.md              ← painel de andamento de todas as peças
 ├── CLAUDE.md              ← harness: contexto para assistentes de IA
+├── CODEX.md               ← orientações complementares para o Codex
+├── ANTIGRAVITY.md         ← orientações complementares para o AntiGravity
 ├── AGENTS.md              ← aponta para o CLAUDE.md (outras ferramentas de IA)
 ├── docs/
 │   ├── visao-geral.md     ← linguagem visual, progressão, glossário

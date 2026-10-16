@@ -1,0 +1,39 @@
+Crie uma PRANCHA DE STORYBOARD profissional e cinematográfica para o musical HESED 2026, MM-04 — CRIAÇÃO PERFEITA, responsável Melissa, Cena 3. Entrega: estudo visual v01, não base final. Uma prancha única em alta definição, composição horizontal, quatro quadros panorâmicos 16:9 grandes em grade 2 por 2, ordenados de leitura Q01, Q02, Q03, Q04. Fundo editorial azul-noturno, linhas finas e títulos brancos com detalhes dourados. Tipografia portuguesa muito legível. Imagens ocupam a maior parte da prancha; anotações ficam FORA das imagens, em faixas abaixo de cada painel. Layout sóbrio e claro, sem waveform, sem timecodes, sem durações inventadas.
+
+Cabeçalho exato: "HESED • MM-04" e "CRIAÇÃO PERFEITA". Subtítulo: "Melissa • Cena 3 • Storyboard v01 • Proposta".
+
+CONTEÚDO VISUAL DOS QUATROS: Os quatro painéis mostram a MESMA paisagem realista e cinematográfica, reverente e acolhedora. Um rio calmo curva do fundo central para o primeiro plano, árvore de copa ampla à esquerda, margem gramada com arbustos discretos à direita e colinas baixas ao fundo. Horizonte abaixo do meio, céu azul suave com nuvens brancas delicadas, luz natural branca e dourada vindo do alto à direita. Manter a árvore, a curva do rio, o horizonte, as colinas e a direção da luz consistentes em todos os painéis. Centro arejado, poucas formas legíveis à distância, profundidade natural; verdes moderados em apoio, dourado e branco na luz, claros com textura e sombras abertas. Sensação de plenitude, harmonia, mundo vivo, ainda antes da queda. Beleza natural delicada e crível, sem estética de fantasia ou videogame. Nenhuma pessoa, nenhuma construção, sem anjos, cruz, fruto, serpente, violência, animais protagonistas ou efeitos espetaculares. Não ilustrar os dias da criação. O telão sustenta os atores e a dança.
+
+Q01 — PLENITUDE: grande plano geral ao nível dos olhos da paisagem descrita, rio e céu abertos, árvore à esquerda, espaço central limpo.
+Texto na faixa abaixo:
+"MM-04-Q01 • PLENITUDE"
+"Imagem: céu, água e vegetação em harmonia."
+"Mov.: aproximação lenta • Efeito: reflexos suaves."
+"Gatilho: «Não tinha dor»."
+
+Q02 — VIDA EM MOVIMENTO: exatamente a mesma paisagem com reenquadramento apenas levemente mais próximo; rio, árvore e colinas reconhecíveis, reflexos naturais e folhas iluminadas. Não mudar de câmera para outra margem, não inventar cachoeira ou nova geografia.
+Texto na faixa:
+"MM-04-Q02 • VIDA EM MOVIMENTO"
+"Imagem: a mesma paisagem, um pouco mais próxima."
+"Mov.: zoom sutil • Efeito: água e folhas discretas."
+"Música: Há Muito Tempo Atrás • Apoio à dança."
+
+Q03 — HARMONIA SUSTENTADA: a mesma vista e eixo de Q02, composição serena, com pequena variação natural de luz, mantendo a paisagem clara. Nenhum acontecimento novo e nenhum escurecimento. A queda não começa aqui.
+Texto na faixa:
+"MM-04-Q03 • HARMONIA SUSTENTADA"
+"Imagem: mundo íntegro; centro visual arejado."
+"Mov.: sustentação e retorno suave • Efeito: luz natural."
+"Fala: «Como isso aconteceu?» • Loop continua."
+
+Q04 — RETORNO E COSTURA: retornar à composição aberta de Q01; repetir a posição exata da árvore, rio, horizonte, colinas e incidência de luz, ainda luminosa e harmônica. Este quadro é o estado aberto do ciclo e referência de continuidade, não mostrar a queda.
+Texto na faixa:
+"MM-04-Q04 • RETORNO E COSTURA"
+"Imagem: volta ao plano aberto, ainda luminoso."
+"Mov.: concluir retorno • Efeito: luz preservada."
+"Saída: «escolheu viver longe de Deus» → MM-05."
+
+Rodapé legível com quatro pequenas amostras cromáticas (branco quente, dourado suave, azul do céu, verde natural) e rótulo "PALETA PROPOSTA".
+Linha de rodapé: "LOOP: Q01 → Q02 → Q03 → Q04 → Q01 • Saída pela fala, em qualquer fase."
+Segunda linha: "Uma paisagem-base • Entrega a Lucas/MM-05: base + paleta • Tempos a definir no ensaio."
+Última nota discreta: "Estudo para revisão • A queda começa no MM-05."
+Preservar uma leitura simples e elegante, sem texto dentro das vistas de natureza. As quatro imagens representam estados sutis de UMA base animável, não quatro locais diferentes.

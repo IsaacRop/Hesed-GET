@@ -1,10 +1,12 @@
 # Briefings dos quadros · HESED
 
-**Padrão:** estrutura das pranchas do Eduardo (Dudu), adotada pelo usuário como referência para os demais storyboards. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
+**Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
 
 **Consulta obrigatória:** este caderno e o guia são as diretrizes canônicas de criação visual. Antes de toda geração ou edição, leia o guia e o briefing atual dos quadros envolvidos e cumpra o procedimento de consulta e registro do guia. Se faltar um briefing, escreva-o antes de gerar. O caráter canônico deste registro não aprova automaticamente os estudos nem substitui as fontes narrativas.
+
+**Escopo antes da imagem:** consulte a seção “Ambientação, personagens e alcance da criação” do guia. As próximas tarefas de [MM-03](MM-03/README.md) e [MM-14](MM-14/README.md) já têm orientações específicas nas fichas: casa sem pessoas; pecados como montagem curta de ações simbólicas, sem ilustrar cada um de forma literal ou prolongada. Acrescente os briefings dos quadros quando essas tarefas forem executadas. Nos estudos existentes, pessoas de MM-10-Q03/Q09/Q10 são escolhas da referência e não exigências do briefing; conferir sua necessidade antes de gerar. As anotações de escopo não renumeram os 46 quadros nem representam imagens novas.
 
 ## Origem e alcance
 
@@ -34,9 +36,17 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## Índice
 
+- [MM-01 · Exterior/entrada da prisão](#mm-01--exteriorentrada-da-prisão)
+
+- [MM-03 · Casa da Religiosidade](#mm-03--casa-da-religiosidade)
+- [MM-04 · Criação perfeita](#mm-04--criação-perfeita)
+- [MM-05 · Queda — silhuetas de luz](#mm-05--queda--silhuetas-de-luz)
+
 - [MM-07 · Nasceu em Belém](#mm-07--nasceu-em-belém)
+- [MM-09 · Profetas](#mm-09--profetas)
 - [MM-10 · Cristo eterno / universo / criação](#mm-10--cristo-eterno--universo--criação)
 - [MM-13 · Noite, estrela, pastores e anjos](#mm-13--noite-estrela-pastores-e-anjos)
+- [MM-14 · Resumo dos pecados](#mm-14--resumo-dos-pecados)
 - [MM-16D · Morte → ressurreição](#mm-16d--morte--ressurreição)
 
 ## MM-07 · Nasceu em Belém
@@ -723,6 +733,348 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 > Crie uma única imagem-base individual para MM-16D-Q12, HESED, Cena 9: Paisagem ampla ao nascer da luz, horizonte aberto, caminhos e colinas; ausência de nova trama e espaço para o clímax de palco. Grande plano geral com camadas de terreno e horizonte baixo; centro luminoso sem texto embutido. Iluminação e cor: dourado e branco quente no máximo relativo acordado, sem perder textura nem apagar palco. Estilo realista e cinematográfico, reverente, textura natural e leitura clara no telão. Preserve margem para reenquadramento. Sem texto, timecode, moldura, grade ou colagem. Evite: fim seco independente, letreiro final não solicitado, impor fade ou duração ao master de Lucas.
 
+## MM-04 · Criação perfeita
+
+**Cena:** 3 · Bloco II. **Responsável:** Melissa. **Ficha-resumo:** [MM-04/README.md](MM-04/README.md).
+
+**Situação:** proposta de storyboard v01, 16/10/2026, preparada pelo Codex a pedido do usuário. Sem aprovação artística ou técnica presumida. Dudu/Eduardo fora desta produção: o usuário informou que seus storyboards já foram feitos; os registros anteriores foram preservados.
+
+**Fontes conferidas:** briefing v1.0, seção 8/MM-04 e seção 11/MM-05, inclusive DOCX original; roteiro, Cena 3, inclusive PDF original; decisões (somente D-00 aprovada entre as aplicáveis), mapa de cenas, dependências, página de Melissa, fichas MM-04/MM-05, guia de construção e checklist de aceite.
+
+**Função, gatilho e costuras:** mundo perfeito, harmônico, vivo e luminoso antes da queda. Entra em “Não tinha dor”, acompanha Há Muito Tempo Atrás (Crianças Diante do Trono) e a fala posterior de Adultério, até “Deu errado quando o ser humano escolheu viver longe de Deus”. Recebe narrativamente a sala MM-03 de Victor, sem frame de ligação disponibilizado; a ficha anterior não indicava fornecedor. Entrega imagem-base, paleta e estado de saída ao Lucas/MM-05. Não antecipa a queda.
+
+**Controle:** loop de ambientação com duração variável; não é playback com cortes cronometrados. Os quatro quadros são estados de uma mesma base, não quatro ambientes nem quatro bases obrigatórias. Ordem proposta: Q01 → Q02 → Q03 → Q04 → Q01, reversível e repetível; saída para MM-05 a partir do estado corrente, sem obrigar atores a esperar Q04. Não inventar timecodes ou duração musical.
+
+**Contrato visual proposto:** paisagem natural realista e cinematográfica; rio calmo curvando do fundo central para o primeiro plano, árvore de copa ampla à esquerda, margem gramada e arbustos discretos à direita, colinas baixas ao fundo. Horizonte abaixo do meio; centro arejado. Luz natural branca e dourada do alto à direita, céu azul suave, verde natural de apoio sem dominar a identidade. Claros com textura, sombras abertas; plenitude sem brilho máximo de final de espetáculo. Sem pessoas, animais protagonistas, construções, fruto, serpente ou representação dos dias da criação. Preservar desenho do rio, árvore, colinas e direção da luz em todos os estados. Na produção, usar uma base piloto para reenquadramento e ajustes de luz, evitando regenerar geografia.
+
+**Referências reais disponíveis:** documentação textual e fontes originais. As pranchas do Dudu são descritas no caderno, mas seus arquivos visuais não estão no checkout nem anexados a este chat; não foram usadas como imagens de referência. Áudio master, base aceita e frame de Victor não recebidos. Bíblia de Produção v0.1 não disponível. A prancha é um estudo; bases individuais posteriores têm referência de 3840×2160, sem presumir esse tamanho para o estudo.
+
+### MM-04-Q01 · Plenitude
+
+- **Situação e origem:** proposta v01, baseada nas fontes do MM-04 acima; aprovação pendente.
+- **Função narrativa e gatilho:** Apresentar harmonia na fala “Não tinha dor”.
+- **Imagem-base / instante:** Grande plano geral ao nível dos olhos: rio calmo, árvore à esquerda e horizonte aberto.
+- **Composição:** Enquadramento mais amplo; árvore à esquerda, rio como linha de profundidade e área central limpa.
+- **Luz e cor:** Luz branca e dourada suave do alto à direita; céu azul e vegetação natural em apoio.
+- **Continuidade:** Entrada a partir de MM-03 por transição a testar; estabelece a geografia dos quatro estados.
+- **Animação, efeitos e transição:** Aproximação muito lenta; pequenas ondulações e folhas em camadas. Transição contínua para Q02.
+- **Evitar:** paisagens diferentes, saturação verde dominante, fantasia, letreiros no telão, pessoas, fruto/serpente, queda antecipada, cortes fortes e brilho que concorra com o palco.
+- **Prompt da imagem individual (para etapa posterior):** Paisagem natural harmoniosa ao amanhecer, rio calmo curvando do fundo central ao primeiro plano, árvore de copa ampla à esquerda, margem gramada à direita e colinas baixas; grande plano geral, luz natural suave branca e dourada do alto à direita, céu azul delicado, textura nos claros, centro arejado. Imagem individual realista e cinematográfica, reverente, com profundidade e margem para movimento. Sem grade, colagem, texto, número, legenda, timecode, marca-d'água ou elementos modernos. Nas derivações, usar a base piloto verificada, em vez de inventar nova paisagem.
+- **Referências usadas:** fontes documentais listadas no contrato; sem referência visual externa fornecida.
+- **Tempo:** gatilhos de fala; duração variável, sem medição de áudio disponível.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-04/prancha-v01.jpg), 1536×1024, JPEG de 673.733 bytes; ver registro de geração e revisão abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-04-Q02 · Vida em movimento
+
+- **Situação e origem:** proposta v01, baseada nas fontes do MM-04 acima; aprovação pendente.
+- **Função narrativa e gatilho:** Sustentar a música/dança Há Muito Tempo Atrás, sem corte musical ou clímax inventado.
+- **Imagem-base / instante:** A mesma paisagem num reenquadramento discretamente mais próximo, com reflexos no rio.
+- **Composição:** Pequena aproximação mantendo árvore e colinas reconhecíveis; margem para movimento.
+- **Luz e cor:** Mesma fonte e paleta de Q01, reflexos contidos, sem flare dominante.
+- **Continuidade:** Derivação da base Q01, sem trocar margem do rio, árvore ou direção de luz.
+- **Animação, efeitos e transição:** Água e folhas com movimento cíclico discreto; zoom limitado, retornável. Sem ação irreversível.
+- **Evitar:** paisagens diferentes, saturação verde dominante, fantasia, letreiros no telão, pessoas, fruto/serpente, queda antecipada, cortes fortes e brilho que concorra com o palco.
+- **Prompt da imagem individual (para etapa posterior):** A mesma paisagem de Q01, mesmo rio curvo, árvore à esquerda e colinas baixas, enquadramento ligeiramente mais próximo; reflexos delicados, luz natural branca e dourada do alto à direita, atmosfera serena. Imagem individual realista e cinematográfica, reverente, com profundidade e margem para movimento. Sem grade, colagem, texto, número, legenda, timecode, marca-d'água ou elementos modernos. Nas derivações, usar a base piloto verificada, em vez de inventar nova paisagem.
+- **Referências usadas:** fontes documentais listadas no contrato; sem referência visual externa fornecida.
+- **Tempo:** gatilhos de fala; duração variável, sem medição de áudio disponível.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-04/prancha-v01.jpg), 1536×1024, JPEG de 673.733 bytes; ver registro de geração e revisão abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-04-Q03 · Harmonia sustentada
+
+- **Situação e origem:** proposta v01, baseada nas fontes do MM-04 acima; aprovação pendente.
+- **Função narrativa e gatilho:** Permitir a continuação da dança e a fala de Adultério “Como isso aconteceu?”.
+- **Imagem-base / instante:** A mesma vista próxima, serena, sem acontecimento novo.
+- **Composição:** Mesmo eixo de Q02; centro livre e formas grandes legíveis de longe.
+- **Luz e cor:** Pequena variação natural de luz, mantendo a plenitude e a mesma direção luminosa.
+- **Continuidade:** Mesmo ambiente de Q02; não introduzir a queda ao terminar a música.
+- **Animação, efeitos e transição:** Sustentação com ondulação/folhas discretas; iniciar retorno suave ao plano aberto. Pode repetir durante fala.
+- **Evitar:** paisagens diferentes, saturação verde dominante, fantasia, letreiros no telão, pessoas, fruto/serpente, queda antecipada, cortes fortes e brilho que concorra com o palco.
+- **Prompt da imagem individual (para etapa posterior):** A mesma paisagem natural de Q02, mesma árvore à esquerda, rio e horizonte, plano estável e arejado, luz branca e dourada suave do alto à direita; harmonia preservada, sem escurecimento dramático. Imagem individual realista e cinematográfica, reverente, com profundidade e margem para movimento. Sem grade, colagem, texto, número, legenda, timecode, marca-d'água ou elementos modernos. Nas derivações, usar a base piloto verificada, em vez de inventar nova paisagem.
+- **Referências usadas:** fontes documentais listadas no contrato; sem referência visual externa fornecida.
+- **Tempo:** gatilhos de fala; duração variável, sem medição de áudio disponível.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-04/prancha-v01.jpg), 1536×1024, JPEG de 673.733 bytes; ver registro de geração e revisão abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-04-Q04 · Retorno e costura
+
+- **Situação e origem:** proposta v01, baseada nas fontes do MM-04 acima; aprovação pendente.
+- **Função narrativa e gatilho:** Fechar o ciclo visual e oferecer referência luminosa para Lucas/MM-05.
+- **Imagem-base / instante:** Retorno ao mesmo plano geral luminoso de Q01, ainda íntegro.
+- **Composição:** Repetir o enquadramento de Q01 e suas posições, horizonte e escala.
+- **Luz e cor:** Recuperar a iluminação de Q01; a perda de brilho pertence ao MM-05.
+- **Continuidade:** Q04 compatível com Q01 para loop; entregar a base e o estado corrente para MM-05, a alinhar com Lucas.
+- **Animação, efeitos e transição:** Concluir retorno lento; testar repetição Q04 → Q01. A troca para MM-05 obedece à fala, independentemente da fase do loop.
+- **Evitar:** paisagens diferentes, saturação verde dominante, fantasia, letreiros no telão, pessoas, fruto/serpente, queda antecipada, cortes fortes e brilho que concorra com o palco.
+- **Prompt da imagem individual (para etapa posterior):** Repetir exatamente a composição aberta de Q01: rio curvo, árvore de copa ampla à esquerda, margem gramada à direita e colinas baixas, mesma luz natural branca e dourada do alto à direita; mundo íntegro e luminoso. Imagem individual realista e cinematográfica, reverente, com profundidade e margem para movimento. Sem grade, colagem, texto, número, legenda, timecode, marca-d'água ou elementos modernos. Nas derivações, usar a base piloto verificada, em vez de inventar nova paisagem.
+- **Referências usadas:** fontes documentais listadas no contrato; sem referência visual externa fornecida.
+- **Tempo:** gatilhos de fala; duração variável, sem medição de áudio disponível.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-04/prancha-v01.jpg), 1536×1024, JPEG de 673.733 bytes; ver registro de geração e revisão abaixo. Base individual não produzida; aprovação pendente.
+
+### Registro de geração · MM-04-Q01 a MM-04-Q04 · prancha v01
+
+- **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
+- **Entrega:** uma prancha com quatro quadros de planejamento, não quatro bases individuais.
+- **Diretrizes/fontes e IDs consultados:** guia de construção atual; contrato MM-04 e Q01/Q02/Q03/Q04 deste caderno; briefing v1.0 seção MM-04/MM-05 e DOCX original; roteiro Cena 3 e PDF original; D-00; mapa de cenas; dependências; Melissa; fichas MM-04/MM-05 e checklist. D-01/D-02 continuam propostas e não alteram esta peça.
+- **Referências realmente usadas na ferramenta:** somente descrição textual derivada dessas fontes. Sem imagens de referência anexadas; arquivos visuais do Dudu, frame de MM-03 e base aceita não fornecidos.
+- **Prompt efetivamente enviado:** íntegra em [MM-04/prompt-prancha-v01.txt](MM-04/prompt-prancha-v01.txt); aplicado à prancha inteira e aos quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`; sem referências de imagens.
+- **Resultado real:** PNG gerado em `/workspace/generated_images/exec-4a38d99a-6857-4db3-93a5-50fbeede0728.png`, 1536×1024, 2.815.016 bytes; original mantido fora do repositório. Não é 4K e não foi enviado ao Drive.
+- **Arquivo leve no repositório:** [MM-04/prancha-v01.jpg](MM-04/prancha-v01.jpg), 1536×1024, 673.733 bytes, versão v01, conversão JPEG para consulta. Ficha-resumo atualizada com imagem existente.
+- **Feedback de revisão visual pelo Codex:** natureza luminosa, atmosfera harmônica, ausência de pessoas/queda e anotações fora das imagens coerentes com o estudo. O curso d'água ficou mais aberto do que o rio curvo proposto. Há variações de árvore, pedras, relevo e enquadramento entre os painéis; Q04 não repete exatamente Q01. Para o alpha, usar uma base única e derivar estados por reenquadramento/luz; não usar os recortes da prancha como bases definitivas. Loop e brilho no telão ainda não testados.
+- **Aprovação:** pendente da equipe/direção; paleta, geografia e integração com Lucas continuam propostas. Sem medição musical, alpha ou aceite técnico.
+
+## MM-09 · Profetas
+
+**Cena:** 5 · Bloco III. **Responsável:** Melissa. **Situação:** storyboard v01, proposta de execução de 16/10/2026; aprovação pendente.
+
+**Fontes e costuras:** briefing v1.0, seção MM-09; roteiro Cena 5; D-00; mapa de cenas; dependências; página de Melissa; ficha MM-09; guia de construção; contrato e Q01/Q02 do MM-10 como orientação documental de continuidade. Entrada: “Bom, séculos antes de Jesus nascer, houveram vários profetas que anunciaram a vinda dele.” Saída: “No princípio Ele já estava lá.” Não há peça/frame fornecedor de entrada definido. Entrega último estado visual, paleta e direção de movimento ao Eduardo/MM-10; seu storyboard não será alterado.
+
+**Controle e arco:** ambientação histórica de promessa e espera, em loop de fala variável, com interrupções cômicas somente no palco. Ordem proposta Q01 → Q02 → Q03 → Q04 → Q01; os quadros não são cues obrigatórios de cada frase. Saída pelo gatilho em qualquer fase, sem esperar Q04. Sem música própria, timecodes ou duração fixada.
+
+**Contrato visual proposto:** realismo cinematográfico reverente; um único vale árido de colinas rochosas, pequena cidade antiga de pedra clara e telhados planos à direita, luz baixa quente da direita e céu azul profundo. Mesma atmosfera de crepúsculo em todos os quadros, sem ciclo dia/noite nem ação irreversível. Pergaminho em abrigo rochoso do mesmo ambiente. Profeta genérico não identificado: adulto de meia-idade ou idoso, manto ocre e túnica terrosa, cabelos/barba grisalhos sugeridos somente em silhueta, rosto sem detalhe; nenhuma identidade bíblica ou de elenco presumida. Q04 deriva de Q01. Paleta de areia/pedra, dourado contido, pergaminho claro e azul profundo; brilho moderado, sem glória final. Não representar Cristo ou cosmos antes do MM-10.
+
+**Referências disponíveis:** somente fontes documentais; sem imagens de personagem ou cenário aceitas e sem frame real de MM-10. As referências visuais do Dudu não estão disponíveis neste chat/checkout. Preservar coerência das propostas, sem declarar referência aceita. Para bases individuais futuras, produzir e conferir piloto antes da série. Parallax exige camadas/reconstrução; loop e continuidade serão testados no alpha. P-01/P-12/P-13 permanecem abertas; não bloqueiam esta prancha conceitual.
+
+### MM-09-Q01 · A promessa anunciada
+
+- **Situação e origem:** proposta v01 a partir do briefing/roteiro, sem aprovação presumida.
+- **Função narrativa e gatilho:** Na fala sobre os profetas que anunciaram a vinda de Jesus.
+- **Imagem-base:** Profeta não identificado em silhueta de perfil, num rochedo à esquerda, diante de vale árido e pequena cidade distante à direita. Uma mão em gesto contido de anúncio, sem dedos em destaque.
+- **Composição:** Plano geral, horizonte baixo e céu amplo; figura inteira pequena, centro livre.
+- **Luz e cor:** luz baixa quente vinda da direita, céu azul profundo e tons naturais de pedra/tecido; mesma atmosfera entre quadros, sombras com textura.
+- **Continuidade:** contrato visual acima; manter horizonte, posição da cidade, figurino e luz. Q01/Q04 compartilham a mesma referência piloto na produção.
+- **Animação e transição:** Aproximação mínima, poeira atmosférica discreta; dissolução lenta para Q02.
+- **Evitar:** aula projetada, nomes/datas/versículos, escrita inventada em destaque, figurino medieval, elementos modernos, gestos exagerados, multidão, efeitos de ficção científica e clímax antecipado.
+- **Prompt da imagem individual (etapa posterior):** Profeta não identificado em silhueta de perfil, num rochedo à esquerda, diante de vale árido e pequena cidade distante à direita. Uma mão em gesto contido de anúncio, sem dedos em destaque. Plano geral, horizonte baixo e céu amplo; figura inteira pequena, centro livre. Luz baixa natural quente da direita, céu azul profundo e areia/pedra em tons contidos, atmosfera serena. Imagem única realista e cinematográfica, reverente, legível no telão, margem para movimento. Sem grade, colagem, moldura, texto, número, timecode, marca-d'água ou elementos modernos. Usar referências piloto verificadas do mesmo ambiente/personagem quando disponíveis.
+- **Referências usadas:** documentação listada no contrato; sem imagem de referência externa fornecida.
+- **Tempo:** duração variável de fala, a ajustar em ensaio; sem música/timecodes.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-09/prancha-v01.jpg), 1536×1024, JPEG de 547,263 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-09-Q02 · A palavra preservada
+
+- **Situação e origem:** proposta v01 a partir do briefing/roteiro, sem aprovação presumida.
+- **Função narrativa e gatilho:** Sustentar a explicação, sem associar quadro a frase ou segundo obrigatório.
+- **Imagem-base:** Pergaminho aberto sobre laje de pedra ao abrigo de um rochedo do mesmo vale; bordas enroladas e superfície de textura natural sem escrita legível; sem mãos.
+- **Composição:** Plano de detalhe aberto, papel no terço inferior; vale desfocado ao fundo, luz lateral.
+- **Luz e cor:** luz baixa quente vinda da direita, céu azul profundo e tons naturais de pedra/tecido; mesma atmosfera entre quadros, sombras com textura.
+- **Continuidade:** contrato visual acima; manter horizonte, posição da cidade, figurino e luz. Q01/Q04 compartilham a mesma referência piloto na produção.
+- **Animação e transição:** Avanço mínimo e variação suave de luz; pergaminho permanece aberto; dissolução para Q03.
+- **Evitar:** aula projetada, nomes/datas/versículos, escrita inventada em destaque, figurino medieval, elementos modernos, gestos exagerados, multidão, efeitos de ficção científica e clímax antecipado.
+- **Prompt da imagem individual (etapa posterior):** Pergaminho aberto sobre laje de pedra ao abrigo de um rochedo do mesmo vale; bordas enroladas e superfície de textura natural sem escrita legível; sem mãos. Plano de detalhe aberto, papel no terço inferior; vale desfocado ao fundo, luz lateral. Luz baixa natural quente da direita, céu azul profundo e areia/pedra em tons contidos, atmosfera serena. Imagem única realista e cinematográfica, reverente, legível no telão, margem para movimento. Sem grade, colagem, moldura, texto, número, timecode, marca-d'água ou elementos modernos. Usar referências piloto verificadas do mesmo ambiente/personagem quando disponíveis.
+- **Referências usadas:** documentação listada no contrato; sem imagem de referência externa fornecida.
+- **Tempo:** duração variável de fala, a ajustar em ensaio; sem música/timecodes.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-09/prancha-v01.jpg), 1536×1024, JPEG de 547,263 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-09-Q03 · Gerações em espera
+
+- **Situação e origem:** proposta v01 a partir do briefing/roteiro, sem aprovação presumida.
+- **Função narrativa e gatilho:** Apoiar a fala sobre esperar por muitas gerações e as interrupções do diálogo.
+- **Imagem-base:** A mesma cidade pequena de pedra clara no vale árido; casas baixas, telhados planos, colinas rochosas e nenhuma figura protagonista.
+- **Composição:** Plano geral elevado, cidade no terço inferior direito e horizonte idêntico a Q01; céu amplo.
+- **Luz e cor:** luz baixa quente vinda da direita, céu azul profundo e tons naturais de pedra/tecido; mesma atmosfera entre quadros, sombras com textura.
+- **Continuidade:** contrato visual acima; manter horizonte, posição da cidade, figurino e luz. Q01/Q04 compartilham a mesma referência piloto na produção.
+- **Animação e transição:** Parallax discreto entre rochedo, cidade e colinas; sem passagem acelerada de tempo; dissolução para Q04.
+- **Evitar:** aula projetada, nomes/datas/versículos, escrita inventada em destaque, figurino medieval, elementos modernos, gestos exagerados, multidão, efeitos de ficção científica e clímax antecipado.
+- **Prompt da imagem individual (etapa posterior):** A mesma cidade pequena de pedra clara no vale árido; casas baixas, telhados planos, colinas rochosas e nenhuma figura protagonista. Plano geral elevado, cidade no terço inferior direito e horizonte idêntico a Q01; céu amplo. Luz baixa natural quente da direita, céu azul profundo e areia/pedra em tons contidos, atmosfera serena. Imagem única realista e cinematográfica, reverente, legível no telão, margem para movimento. Sem grade, colagem, moldura, texto, número, timecode, marca-d'água ou elementos modernos. Usar referências piloto verificadas do mesmo ambiente/personagem quando disponíveis.
+- **Referências usadas:** documentação listada no contrato; sem imagem de referência externa fornecida.
+- **Tempo:** duração variável de fala, a ajustar em ensaio; sem música/timecodes.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-09/prancha-v01.jpg), 1536×1024, JPEG de 547,263 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-09-Q04 · O horizonte da promessa
+
+- **Situação e origem:** proposta v01 a partir do briefing/roteiro, sem aprovação presumida.
+- **Função narrativa e gatilho:** Estado contemplativo que permite retornar a Q01 ou sair na fala “No princípio Ele já estava lá”.
+- **Imagem-base:** Mesmo profeta de Q01 em silhueta pequena à esquerda, mesma cidade à direita e vale sob céu azul profundo, com claridade âmbar residual no horizonte.
+- **Composição:** Plano geral com mais respiro no céu; ambiente terrestre ainda legível.
+- **Luz e cor:** luz baixa quente vinda da direita, céu azul profundo e tons naturais de pedra/tecido; mesma atmosfera entre quadros, sombras com textura.
+- **Continuidade:** contrato visual acima; manter horizonte, posição da cidade, figurino e luz. Q01/Q04 compartilham a mesma referência piloto na produção.
+- **Animação e transição:** Derivar de Q01 para consistência; retorno discreto a Q01. Na saída, dissolver o ambiente terrestre para o estado do MM-10, a combinar com Eduardo, em qualquer fase do loop.
+- **Evitar:** aula projetada, nomes/datas/versículos, escrita inventada em destaque, figurino medieval, elementos modernos, gestos exagerados, multidão, efeitos de ficção científica e clímax antecipado.
+- **Prompt da imagem individual (etapa posterior):** Mesmo profeta de Q01 em silhueta pequena à esquerda, mesma cidade à direita e vale sob céu azul profundo, com claridade âmbar residual no horizonte. Plano geral com mais respiro no céu; ambiente terrestre ainda legível. Luz baixa natural quente da direita, céu azul profundo e areia/pedra em tons contidos, atmosfera serena. Imagem única realista e cinematográfica, reverente, legível no telão, margem para movimento. Sem grade, colagem, moldura, texto, número, timecode, marca-d'água ou elementos modernos. Usar referências piloto verificadas do mesmo ambiente/personagem quando disponíveis.
+- **Referências usadas:** documentação listada no contrato; sem imagem de referência externa fornecida.
+- **Tempo:** duração variável de fala, a ajustar em ensaio; sem música/timecodes.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-09/prancha-v01.jpg), 1536×1024, JPEG de 547,263 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### Registro de geração · MM-09-Q01 a MM-09-Q04 · prancha v01
+
+- **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
+- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-09 e Q01/Q02/Q03/Q04 registrados antes da geração; briefing v1.0 seção MM-09; roteiro Cena 5; D-00; mapa de cenas; dependências; Melissa; ficha MM-09; contrato e Q01/Q02 do MM-10 como orientação documental, sem alterar os materiais de Eduardo.
+- **Referências realmente usadas:** somente texto derivado das fontes acima, sem referência visual externa anexada; personagem e ambiente são propostas, sem identidade aceita presumida.
+- **Prompt efetivamente enviado:** íntegra em [MM-09/prompt-prancha-v01.txt](MM-09/prompt-prancha-v01.txt), associado aos quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`, sem referências de imagem.
+- **Resultado original:** `/workspace/generated_images/exec-50e801b8-84e4-4fec-bf45-408dbaab36e4.png`, PNG 1536×1024, 2,514,500 bytes, fora do repositório. Original preservado; sem envio ao Drive.
+- **Arquivo leve:** [MM-09/prancha-v01.jpg](MM-09/prancha-v01.jpg), 1536×1024, 547,263 bytes, v01. É prancha de planejamento, não imagem-base 4K.
+- **Feedback:** Atmosfera histórica, pergaminho sem escrita legível, identidade geral do profeta, paleta e anotações conferidos visualmente pelo Codex. Há variações na postura/escala do profeta, nas construções e nas colinas entre quadros; Q04 não repete exatamente Q01. Para produção, fixar uma referência de ambiente/personagem e derivar Q04 de Q01. O sol visível e os realces quentes precisam ter brilho testado com palco e falas. A prancha não comprova repetição sem emenda ou integração com o arquivo real de Eduardo.
+- **Aprovação:** pendente da equipe/direção; nenhum alpha, ensaio ou aceite técnico neste trabalho. Saída pelo gatilho de fala em qualquer fase; duração a ajustar no ensaio.
+
+## MM-14 · Resumo dos pecados
+
+> **Feedback posterior do usuário · 16/10/2026:** MM-14 v01 não aprovada por não corresponder ao roteiro/ambientação da casa. Reformular somente após estabelecer MM-03, conforme D-03. Q01–Q04 e geração abaixo são histórico, sem referência aceita de casa, elenco ou próxima versão.
+
+**Cena:** 8 · Bloco IV. **Responsável:** Melissa. **Situação:** proposta v01 de 16/10/2026, sem aprovação presumida. **Fontes:** briefing v1.0/MM-14 e MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; página de Melissa; fichas MM-14/MM-15 e guia canônico de construção.
+
+**Função, gatilho e costuras:** sintetizar comportamento destrutivo e aprisionamento antes da restauração. A página de Melissa indica a entrada na recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria...”; o mapa destaca “nos atolamos em nossos pecados e nos aprisionamos”. Proposta: iniciar discretamente na recapitulação e intensificar o fechamento na frase de aprisionamento; validar cue no ensaio. Saída em “Ele curou, ensinou e perdoou as pessoas”, entrada do MM-15/Lucas. Sem fornecedor/frame de entrada definido; alinhar com Lucas ritmo de corte e tratamento de cor.
+
+**Controle e arco:** montagem curta Q01 → Q02 → Q03 → Q04; não é loop integral ou playback musical. Os quadros resumem apego, raiva, ocultação e isolamento, sem catálogo literal de pecados. Cortes simples a ajustar à fala, sem tempos inventados. Sustentar Q04 durante a fala intermediária que menciona o nascimento de Jesus, sem introduzir outro bloco de imagens ou antecipar restauração. O último estado pode ter movimento cíclico discreto para cobrir duração variável; não medir duração pela prancha.
+
+**Contrato visual proposto:** registro contemporâneo realista/cinematográfico do mundo presente, conforme briefing; sala doméstica modesta, parede cinza texturizada, mesa de madeira e janela lateral à direita. Luz fria azul-acinzentada da direita, pequena presença de calor residual, sombras legíveis; sem preto absoluto ou vermelho saturado. Uma mulher adulta genérica, cerca de 30 anos, pele morena, cabelo castanho-escuro cacheado na altura dos ombros, jaqueta azul-escura lisa e blusa bege, sem marcas; não representa atriz ou personagem específica. Identidade/figurino são propostas para piloto, não referência aprovada. Compor mãos naturais, sem gestos complexos. Na série futura, definir piloto e usar a mesma referência. Objetos contemporâneos discretos são coerentes com este registro, não com os quadros bíblicos anteriores. A restauração/luz acolhedora entra com Lucas no MM-15.
+
+**Referências disponíveis:** documentos textuais; sem imagens de elenco, piloto aceito, arquivo de entrada ou primeiro frame de MM-15. Sem referências visuais externas usadas. Não há necessidade de representar atrizes ou resolver P-05 do filme final nesta peça. P-01/P-13 e teste no telão permanecem pendentes para entrega final.
+
+### MM-14-Q01 · Apego ao status
+
+- **Situação e origem:** proposta v01 derivada do briefing/roteiro; aprovação pendente.
+- **Função narrativa e gatilho:** Recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria”; ênfase do mapa em “nos atolamos em nossos pecados”.
+- **Imagem-base:** Mulher adulta sentada à mesa simples, olhar baixo e mãos segurando junto ao peito um colar discreto como objeto de apego; expressão fechada e contida.
+- **Composição:** Plano médio em três quartos, figura à esquerda, parede e espaço negativo à direita.
+- **Luz e cor:** janela à direita, azul-acinzentado contido, sombras com detalhe e calor residual mínimo; sem antecipar restauração.
+- **Continuidade:** mesma mulher, jaqueta, blusa e sala do contrato; enquadramentos diferentes mantêm o eixo da luz. Conferir piloto antes da produção em série.
+- **Animação e transição:** Aproximação discreta; corte simples para Q02, sem glamorizar a joia.
+- **Evitar:** caricatura, violência explícita, sexualização, elenco presumido, prisão literal, excesso de objetos, gestos simultâneos, texto identificando pecados no telão e clímax de luz antes de MM-15.
+- **Prompt da imagem individual (etapa posterior):** Mulher adulta sentada à mesa simples, olhar baixo e mãos segurando junto ao peito um colar discreto como objeto de apego; expressão fechada e contida. Plano médio em três quartos, figura à esquerda, parede e espaço negativo à direita. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
+- **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
+- **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-14/prancha-v01.jpg), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-14-Q02 · Raiva contida
+
+- **Situação e origem:** proposta v01 derivada do briefing/roteiro; aprovação pendente.
+- **Função narrativa e gatilho:** Apoio à ideia de comportamento destrutivo, sem representar um pecado por frase.
+- **Imagem-base:** A mesma mulher junto à mesa, mãos fechadas separadas sobre a superfície, rosto tenso sem grito; nenhum alvo de agressão.
+- **Composição:** Plano médio próximo, mãos inteiras e separadas no terço inferior; rosto legível sem exagero.
+- **Luz e cor:** janela à direita, azul-acinzentado contido, sombras com detalhe e calor residual mínimo; sem antecipar restauração.
+- **Continuidade:** mesma mulher, jaqueta, blusa e sala do contrato; enquadramentos diferentes mantêm o eixo da luz. Conferir piloto antes da produção em série.
+- **Animação e transição:** Pequeno avanço de câmera; corte simples por gesto/contraste para Q03. Sem animar agressão.
+- **Evitar:** caricatura, violência explícita, sexualização, elenco presumido, prisão literal, excesso de objetos, gestos simultâneos, texto identificando pecados no telão e clímax de luz antes de MM-15.
+- **Prompt da imagem individual (etapa posterior):** A mesma mulher junto à mesa, mãos fechadas separadas sobre a superfície, rosto tenso sem grito; nenhum alvo de agressão. Plano médio próximo, mãos inteiras e separadas no terço inferior; rosto legível sem exagero. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
+- **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
+- **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-14/prancha-v01.jpg), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-14-Q03 · Ocultação
+
+- **Situação e origem:** proposta v01 derivada do briefing/roteiro; aprovação pendente.
+- **Função narrativa e gatilho:** Síntese de mentira e fechamento, proposta simbólica sem identificação de personagem do elenco.
+- **Imagem-base:** A mesma mulher em perfil parcial diante de espelho pequeno na parede, rosto parcialmente encoberto por sombra natural; reflexo fisicamente coerente, sem duplicação fantástica.
+- **Composição:** Plano médio lateral simples, espelho no lado direito e rosto à esquerda; foco único na expressão evitativa.
+- **Luz e cor:** janela à direita, azul-acinzentado contido, sombras com detalhe e calor residual mínimo; sem antecipar restauração.
+- **Continuidade:** mesma mulher, jaqueta, blusa e sala do contrato; enquadramentos diferentes mantêm o eixo da luz. Conferir piloto antes da produção em série.
+- **Animação e transição:** Deslocamento muito curto ou luz em máscara; corte simples para Q04. A sombra sugere ocultação, sem texto ou máscara teatral.
+- **Evitar:** caricatura, violência explícita, sexualização, elenco presumido, prisão literal, excesso de objetos, gestos simultâneos, texto identificando pecados no telão e clímax de luz antes de MM-15.
+- **Prompt da imagem individual (etapa posterior):** A mesma mulher em perfil parcial diante de espelho pequeno na parede, rosto parcialmente encoberto por sombra natural; reflexo fisicamente coerente, sem duplicação fantástica. Plano médio lateral simples, espelho no lado direito e rosto à esquerda; foco único na expressão evitativa. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
+- **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
+- **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-14/prancha-v01.jpg), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### MM-14-Q04 · Aprisionamento
+
+- **Situação e origem:** proposta v01 derivada do briefing/roteiro; aprovação pendente.
+- **Função narrativa e gatilho:** “nos aprisionamos sem nem mesmo perceber”; sustenta também a fala intermediária sobre Jesus bebê, até “Ele curou, ensinou e perdoou”.
+- **Imagem-base:** A mesma mulher sentada sozinha, ombros recolhidos; sombras alongadas dos montantes da janela sobre parede e chão sugerem confinamento. Sem grades reais ou correntes.
+- **Composição:** Plano geral da mesma sala, figura pequena à esquerda e espaço vazio à direita; mãos relaxadas no colo.
+- **Luz e cor:** janela à direita, azul-acinzentado contido, sombras com detalhe e calor residual mínimo; sem antecipar restauração.
+- **Continuidade:** mesma mulher, jaqueta, blusa e sala do contrato; enquadramentos diferentes mantêm o eixo da luz. Conferir piloto antes da produção em série.
+- **Animação e transição:** Sustentação com movimento ambiente discreto e repetível para fala variável; passagem a combinar com Lucas/MM-15 pelo gatilho, preservando contraste aprisionamento → restauração.
+- **Evitar:** caricatura, violência explícita, sexualização, elenco presumido, prisão literal, excesso de objetos, gestos simultâneos, texto identificando pecados no telão e clímax de luz antes de MM-15.
+- **Prompt da imagem individual (etapa posterior):** A mesma mulher sentada sozinha, ombros recolhidos; sombras alongadas dos montantes da janela sobre parede e chão sugerem confinamento. Sem grades reais ou correntes. Plano geral da mesma sala, figura pequena à esquerda e espaço vazio à direita; mãos relaxadas no colo. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
+- **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
+- **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](MM-14/prancha-v01.jpg), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+
+### Registro de geração · MM-14-Q01 a MM-14-Q04 · prancha v01
+
+- **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
+- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-14 e Q01/Q02/Q03/Q04 escritos antes da geração; briefing MM-14/MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; Melissa; fichas MM-14/MM-15. Entrada na recapitulação é proposta, com ênfase no aprisionamento e cue a validar no ensaio.
+- **Referências realmente usadas:** somente texto derivado dos documentos; nenhuma foto de atriz, personagem ou ambiente aceita. Identidade genérica e figurino são propostas de estudo.
+- **Prompt efetivamente enviado:** íntegra em [MM-14/prompt-prancha-v01.txt](MM-14/prompt-prancha-v01.txt), para os quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`, sem imagens de referência.
+- **Original:** `/workspace/generated_images/exec-6ca88fdd-fed6-4eff-9a40-b8370df4d387.png`, PNG 1536×1024, 1,997,473 bytes; preservado fora do repositório, sem envio ao Drive.
+- **Arquivo leve:** [MM-14/prancha-v01.jpg](MM-14/prancha-v01.jpg), 1536×1024, 392,575 bytes, v01. Prancha de planejamento, não base 4K nem vídeo.
+- **Feedback:** Revisão visual pelo Codex: personagem/figurino reconhecíveis entre planos, mãos separadas em Q02, reflexo plausível em Q03, luz fria da direita e isolamento em Q04. O gesto com o colar em Q01 pode ser lido como aflição ou lembrança em vez de apego ao status; Q03 sugere fechamento, mas não comunica mentira de forma inequívoca. Essas metáforas precisam de revisão com a direção, sem associar sofrimento emocional por si só a pecado. Há pequenas variações de cenário; fixar piloto antes das bases individuais. Conferir leitura das sombras e brilho no telão.
+- **Aprovação:** pendente da equipe/direção. Sem alpha, sincronização medida ou ensaio no telão; restauração e passagem para MM-15 a alinhar com Lucas. Outros storyboards preservados.
+
+## MM-03 · Casa da Religiosidade
+
+**Diretriz vigente:** D-13. Usuário reenviou e definiu a imagem da sala com renda como única composição oficial, agora denominada **V03**. [Referência oficial](MM-03/V03.jpg). As referências anteriores com foto e as duas variações noturnas incorretas foram excluídas da pasta a pedido do usuário; não usar registros antigos do chat como base.
+
+**Origem real:** imagem enviada pelo usuário coincide visualmente com o PNG gerado `/workspace/generated_images/exec-dc9c1ff9-99fb-42cb-bce7-d9a714054951.png`, inspecionado nesta revisão. O JPEG correspondente foi preservado e renomeado `MM-03/V03.jpg`, sem alterar a composição. A inscrição antiga “Estudo v07” permanece na referência enviada; nome oficial atual é V03. Usar o PNG citado como referência visual direta nas três chamadas para evitar deriva entre variações.
+
+**Responsável:** Victor, preservado. **Cenas/continuidade:** 2, início da 3 até “Não tinha dor” → MM-04; retorno na 4 até definição de graça → MM-08. Recebe transição de cortina sem frame técnico fornecido. Referência para futura reformulação de MM-14; sem novos cues ou duração presumidos.
+
+**Contrato visual oficial:** casa simples de classe média brasileira, conceito aberto, perspectiva panorâmica em arco suave, centro nítido e desfoque leve nas pontas. Duas portas laterais à esquerda, uma fechada e outra entreaberta; estar central com cimento queimado, quadro do Salmo 91 e aparador. No aparador: relógio à esquerda, bandejinha para chaves sobre renda fina delicada pendendo pela frente ao centro, menorá à direita. Sem Bíblia, porta-retrato ou foto. Copa à direita com tijolinho, pia/torneira à esquerda sob armário aéreo, cooktop à direita. Sem sofá ou mesa de jantar projetados; mesa física no palco. Não mover câmera, paredes, portas, janela, móveis, objetos ou encanamento nas variações.
+
+**Formato:** prancha horizontal próxima de 16:9; um panorama e três detalhes. Painel físico aproximado 6×3 m não define matriz em pixels/fps/codec (P-01). Câmera fixa na operação; sem vídeo/alpha ou teste no LED neste trabalho. Luz nas cenas muda, moldura/legendas permanecem legíveis.
+
+### MM-03-Q01 · Panorama
+- **Imagem/composição:** casa inteira, exatamente a referência oficial, arco suave e posição dos três setores preservados.
+- **Continuidade:** relógio–bandejinha/renda–menorá e pia/cooktop idênticos a Q03/Q04.
+- **Movimento/tempo:** câmera fixa, sem timecodes.
+
+### MM-03-Q02 · Portas à esquerda
+- **Imagem/composição:** mesmas duas portas em vista lateral, mesmos estados de abertura, sem nova arquitetura.
+- **Continuidade:** lâmpada lateral e luz do cômodo da porta entreaberta acompanham o estado de iluminação da variação.
+- **Movimento/tempo:** câmera fixa; não fechar a porta ao apagar luz.
+
+### MM-03-Q03 · Estar central
+- **Imagem/composição:** mesmo quadro Salmo 91 e aparador, relógio à esquerda, bandejinha com chaves sobre renda delicada pendendo ao centro e menorá à direita.
+- **Continuidade:** sem foto/Bíblia em qualquer variação; renda legível como trama fina vazada, sem alterar largura ou queda.
+- **Movimento/tempo:** câmera fixa; luz central conforme estado abaixo.
+
+### MM-03-Q04 · Copa à direita
+- **Imagem/composição:** mesmo tijolinho, janela, geladeira, armário aéreo; pia à esquerda sob o aéreo, cooktop à direita.
+- **Continuidade:** janela noturna nas três variações; luz de lua suave/fria, sem luz diurna. Lâmpada elétrica da cozinha conforme estado abaixo.
+- **Movimento/tempo:** câmera fixa; sem nova janela ou alteração de bancada.
+
+### MM-03-Q05 · Não utilizado
+Retirado quando usuário reduziu para três detalhes; não renumerar Q01–Q04.
+
+### V03-01 · Noite com todas as luzes acesas
+- **Luz:** manter TODA iluminação interna quente da referência: centro/sala, lateral esquerda, cozinha e cômodo da porta entreaberta acesos. Substituir somente dia na janela por exterior noturno com luar frio sutil. Não deixar sol ou céu diurno.
+- **Continuidade:** aplicar estado nos quatro quadros; não escurecer lateral como V03-02. Mesma composição oficial, sem foto.
+- **Prompt/fontes:** guia atualizado, contrato Q01–Q04, D-13 e PNG oficial; prompt integral em `MM-03/prompts/V03-01.txt`, registrado antes da chamada.
+- **Arquivo/feedback:** [V03-01.jpg](MM-03/V03-01.jpg) gerada; ver registro abaixo. Aprovação da variação pendente.
+
+### V03-02 · Noite com apenas luz central
+- **Luz:** centro/sala quente aceso; lâmpadas laterais, cozinha e cômodo da porta entreaberta apagados. Laterais em penumbra, sem luz na fresta da porta; exterior noturno, luar frio suave na janela da cozinha.
+- **Continuidade:** mesmos quatro quadros e composição oficial; cena com bandejinha/renda e pia/cooktop corretos. Centro claramente mais iluminado que as pontas.
+- **Prompt/fontes:** guia atualizado, contrato Q01–Q04, D-13 e PNG oficial; prompt integral em `MM-03/prompts/V03-02.txt`, registrado antes da chamada.
+- **Arquivo/feedback:** [V03-02.jpg](MM-03/V03-02.jpg) gerada; ver registro abaixo. Aprovação da variação pendente.
+
+### V03-03 · Noite, somente luar
+- **Luz:** todas as luzes elétricas internas apagadas, inclusive centro/sala e cômodo da porta entreaberta. Somente luar frio suave pela janela da cozinha, com reflexão residual muito fraca no centro e penumbra mais profunda à esquerda. Sem fontes quentes, chamas ou brilho elétrico.
+- **Continuidade:** cenário oficial idêntico; manter leitura baixa de contornos/objetos sem preto absoluto. Nenhuma troca para foto ou Bíblia.
+- **Prompt/fontes:** guia atualizado, contrato Q01–Q04, D-13 e PNG oficial; prompt integral em `MM-03/prompts/V03-03.txt`, registrado antes da chamada.
+- **Arquivo/feedback:** [V03-03.jpg](MM-03/V03-03.jpg) gerada; ver registro abaixo. Aprovação da variação pendente.
+
+**Nomenclatura:** usuário repetiu “02” no último estado; interpretada sequência V03-01/V03-02/V03-03 e comunicada antes da execução. A instrução atual de refazer toda a série autoriza as três variações, substituindo o bloqueio anterior de D-11/D-12. Não confundir nome oficial V03 com versões antigas descartadas.
+
+
+### Registro de geração · V03-01
+
+- **Data/executor:** 16/10/2026 · Codex, em cumprimento à correção D-13. Aprovação da variação pendente.
+- **Diretrizes e IDs:** guia canônico atualizado, contrato MM-03-Q01–Q04 e estado V03-01 consultados antes da chamada; Q05 não utilizado. As três gerações foram independentes, todas da mesma referência oficial.
+- **Referência real:** `/workspace/generated_images/exec-dc9c1ff9-99fb-42cb-bce7-d9a714054951.png`, correspondente à imagem com renda reenviada e aceita como V03 oficial; inspecionada antes de gerar. Nenhuma imagem com foto usada.
+- **Prompt efetivamente enviado:** [MM-03/prompts/V03-01.txt](MM-03/prompts/V03-01.txt). Ferramenta `image_gen.imagegen`, fundo opaco, somente a referência oficial acima.
+- **Resultado original:** `/workspace/generated_images/exec-1c8544b8-75b9-4c09-84dd-3a0d3cc62244.png`, PNG 1672×941, 1831798 bytes, fora do repositório. [JPEG leve](MM-03/V03-01.jpg), 381588 bytes, AR 1.77683, próximo de 16:9 com arredondamento de pixels. Não é matriz de saída do LED.
+- **Revisão visual pelo Codex:** Lâmpadas internas e luz da porta entreaberta acesas, luz quente e janela noturna azul; composição com renda/bandejinha preservada. Leitura do texto do Salmo 91 e eventuais variações mínimas de desenho dos objetos precisam de conferência antes de base final. A composição é estudo de continuidade, sem validação métrica.
+- **Situação:** gerada para revisão; sem aceite técnico, vídeo, Drive ou teste no telão. A referência oficial foi aceita pelo usuário; a aceitação não foi estendida automaticamente a esta variação.
+
+### Registro de geração · V03-02
+
+- **Data/executor:** 16/10/2026 · Codex, em cumprimento à correção D-13. Aprovação da variação pendente.
+- **Diretrizes e IDs:** guia canônico atualizado, contrato MM-03-Q01–Q04 e estado V03-02 consultados antes da chamada; Q05 não utilizado. As três gerações foram independentes, todas da mesma referência oficial.
+- **Referência real:** `/workspace/generated_images/exec-dc9c1ff9-99fb-42cb-bce7-d9a714054951.png`, correspondente à imagem com renda reenviada e aceita como V03 oficial; inspecionada antes de gerar. Nenhuma imagem com foto usada.
+- **Prompt efetivamente enviado:** [MM-03/prompts/V03-02.txt](MM-03/prompts/V03-02.txt). Ferramenta `image_gen.imagegen`, fundo opaco, somente a referência oficial acima.
+- **Resultado original:** `/workspace/generated_images/exec-6ec312ef-53ef-4b0a-ae9c-dbfe17e7da1d.png`, PNG 1672×941, 1758890 bytes, fora do repositório. [JPEG leve](MM-03/V03-02.jpg), 346610 bytes, AR 1.77683, próximo de 16:9 com arredondamento de pixels. Não é matriz de saída do LED.
+- **Revisão visual pelo Codex:** Centro quente iluminado; laterais e cozinha escurecidas, lâmpadas laterais apagadas e janela com luar. Bandejinha/renda presentes. Pequena presença de reflexo frio no interior da porta, sem foco elétrico quente. A ferramenta sugeriu um ponto de luz no limite superior do panorama central; conferir se fica fora do enquadramento final. Leitura do texto do Salmo 91 e eventuais variações mínimas de desenho dos objetos precisam de conferência antes de base final. A composição é estudo de continuidade, sem validação métrica.
+- **Situação:** gerada para revisão; sem aceite técnico, vídeo, Drive ou teste no telão. A referência oficial foi aceita pelo usuário; a aceitação não foi estendida automaticamente a esta variação.
+
+### Registro de geração · V03-03
+
+- **Data/executor:** 16/10/2026 · Codex, em cumprimento à correção D-13. Aprovação da variação pendente.
+- **Diretrizes e IDs:** guia canônico atualizado, contrato MM-03-Q01–Q04 e estado V03-03 consultados antes da chamada; Q05 não utilizado. As três gerações foram independentes, todas da mesma referência oficial.
+- **Referência real:** `/workspace/generated_images/exec-dc9c1ff9-99fb-42cb-bce7-d9a714054951.png`, correspondente à imagem com renda reenviada e aceita como V03 oficial; inspecionada antes de gerar. Nenhuma imagem com foto usada.
+- **Prompt efetivamente enviado:** [MM-03/prompts/V03-03.txt](MM-03/prompts/V03-03.txt). Ferramenta `image_gen.imagegen`, fundo opaco, somente a referência oficial acima.
+- **Resultado original:** `/workspace/generated_images/exec-d6a05a6b-4077-426c-842f-247ca4bb6111.png`, PNG 1672×941, 1760728 bytes, fora do repositório. [JPEG leve](MM-03/V03-03.jpg), 340330 bytes, AR 1.77683, próximo de 16:9 com arredondamento de pixels. Não é matriz de saída do LED.
+- **Revisão visual pelo Codex:** Centro sem foco quente, interior em penumbra fria e luar entrando pela janela da cozinha; relógio, bandejinha/renda e menorá presentes, pia/cooktop preservados. Reflexos azuis e nível dos escuros precisam ser calibrados no LED. Leitura do texto do Salmo 91 e eventuais variações mínimas de desenho dos objetos precisam de conferência antes de base final. A composição é estudo de continuidade, sem validação métrica.
+- **Situação:** gerada para revisão; sem aceite técnico, vídeo, Drive ou teste no telão. A referência oficial foi aceita pelo usuário; a aceitação não foi estendida automaticamente a esta variação.
+
 ## Continuação do caderno
 
 Para uma nova peça, seguir o modelo do [guia de construção](guia-de-construcao.md), mantendo o padrão visual e os campos de apresentação das pranchas do Dudu. Para revisão das quatro peças acima, manter os IDs e registrar mudanças de ordem/uso separadamente; não apagar o histórico da referência.
@@ -730,3 +1082,69 @@ Para uma nova peça, seguir o modelo do [guia de construção](guia-de-construca
 | Revisão | Origem | Conteúdo | Situação |
 | --- | --- | --- | --- |
 | v01 · 15/10/2026 | Pranchas fornecidas pelo usuário + documentação do repositório | Detalhamento inicial de 46 quadros e pontos de conferência | Estudos; sem imagens individuais geradas ou timecodes aprovados |
+
+| v02 · 16/10/2026 | Pedido do usuário + briefing/roteiro conferidos | MM-04: quatro estados, prancha v01 e prompt registrado; referências de Eduardo preservadas | Proposta visual; aprovação e alpha pendentes |
+
+| v03 · 16/10/2026 | Continuação solicitada pelo usuário + documentação | MM-09: quatro quadros, prancha v01 e prompt registrado; MM-04 e materiais de Eduardo preservados | Proposta visual; integração e alpha pendentes |
+
+| v04 · 16/10/2026 | Continuação solicitada pelo usuário + documentação | MM-14: quatro quadros, prancha v01, prompt e revisão das metáforas | Proposta visual; revisão com direção, integração e alpha pendentes |
+
+
+### Reinício oficial da casa · D-13
+
+Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; versões antigas da pasta excluídas. Três estados noturnos serão gerados exclusivamente da mesma referência; registros atuais no contrato MM-03 acima.
+
+
+## MM-01 · Exterior/entrada da prisão
+
+**Versão oficial: V05 · D-21 · 16/10/2026 · Victor · Cena 1.** Escolha explícita do usuário: V05 é a mais adequada; excluir todas as demais. [Imagem oficial](MM-01/prancha-v05.jpg) preservada sem edição. Revisões posteriores e instruções D-17–D-20 foram substituídas; não reaplicá-las sem novo pedido. Imagens/prompts das outras versões excluídos da pasta; seus registros históricos permanecem no Git, não são referência atual.
+
+**Função/fontes:** ambientação da abertura, espera durante falas e retorno após MM-02. Bíblia §§2.2/3/5.2/7.1/9/16, roteiro Cena 1, briefing Bloco I, D-16 e escolha final D-21. Jesus e dez detentas no palco; agentes e viaturas projetados foram expressamente autorizados pelo usuário. Sem cadeia física/correntes/cruz física na abertura. Não duplicar protagonistas no LED.
+
+**Contrato visual:** seguir a V05 como está — prédio penitenciário, duas telas, guarita, pátio/viaturas, agentes, segundo portão de aço, muros laterais com concertina, refletores e luz fria de entardecer. Composição e quantidade dos elementos derivam da imagem aceita, não de correções posteriores. Referência verbal Prison Break, sem foto da série recebida. Não regenerar para “corrigir” a escolha oficial nesta tarefa.
+
+| ID | Referência aceita | Uso/continuidade |
+| --- | --- | --- |
+| MM-01-Q01 | Panorama superior da V05 | Composição geral, abre com cortina e retorna após MM-02 |
+| MM-01-Q02 | Detalhe da guarita/viaturas na V05 | Mesmo arquivo aceito, sem trocar pelo Q02 de versões descartadas |
+| MM-01-Q03 | Detalhe de telas/pátio da V05 | Manter desenho e disposição da imagem oficial |
+| MM-01-Q04 | Acesso/segundo portão da V05 | Manter imagem aceita; não reaplicar edição posterior |
+
+**Movimento/tempo:** detalhes espaciais, não cortes narrativos impostos; câmera fixa/loop discreto a desenvolver. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha pronto.
+
+### Registro da geração V05 e aprovação D-21
+
+- **Geração:** 16/10/2026, Codex, `image_gen.imagegen`, fundo opaco. [Prompt integral efetivamente usado](MM-01/prompt-prancha-v05.txt) preservado. Referência da edição à época: prancha v04, inspecionada; excluída da pasta depois por pedido D-21. Nenhuma foto de viatura foi enviada à ferramenta.
+- **Original:** `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, PNG 1672×941, 2608067 bytes, fora do repositório.
+- **Oficial no repositório:** [prancha-v05.jpg](MM-01/prancha-v05.jpg), JPEG 1672×941, 630218 bytes, conversão de formato sem mudar composição. SHA-256 `c19ac147d9edf5f2c2e760d6f837dd84ca675065d8d6fcad3c66d4f7e0fc722b`; preservado byte a byte na oficialização.
+- **Feedback final:** usuário recusou a v08, escolheu a V05 como a mais adequada e autorizou excluir o restante. Aprovação da referência visual registrada; não implica validação métrica dos detalhes, padronagem oficial dos carros ou ensaio técnico. A ressalva anterior do Codex sobre quantidade não prevalece sobre essa escolha explícita.
+- **Referência de viatura:** URL fornecida pelo usuário retornou 403 e não foi vista; aviso já presente na imagem. Identidade oficial não conferida. Não alterar a imagem aceita por inferência.
+- **Situação:** somente V05 e seu prompt na pasta MM-01, além da ficha. AR próximo de 16:9, não base 4K nem matriz final do LED (P-01). Base limpa, animação, Drive e teste LED pendentes. Sem nova geração nesta oficialização.
+
+
+## MM-05 · Queda — silhuetas de luz
+
+**V03 oficial · seis quadros · Lucas · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](MM-05/prancha-v03.jpg) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
+
+**Fontes:** pedido de aprovação D-24, diretrizes D-22/D-23, briefing v1.0 §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, mapa/dependências e página de Lucas. Transcrição original ainda ausente (P-14).
+
+**Contrato visual aceito:** mesma paisagem da criação MM-04 (árvore à esquerda, água central, margens/pedras/colinas) e dois adultos recorrentes. Corpos irradiam luz intensa no começo; emissão diminui revelando forma física; fundo ganha sombra/peso. Corpo oculto por desfoque, rostos/mãos/gestos legíveis, sem exposição de detalhes íntimos. Q02 entrega, Q03 mordida, Q05 percepção, Q06 desespero com mãos na cabeça, troncos encurvados e olhares mútuos, no ambiente mais sombrio. Aparência/posição/desfoque da V03 aceita são a referência; não restituir roupas ou usar personagens das versões excluídas por inferência.
+
+**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Melissa/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
+
+| ID estável | Estado aceito da V03 | Continuidade/animação futura |
+| --- | --- | --- |
+| MM-05-Q01 · Luz emanante | Duas formas humanas irradiam luz branco-dourada intensa | Entrada na mesma paisagem de MM-04; luz em camadas |
+| MM-05-Q02 · A entrega | Mulher oferece fruto ao homem, brilho ainda forte | Mesmo fruto/personagens; gesto simples |
+| MM-05-Q03 · A mordida | Homem leva fruto à boca e morde, mulher observa | Menos emissão, mais leitura física |
+| MM-05-Q04 · Corpo emergente | Volume humano mais visível, brilho em retração | Mesmo corpo desfocado, rosto/mãos legíveis |
+| MM-05-Q05 · A percepção | Casal se olha percebendo a condição, quase sem luz própria | Transição de expressão para Q06 |
+| MM-05-Q06 · Sombra profunda | Desespero, mãos na cabeça, troncos encurvados, olhares mútuos | Estado sombrio de espera até MM-06; loop a testar |
+
+### Registro da V03 e aprovação D-24
+
+- **Geração:** 16/10/2026 · Codex · `image_gen.imagegen`, fundo opaco; [prompt efetivamente usado](MM-05/prompt-ajuste-desfoque-v03.txt). Única referência da edição à época: prancha v02 inspecionada, depois excluída por pedido D-24. Sem referência externa de ator/áudio. Uma tentativa anterior foi rejeitada sem imagem; seu prompt não rege a imagem aceita e foi retirado da pasta junto da limpeza.
+- **Método entregue:** desfoque opaco sobre áreas já cobertas da referência para ocultar roupa/anatomia, sem gerar nudez; rostos/mãos/gestos preservados. Usuário aprovou o resultado V03 como está.
+- **Original:** `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório.
+- **Arquivo oficial:** [prancha-v03.jpg](MM-05/prancha-v03.jpg), JPEG 1672×941, 666212 bytes; conversão de formato sem mudar composição. SHA-256 `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`, conferido antes/depois da limpeza.
+- **Situação:** aprovação artística explícita, seis quadros; demais versões excluídas da pasta. Não há base limpa/camadas, animação, loop testado, upload Drive ou teste LED. Pequenas variações gerativas não validam continuidade métrica; produção definitiva pede uma base única e teste das costuras MM-04/MM-06. Matriz/fps/codec seguem P-01; prancha próxima de 16:9 não é base 4K. Sem nova geração nesta oficialização.

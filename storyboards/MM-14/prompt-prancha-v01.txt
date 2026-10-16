@@ -1,0 +1,37 @@
+Crie uma única PRANCHA DE STORYBOARD cinematográfica profissional para o musical HESED 2026, MM-14 — RESUMO DOS PECADOS, Melissa, Cena 8. Layout horizontal com quatro imagens panorâmicas grandes em grade 2 por 2. Ordem Q01/Q02 acima, Q03/Q04 abaixo. Fundo editorial azul-noturno, linhas douradas finas, títulos marfim e dourado, texto português legível fora das imagens nas faixas abaixo de cada painel. Sem waveform, durações ou timecodes. Cabeçalho: "HESED • MM-14 | RESUMO DOS PECADOS". Subtítulo: "Melissa • Cena 8 • Storyboard v01 • Proposta".
+
+Função narrativa: montagem curta e simbólica sobre apego, comportamento destrutivo e aprisionamento interior, antes da restauração que virá na próxima peça MM-15. Linguagem REALISTA CONTEMPORÂNEA, humana, sóbria e respeitosa. Não ambientar em época bíblica. Mesma sala doméstica modesta com parede cinza texturizada, mesa de madeira e janela à direita. Luz natural fria azul-acinzentada vindo da direita, sombras com detalhe e pequeno calor residual. Sem escuridão ilegível. Uma mulher adulta genérica de cerca de 30 anos, pele morena, cabelo castanho-escuro cacheado na altura dos ombros, mesma jaqueta azul-escura lisa e mesma blusa bege em todos os quadros. Expressão humana e contida, sem vilanização. Não representa atriz real. Anatomia e mãos naturais. Poucos objetos para leitura no telão. Sem marcas, armas, sangue, violência, sexualização, drogas, correntes literais ou grades de cela. A dor é comunicada por enquadramento, gestos e sombra. Não mostrar cura ou libertação já acontecendo.
+
+Q01 — APEGO AO STATUS: plano médio em três quartos, mulher à esquerda sentada junto à mesa, olhando para baixo, segurando delicadamente um colar discreto junto ao peito com as mãos naturais, expressão fechada e apego ao objeto. Joia pequena e comum, não publicidade de luxo. Parede e espaço negativo à direita, luz fria lateral. Um único instante.
+Faixa externa:
+"MM-14-Q01 • APEGO AO STATUS"
+"Imagem: o objeto ocupa o lugar do vínculo."
+"Mov.: aproximação discreta • Efeito: cor contida."
+"Entrada: «Cada uma de nós estava vivendo...»."
+
+Q02 — RAIVA CONTIDA: mesma mulher e mesma sala, plano médio próximo, mãos fechadas separadas pousadas na mesa, ambas inteiras e claramente distintas no terço inferior, expressão tensa sem gritar, nenhuma outra pessoa ou alvo de agressão. Não mostrar movimento golpeando mesa. Continuidade de roupa, cabelo e luz.
+Faixa:
+"MM-14-Q02 • RAIVA CONTIDA"
+"Imagem: tensão no rosto e nas mãos."
+"Mov.: avanço curto • Transição: corte simples."
+"Montagem breve, acompanhando a recapitulação."
+
+Q03 — OCULTAÇÃO: mesma mulher em perfil parcial junto a um pequeno espelho simples na parede da mesma sala, rosto parcialmente encoberto por sombra natural, olhar evitativo. Reflexo fisicamente correto, mesmo rosto e roupa, sem espelho quebrado, sem duplicações impossíveis. Poucos elementos e nada escrito. Metáfora discreta de ocultação e mentira, sem máscara teatral.
+Faixa:
+"MM-14-Q03 • OCULTAÇÃO"
+"Imagem: rosto e reflexo parcialmente na sombra."
+"Mov.: deslocamento mínimo • Efeito: máscara de luz."
+"Corte simples • Sem listar cada pecado."
+
+Q04 — APRISIONAMENTO: plano geral da mesma sala, mesma mulher sentada sozinha em cadeira à esquerda, ombros recolhidos e mãos relaxadas no colo, muito espaço vazio à direita. Sombras alongadas dos montantes da janela no chão e parede sugerem barras simbólicas, SEM grades reais. Corpo e rosto visíveis, sem apagar em preto. A janela é fonte de luz fria contida, não um portal dourado. O estado final permanece aprisionado; restauração começa somente em MM-15.
+Faixa:
+"MM-14-Q04 • APRISIONAMENTO"
+"Imagem: isolamento e sombras que fecham o espaço."
+"Mov.: sustentação sutil • Espera: duração variável."
+"Saída: «Ele curou, ensinou e perdoou» → MM-15."
+
+Rodapé com quatro amostras: azul-acinzentado, cinza de sombra, bege dessaturado, âmbar residual, sob rótulo "PALETA PROPOSTA".
+Linha principal: "MONTAGEM CURTA: Q01 → Q02 → Q03 → Q04 • Sustentar Q04 até o gatilho de saída."
+Linha: "Aprisionamento → restauração • Alinhar ritmo e cor com Lucas/MM-15."
+Nota: "Estudo para revisão • Tempos a ajustar à fala • Sem texto nas bases finais."
+Garantir que não há legenda DENTRO das vistas cinematográficas; toda anotação fica nas faixas da prancha. A mesma mulher e a mesma sala em quatro planos que comuniquem o arco sem melodrama. Não transformar em cartaz de terror.
