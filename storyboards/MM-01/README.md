@@ -4,62 +4,50 @@
 | --- | --- |
 | **Responsável** | Victor |
 | **Cena** | 1 · Pós-libertação |
-| **Etapa** | Storyboard v08 · Q02 corrigido; viaturas provisórias |
+| **Versão oficial** | **V05**, escolhida pelo usuário em 16/10/2026 (D-21) |
+| **Etapa** | Storyboard aprovado como referência visual; produção/ensaio técnico pendentes |
 | **Recebe de** | Posição cênica final de Goel; foto/frame/planta não fornecidos |
-| **Interrupção/retorno** | MM-02, flashback de Goel; depois retorna ao mesmo ambiente MM-01 |
-| **Saída** | Encerramento da Cena 1 e transição para a casa MM-03; estado técnico a definir |
-| **Controle** | Fala com duração variável; sem timecodes medidos |
+| **Interrupção/retorno** | MM-02, flashback; retorno ao mesmo ambiente MM-01 |
+| **Saída** | Encerramento da Cena 1, transição à casa MM-03; operação a definir |
+| **Controle** | Fala variável; sem duração medida |
 | **Drive** | A definir (P-13); nenhum upload realizado |
 
-## Prancha v08 · correção localizada Q02 (D-20)
+## V05 · única referência oficial
 
-![Storyboard MM-01 v08 — Q02 com tela no lugar da entrada extra](prancha-v08.jpg)
+![MM-01 — V05 oficial](prancha-v05.jpg)
 
-**Conceito:** exterior de prisão contemporânea, austero, com figuração de segurança discreta, que sustenta a atuação presencial e o retorno do flashback. Panorama e três detalhes do mesmo espaço, sem cortes narrativos adicionais.
+O usuário escolheu esta prancha por considerá-la a mais adequada e pediu excluir as demais versões. **A V05 foi preservada sem alteração.** As outras imagens e seus prompts foram retirados desta pasta. Não reaplicar as correções posteriores rejeitadas nem usar outra composição como referência sem novo pedido. A escolha V05 substitui D-17–D-20 como orientação de revisão.
 
-**Diretriz atual do usuário (D-16):** preservar prédio/guarita, substituir grades por duas cercas de tela, manter muros só nas laterais com concertina e acrescentar refletores altos voltados para fora. Segundo portão de aço maciço no acesso ao fundo, com sentinelas. Dois agentes na guarita, agentes externos e viaturas atrás/ao lado dela no primeiro pátio. Polícia **Penal de Minas Gerais**, distinta da Militar. Isso autoriza figuração de segurança projetada; Jesus e detentas continuam no palco.
+## Composição e quadros
 
-**Limitação aberta:** cores, modelo e marca das viaturas/uniformes ainda não conferidos. A foto indicada pelo usuário retornou 403 e não pôde ser vista nem usada na geração. SUVs e insígnias na prancha são provisórios; não afirmar reprodução oficial ou da frota mais recente. A identificação correta depende do recebimento da foto anexada. Arquitetura de referência verbal Prison Break, sem frame da série fornecido. **V08 para avaliação de Q02; Q01/Q03/Q04 da v07 foram considerados corretos pelo usuário.**
+Exterior da penitenciária ao entardecer, duas cercas de tela, guarita junto ao portão externo, pátio com viaturas e agentes, segundo portão maciço, prédio ao fundo, muros laterais com concertina e refletores altos. Referência arquitetônica verbal: Prison Break; nenhum frame da série foi fornecido.
 
-**Correções atuais:** segundo portão no eixo da entrada principal, conforme Q04 (D-17). Quantidade da v05 mantida a pedido do usuário (D-19), com grupos dos dois lados presentes nos quatro ângulos (D-18). Detalhes reenquadrados para caber a frota; a redução da v06 foi recusada. A contagem visual de seis SUVs deriva do panorama de referência, não de número fixado verbalmente pelo usuário. **D-20:** Q02 corrigido para remover a entrada extra à esquerda e recompor tela contínua; preservar os demais quadros.
+| ID | Conteúdo da V05 | Uso |
+| --- | --- | --- |
+| MM-01-Q01 | Panorama do exterior com prédio, telas, acesso, guarita e viaturas | Composição geral |
+| MM-01-Q02 | Guarita e viaturas | Detalhe espacial da prancha |
+| MM-01-Q03 | Duas telas e pátio | Detalhe espacial da prancha |
+| MM-01-Q04 | Acesso e segundo portão | Detalhe espacial da prancha |
 
-## Quadros
+Os detalhes são estudos gerados; não são cortes narrativos obrigatórios nem perspectivas métricas validadas. A versão foi escolhida como está, sem nova geração.
 
-| ID | O que se vê | Movimento/uso | Gatilho |
-| --- | --- | --- | --- |
-| MM-01-Q01 | Panorama: duas telas, guarita/viaturas, segundo portão e penitenciária | Composição principal; futura câmera fixa e loop ambiental discreto, sem animar o portão | Abertura da cortina; reutilizar no retorno de MM-02 |
-| MM-01-Q02 | Guarita com dois agentes e viaturas provisórias ao lado | Detalhe espacial para revisão, sem corte obrigatório | Mesmo ambiente Q01 |
-| MM-01-Q03 | Vista através das duas telas ao pátio, portão maciço e penitenciária | Detalhe espacial para revisão, sem ação adicional | Mesmo ambiente Q01 |
-| MM-01-Q04 | Acesso externo aberto, segundo portão maciço e sentinelas | Detalhe espacial para revisão, sem sequência de abertura do portão | Mesmo ambiente Q01 |
+## Palco, gatilhos e continuidade
 
-## Palco e telão
+Jesus e dez detentas estão **no palco**; a projeção não os duplica. Na abertura da cortina retomam a posição final de Goel. Jesus sai pelo corredor central, detentas congeladas até sua saída, depois se levantam e discutem; Religiosidade permanece sentada. Figuração de segurança projetada foi autorizada pelo usuário (D-16). Sem estrutura física de cadeia, correntes ou cruz física na abertura, conforme Bíblia §§2.2/3.
 
-Jesus e dez detentas estão **no palco**, retomando a posição final de Goel. Jesus sai pelo corredor central enquanto elas permanecem congeladas; depois se levantam e discutem. Religiosidade permanece sentada. O telão oferece ambientação, sem duplicar esses personagens; os agentes de segurança projetados foram acrescentados por pedido explícito do usuário (D-16). A Bíblia corrige a indicação original de cadeia: não há estrutura física de cadeia, correntes ou cruz física na abertura.
+Há outro congelamento durante a discussão para MM-02. Ao terminar o vídeo, volta imediatamente o mesmo ambiente MM-01. Primeiro estado: exterior da V05; espera/retorno: mesma composição; último estado e transição técnica a combinar. Futuro loop discreto/câmera fixa, ainda não produzido. Não inventar tempos ou música.
 
-A discussão congela para o vídeo MM-02, feito separadamente. Ao fim dele, retoma imediatamente no mesmo ambiente MM-01. Esse congelamento é diferente do inicial, durante a saída de Jesus. Não inventar duração, blackout ou música para a imagem. Estado do telão no encerramento segue a definir (P-08/P-15).
+## Fontes e registro
 
-## Primeiro e último frame
+[Bíblia canônica](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.2/3/5.2/7.1/9/16; [roteiro Cena 1](../../docs/roteiro.md); [briefing Bloco I](../../docs/briefing.md); [decisões D-21](../../docs/decisoes.md); [guia](../guia-de-construcao.md); [caderno vigente](../briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão); [Victor](../../equipe/victor.md).
 
-- **Primeiro:** exterior Q01 na abertura da cortina, apoiando a continuidade cênica de Goel sem afirmar reprodução arquitetônica da montagem anterior.
-- **Espera/retorno:** mesma base durante as falas e após MM-02; futuro loop com início/fim compatíveis, ainda não produzido.
-- **Último:** preservar o ambiente até o gatilho técnico combinado; não há transição renderizada ou duração definida.
+- [Prancha oficial V05](prancha-v05.jpg): JPEG 1672×941, 630218 bytes; preservada byte a byte.
+- SHA-256: `c19ac147d9edf5f2c2e760d6f837dd84ca675065d8d6fcad3c66d4f7e0fc722b`.
+- [Prompt efetivamente usado na V05](prompt-prancha-v05.txt), preservado como registro da geração; não substitui a imagem aceita nem garante sua reprodução idêntica.
+- Original da geração: `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, fora do repositório. A edição usou a então v04; essa versão foi excluída da pasta por D-21. Histórico documental anterior recuperável no Git.
 
-## Fontes e rastreabilidade
+## Limites técnicos
 
-[Bíblia de Produção](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.2/3/5.2/7.1/9/16, [roteiro Cena 1](../../docs/roteiro.md), [briefing Bloco I](../../docs/briefing.md), [alinhamento das fontes](../../docs/alinhamento-das-fontes.md), [Victor](../../equipe/victor.md), [guia](../guia-de-construcao.md) e [briefings/registro dos quadros](../briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão).
+A escolha artística está confirmada. Não há base limpa, animação, teste no LED ou aceite técnico. Prancha próxima de 16:9; painel ≈6×3 m não define matriz/fps/codec (P-01). Não é base 4K.
 
-- [Prompt integral vigente](prompt-prancha-v08.txt); edição em `image_gen.imagegen` com [v07](prancha-v07.jpg) inspecionada e usada como única referência visual. [Prompt do alinhamento v04](prompt-prancha-v04.txt), [ensaio de continuidade v05](prompt-prancha-v05.txt) e [redução substituída v06](prompt-prancha-v06.txt) preservados com registros no caderno.
-- Original PNG preservado fora do repositório: `/workspace/generated_images/exec-f7aa129d-df5b-4f2d-a78b-50b83860f5dc.png`.
-- Prancha JPEG leve no repositório: **1672×941**, **603513 bytes**; sem mudança de composição na conversão. AR próximo de 16:9; não é a resolução final de exibição.
-- Painel informado ≈6×3 m; matriz, fps e codec seguem pendentes (P-01). Base limpa, animação e teste no LED ainda não realizados.
-- A transcrição original da reunião não foi recebida (P-14); a Bíblia é uma consolidação, não a transcrição.
-
-## Revisão visual e pendências
-
-O panorama preserva a frota v05; Q02/Q03/Q04 mostram grupos dos dois lados e portão no eixo da entrada. Q02 agora tem enquadramento mais aberto com guarita centralizada. A ferramenta redesenhou os detalhes, portanto são estudos de continuidade, sem validação métrica de perspectiva/distâncias. Conferir relações de escala e oclusão antes de base definitiva e teste LED. **Q01/Q03/Q04 da v07 considerados corretos pelo usuário; correção Q02/v08 ainda para avaliação.**
-
-**Viaturas/insígnias:** [referência indicada pelo usuário](https://viuitauna.com.br/wp-content/uploads/2022/12/Policia-Penal-Fotos-Divulgacao-Governo-de-Minas-1.jpeg), recebida enquanto a geração estava em andamento. O servidor/proxy retornou 403 nas tentativas; foto não vista, não baixada e não enviada à ferramenta. Necessário anexá-la para acertar modelo, cores e marca. A prancha avisa que essa referência ainda será conferida. Não confundir o ano no caminho do link com confirmação do modelo mais recente.
-
-**Histórico:** [v01](prancha-v01.jpg), leitura inicial; [v02](prancha-v02.jpg), prédio/guarita; [v03](prancha-v03.jpg), telas/segurança; [v04](prancha-v04.jpg), portão alinhado; [v05](prancha-v05.jpg), quantidade de viaturas mantida por escolha do usuário; [v06](prancha-v06.jpg), redução recusada/substituída. [v07](prancha-v07.jpg), frota preservada, com erro de entrada extra no Q02. **V08 é a proposta atual**, removendo essa entrada indevida e colocando tela. Nenhuma versão tem aceite técnico.
-
-A pausa documental registrada em D-14 foi cumprida antes do storyboard; revisão atual autorizada pelo pedido posterior D-16.
+A própria prancha registra viaturas/insígnias a conferir. A [foto indicada pelo usuário](https://viuitauna.com.br/wp-content/uploads/2022/12/Policia-Penal-Fotos-Divulgacao-Governo-de-Minas-1.jpeg) retornou 403 e não foi vista nem usada na ferramenta; não afirmar padronagem oficial conferida. Isso não altera a escolha da V05 como referência oficial.
