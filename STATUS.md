@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-01: revisão v02/D-15)
+**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-01: revisão v03/D-16; referência de viatura pendente)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -10,7 +10,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 
 | MM | Peça | Cena | Responsável | Etapa | Versão | Próximo passo | Travado por |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | storyboard v02 | Revisar [prancha](storyboards/MM-01/prancha-v02.jpg): grade frontal, guarita junto ao portão e penitenciária visível (D-15) | - |
+| MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | storyboard v03 | Revisar [prancha](storyboards/MM-01/prancha-v03.jpg); receber foto anexada da viatura para conferir modelo/padronagem; fixar eixo do segundo portão | Link da referência retornou 403 |
 | MM-02 | Flashback de Goel (recap) | 1 | Victor | ⬜ | - | Combinar com Isaac a divisão do arquivo de Goel (P-04) | - |
 | MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-04/prancha-v01.jpg), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |

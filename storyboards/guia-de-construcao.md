@@ -81,7 +81,7 @@ Para imagens-base, a referência documental é **3840×2160**. Isso não define 
 
 ### Prisão · MM-01 · diretrizes atuais
 
-**D-15:** referência verbal Prison Break. Guarita contígua ao portão, grade no limite frontal permitindo enxergar pátio/passagem, muro de segurança mais distante e prédio da penitenciária visível atrás/acima dele. A grade é projetada na imagem; não implica construir grade física no palco. Substitui a fachada opaca e a guarita isolada do estudo v01. Consultar [revisão v02 no caderno](briefings-dos-quadros.md#revisão-mm-01-v02--d-15). Mesmos IDs Q01–Q04, panorama e três detalhes; atuação permanece no palco. Nenhum frame da série foi fornecido; não afirmar cópia fiel de locação. Arte resultante ainda depende de revisão.
+**D-16 prevalece sobre a arquitetura de D-15:** manter prédio penitenciário e guarita da v02; duas cercas frontais de **tela metálica**, muros só nas laterais com concertina, segundo portão de **aço maciço** no acesso ao fundo, refletores altos voltados para fora. Guarita contígua ao portão externo, viaturas no primeiro pátio atrás/ao lado dela. **Figuração projetada agora expressamente autorizada:** dois agentes na guarita, agentes externos e sentinelas no segundo portão, todos da Polícia Penal de Minas Gerais; não duplicar Jesus/detentas do palco. Modelos, padronagem e insígnias atuais das viaturas exigem referência oficial; sem acesso à fonte, marcar estudo provisório, não reprodução conferida. Consultar [revisão v03 no caderno](briefings-dos-quadros.md#revisão-mm-01-v03--d-16). Mesmos IDs Q01–Q04. Telas são projetadas, não estrutura física no palco. Referência verbal Prison Break mantida para arquitetura. Arte resultante depende de avaliação.
 
 ### Casa da Religiosidade · diretrizes atuais
 

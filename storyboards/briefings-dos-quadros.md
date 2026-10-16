@@ -1096,7 +1096,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-01 · Exterior/entrada da prisão
 
-**Vigência:** revisão v02/D-15 ao final desta seção prevalece sobre as escolhas arquitetônicas v01 abaixo, preservadas como histórico.
+**Vigência:** revisão v03/D-16 ao final desta seção prevalece sobre restrições e escolhas v01/v02 abaixo, preservadas como histórico.
 
 **Cena 1 · Victor · Estudo v01 · 16/10/2026.** Pedido atual do usuário autoriza iniciar o storyboard após a incorporação documental D-14; arte ainda não aprovada.
 
@@ -1184,3 +1184,38 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Cópia no repositório:** [prancha-v02.jpg](MM-01/prancha-v02.jpg), JPEG 1672×941, 560390 bytes; conversão de formato, mesma composição. AR próximo de 16:9; não é base 4K nem matriz final do painel.
 - **Revisão visual:** agora há penitenciária institucional grande atrás do muro recuado, grade frontal transparente, pátio e guarita imediatamente contígua ao portão aberto. Sem pessoas, correntes ou cruz. Detalhes mantêm a geografia geral, mas são aproximações geradas, não recortes pixel a pixel: escala/posição aparente de janelas e do bloco devem ser fixadas numa base única antes da animação. Q03 usa grade mais próxima e espessa que no panorama; pode precisar de afastamento na base final. Luminárias/janelas quentes e vegetação são escolhas geradas; paleta geral permanece fria.
 - **Situação:** v02 entregue para avaliação, sem aprovação artística/alpha/teste no LED. V01 preservada como histórico, recusada para seguir sem esta correção de leitura arquitetônica. As exigências D-15 são aprovadas pelo pedido; a imagem nova não foi automaticamente aprovada.
+
+
+### Revisão MM-01 v03 · D-16
+
+**Origem:** correção do usuário em 16/10/2026. Prédio aprovado para manutenção, guarita e portão externo avaliados positivamente. Mudar pátio e segurança; isso não é aprovação integral da v02 nem da imagem futura.
+
+**Contrato vigente:** ambientação da Cena 1; abertura → MM-02 → retorno ao mesmo cenário; Jesus e detentas no palco. **Personagens projetados agora necessários por pedido explícito:** dois agentes na guarita, alguns externos e sentinelas no segundo portão. São agentes da Polícia Penal de Minas Gerais; não confundir com PMMG ou duplicar protagonistas. Cenário mantém fonte fria/contida, câmera fixa, futura espera/loop; sem duração medida. Movimento dos agentes/viaturas não solicitado nesta prancha; não inventar patrulha ou abordagem.
+
+**Geografia:** câmera fora da unidade. Primeira cerca de tela de malha losangular, com pilares de concreto; portão externo aberto junto à guarita. Primeiro pátio com passagem veicular desobstruída, duas viaturas como escolha de quantidade, estacionadas atrás/ao lado da guarita. Segunda cerca de tela mais distante, cortada por grande portão de aço maciço fechado alinhado ao primeiro acesso. Dois sentinelas como proposta de quantidade junto a esse portão. A penitenciária da v02 permanece visível através das telas. Muros apenas nas laterais, recuando, com concertina sobre eles; refletores no alto da penitenciária apontando para fora. Não usar muro opaco atravessando o fundo frontal nem grades de barras em lugar de tela.
+
+**Referências e limite de fidelidade:** prancha-v02.jpg inspecionada, enviada como única referência visual; Prison Break é referência verbal arquitetônica. Tentativas de consultar seguranca.mg.gov.br, agenciaminas.mg.gov.br e busca Google bloqueadas pelo proxy (403); nenhum conteúdo ou foto oficial acessado. Referência da nova viatura/uniforme/insígnias foi solicitada ao usuário enquanto o cenário avança. Não afirmar confirmação do modelo mais recente, paleta ou brasão. Viaturas/insígnias nesta geração serão estudo provisório, com anotação explícita fora dos painéis; revisão oficial permanece pendente. A designação institucional usada é Polícia Penal MG, não Militar. Não copiar visual de outra corporação como se fosse confirmado.
+
+| ID | Composição vigente v03 | Figuração/continuidade | Evitar |
+| --- | --- | --- | --- |
+| MM-01-Q01 | Panorama com duas telas, pátio, guarita/portão externo, segundo portão maciço, prédio preservado e refletores altos; muros laterais com concertina | Dois agentes na guarita, dois externos e dois no portão interno como proposta de distribuição; duas viaturas ao lado/atrás da guarita | Muro frontal ao fundo, ocultar penitenciária, confundir corporação |
+| MM-01-Q02 | Detalhe da mesma guarita, portão externo e viaturas no primeiro pátio | Exatamente dois agentes no interior; preservar posições relativas dos externos/carros | Esconder veículos com muro, mudar guarita ou viaturas |
+| MM-01-Q03 | Vista através da primeira tela até segunda tela, portão maciço e prédio | Mesma malha, pilares e geografia; agentes ao fundo subordinados à cena | Barras verticais pesadas e segundo muro opaco |
+| MM-01-Q04 | Vista pelo primeiro portão aberto ao segundo portão de aço, com tela a ambos os lados e prédio atrás | Sentinelas nas mesmas posições de Q01; portão interno fechado, sem sequência de abertura | Acesso terminando em parede lisa, trocar portão maciço por tela |
+
+**Luz/animação comuns:** mesma hora fria da v02, pequenos focos práticos; refletores de segurança funcionais, sem fachos teatrais ou ofuscamento. Loop futuro discreto; sem animação aprovada de policiais, veículos, giroflex ou portões. Detalhes espaciais, não novos cortes narrativos. Prancha horizontal próxima de 16:9; resolução real será registrada, matriz LED segue P-01.
+
+**Prompt efetivo a enviar:** [prompt-prancha-v03.txt](MM-01/prompt-prancha-v03.txt). **Fontes:** D-16/pedido atual, guia atualizado e fichas, Bíblia §§2.2/3/7.1, roteiro Cena 1, briefing Bloco I e alinhamento; aprovação artística da v03 pendente.
+
+
+### Registro de geração · MM-01 v03 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex; revisão D-16 solicitada pelo usuário.
+- **Consulta prévia:** guia/caderno v03 e fontes citadas no contrato; v02 inspecionada.
+- **Ferramenta/referências reais:** `image_gen.imagegen`, fundo opaco, edição usando somente `/workspace/Hesed-GET/storyboards/MM-01/prancha-v02.jpg`. Nenhuma foto de viatura acessada ou enviada à ferramenta.
+- **Prompt efetivo:** [prompt-prancha-v03.txt](MM-01/prompt-prancha-v03.txt), integral, sem acréscimos.
+- **Original preservado:** `/workspace/generated_images/exec-402fe0b8-81c7-4da1-8101-ba404f2f2996.png`, PNG 1672×941, 2781678 bytes, fora do repositório.
+- **Arquivo no repositório:** [prancha-v03.jpg](MM-01/prancha-v03.jpg), JPEG 1672×941, 644227 bytes, conversão de formato sem mudar composição. Não é base 4K ou especificação final do LED.
+- **Revisão visual:** prédio e guarita reconhecíveis, duas telas, segundo portão maciço com sentinelas, dois agentes na guarita, externos/viaturas, concertina nos muros laterais e refletores altos. Q03 aproxima bastante a tela. Detalhes não são recortes exatos; especialmente o eixo do segundo portão aparece mais central no panorama e alinhado ao acesso em Q04. Fixar a geografia numa base única antes da animação. Refletores, desenho do uniforme e identidade dos SUVs são estudo gerado, não reprodução técnica/oficial conferida.
+- **Referência recebida durante a geração:** [foto indicada pelo usuário](https://viuitauna.com.br/wp-content/uploads/2022/12/Policia-Penal-Fotos-Divulgacao-Governo-de-Minas-1.jpeg). Tentativas diretas de abrir/baixar via urllib e curl, inclusive execução escalada, retornaram 403. Arquivo não recebido/inspecionado; URL registrada como referência desejada, NÃO como imagem efetivamente usada. O caminho do link contém 2022/12, mas não comprova data da frota ou que seja o modelo mais recente. Necessário receber a imagem anexada para confirmar modelo, cores e brasão. Consulta oficial prévia também bloqueada.
+- **Situação:** estudo v03 entregue, sem aprovação artística, alpha, Drive ou teste LED. Texto na prancha explicita “Viaturas e insígnias: referência oficial a conferir”. Ajuste fiel dos veículos permanece pendente; não alegar tarefa integralmente concluída quanto à identidade visual solicitada.
