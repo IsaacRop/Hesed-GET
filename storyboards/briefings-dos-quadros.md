@@ -36,6 +36,8 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## Índice
 
+- [MM-01 · Exterior/entrada da prisão](#mm-01--exteriorentrada-da-prisão)
+
 - [MM-03 · Casa da Religiosidade](#mm-03--casa-da-religiosidade)
 - [MM-04 · Criação perfeita](#mm-04--criação-perfeita)
 
@@ -1090,3 +1092,63 @@ Para uma nova peça, seguir o modelo do [guia de construção](guia-de-construca
 ### Reinício oficial da casa · D-13
 
 Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; versões antigas da pasta excluídas. Três estados noturnos serão gerados exclusivamente da mesma referência; registros atuais no contrato MM-03 acima.
+
+
+## MM-01 · Exterior/entrada da prisão
+
+**Cena 1 · Victor · Estudo v01 · 16/10/2026.** Pedido atual do usuário autoriza iniciar o storyboard após a incorporação documental D-14; arte ainda não aprovada.
+
+**Fontes consultadas:** Bíblia de Produção v0.1 §§2.2/3/5.2/7.1/9/16; roteiro Cena 1; briefing Bloco I; alinhamento das fontes; D-14; guia de construção; ficha MM-01 e página de Victor. A transcrição original e fotos/frames/planta de Goel não foram recebidos. Nenhuma referência visual de prisão fornecida.
+
+**Contrato:** ambientação exterior/entrada da prisão. No palco, Jesus e dez detentas retomam Goel; Jesus sai pelo corredor central enquanto elas permanecem congeladas, depois elas se levantam e discutem. Sem cadeia física, correntes ou cruz física na abertura. **Personagens no telão: não previstos nesta proposta**, pois a atuação está no palco. Não duplicar elenco no LED. MM-02 interrompe a discussão e, ao terminar, retorna imediatamente ao mesmo ambiente MM-01. Não confundir esse congelamento com o inicial. Controle por fala variável, duração não medida.
+
+**Escolhas artísticas para revisão:** prisão brasileira contemporânea em concreto simples, entardecer frio, guarita à esquerda, centro visualmente calmo e acesso aberto à direita. A abertura do portão e a hora do dia não são decisões do roteiro. Sem placa identificadora, correntes, cruz, figuras, veículos ou grades atravessando toda a composição. Exterior com profundidade; não cela. Luz fria/contida deriva da direção de abertura; sua intensidade no LED depende de teste.
+
+**Entrega:** prancha horizontal próxima de 16:9, panorama e três detalhes espaciais do mesmo ambiente. Não são quatro cortes nem quatro momentos narrativos. Q01 é a composição principal; Q02–Q04 servem para revisão. Fundo sem personagens. Base limpa e animação ainda não produzidas. Painel ≈6×3 m é referência física; matriz/fps/codec seguem P-01.
+
+### MM-01-Q01 · Panorama exterior
+- Situação: proposta, sem aprovação artística.
+- Intenção/gatilho: sustentar abertura da cortina, saída de Jesus e discussão; retornar após MM-02.
+- Imagem/composição: plano geral ao nível dos olhos; guarita lateral esquerda, concreto e passagem central, portão aberto à direita. Primeiro plano pavimentado vazio; centro de baixo contraste para apoiar o elenco.
+- Luz/cor: ambiente azul-cinza de entardecer, fria e contida; sombras legíveis, luminária funcional discreta no acesso.
+- Continuidade: mesma geografia nos três detalhes; nenhuma alegação de copiar a montagem anterior sem referência.
+- Animação/transição: câmera fixa, futura variação ambiental quase imperceptível em loop; não animar portão nem acrescentar ação. Primeiro/último estado compatíveis. Interrupção por MM-02 e retorno à mesma base; encerramento técnico a combinar, sem timing inventado.
+- Evitar: interior de cela, grade cobrindo a tela, Jesus/detentas projetados, luz sobrenatural, horror, cruz e correntes.
+- Prompt: panorama e contrato descritos integralmente no [prompt efetivo da prancha](MM-01/prompt-prancha-v01.txt).
+
+### MM-01-Q02 · Guarita lateral
+- Situação: detalhe espacial proposto; não é novo estado/corte.
+- Imagem/composição: recorte da guarita esquerda de Q01, janela de atendimento escura, paredes de concreto simples; sem guarda ou placa.
+- Luz/continuidade: mesmas fontes frias, arquitetura e entardecer de Q01.
+- Animação/tempo: sem animação própria nesta prancha; duração não definida.
+- Evitar: outra prisão, figuração humana, aparência de comércio.
+- Prompt: recorte esquerdo especificado no [prompt da prancha](MM-01/prompt-prancha-v01.txt).
+
+### MM-01-Q03 · Fachada e passagem
+- Situação: detalhe espacial proposto; não é novo estado/corte.
+- Imagem/composição: recorte central de Q01, plano de concreto e pavimento vazio, profundidade e espaço visual calmo.
+- Luz/continuidade: azul-cinza contido, sombras legíveis; mesmos materiais de Q01.
+- Animação/tempo: sem ação adicional; futura espera conforme fala, sem segundos definidos.
+- Evitar: acrescentar cela, cruz ou personagem, enriquecer o centro com elementos que disputem atenção.
+- Prompt: recorte central especificado no [prompt da prancha](MM-01/prompt-prancha-v01.txt).
+
+### MM-01-Q04 · Acesso aberto
+- Situação: detalhe espacial proposto; abertura do portão sujeita a revisão.
+- Imagem/composição: recorte direito de Q01, folha metálica aberta junto à lateral e curto corredor EXTERIOR vazio; sem grades em primeiro plano fechando a visão.
+- Luz/continuidade: mesma hora e iluminação do panorama; discreta luminária funcional, sem clarão simbólico.
+- Animação/tempo: portão permanece no mesmo estado; não gerar sequência de libertação nem ação de Jesus. Sem tempo definido.
+- Evitar: túnel luminoso, celas, correntes, pessoas e mudança da arquitetura.
+- Prompt: recorte direito especificado no [prompt da prancha](MM-01/prompt-prancha-v01.txt).
+
+**Referências usadas nos quatro quadros:** fontes textuais acima; nenhuma imagem de referência. Ferramenta recebe prompt autossuficiente, não o repositório. Registro do resultado e revisão visual será acrescentado após a geração.
+
+### Registro de geração · MM-01 v01 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex; pedido do usuário “vamos ao MM01”.
+- **Consulta prévia:** guia de construção, contrato e quatro briefings acima; Bíblia, roteiro Cena 1, briefing Bloco I, alinhamento/D-14 e ficha de Victor.
+- **Ferramenta e referências:** `image_gen.imagegen`, fundo opaco; geração nova sem imagens de referência. Fontes textuais descritas acima.
+- **Prompt efetivamente enviado:** [prompt-prancha-v01.txt](MM-01/prompt-prancha-v01.txt), integral, sem alterações adicionais.
+- **Original:** `/workspace/generated_images/exec-3584b90a-d182-4353-958a-6c66d8690d59.png`, PNG 1672×941, 2308193 bytes, mantido fora do repositório.
+- **Arquivo no repositório:** [prancha-v01.jpg](MM-01/prancha-v01.jpg), JPEG 1672×941, 463606 bytes; conversão de formato sem alterar a composição. Não é base 4K nem especificação final do LED.
+- **Revisão visual:** panorama e três detalhes legíveis, exterior contemporâneo, nenhum personagem/corrente/cruz; acesso aberto e perspectiva de corredor exterior preservados. A ferramenta acrescentou vegetação, postes e pequenas luminárias quentes, mantendo ambiente geral frio; são elementos da proposta, não requisitos documentais. Q04 é aproximação com pequena mudança de ponto de vista; continuidade arquitetônica precisa ser conferida antes de bases definitivas. O muro central ocupa grande área por intenção de apoiar atores, mas sua leitura e o nível de sombra dependem de revisão e teste no LED.
+- **Situação/feedback:** primeira proposta entregue; sem aprovação do usuário, alpha, teste no LED ou envio ao Drive. Nenhuma mudança de escopo da Cena 1 foi aprovada por esta geração.
