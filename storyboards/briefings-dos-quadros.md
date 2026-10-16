@@ -40,6 +40,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 - [MM-03 · Casa da Religiosidade](#mm-03--casa-da-religiosidade)
 - [MM-04 · Criação perfeita](#mm-04--criação-perfeita)
+- [MM-05 · Queda — silhuetas de luz](#mm-05--queda--silhuetas-de-luz)
 
 - [MM-07 · Nasceu em Belém](#mm-07--nasceu-em-belém)
 - [MM-09 · Profetas](#mm-09--profetas)
@@ -1119,3 +1120,62 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Feedback final:** usuário recusou a v08, escolheu a V05 como a mais adequada e autorizou excluir o restante. Aprovação da referência visual registrada; não implica validação métrica dos detalhes, padronagem oficial dos carros ou ensaio técnico. A ressalva anterior do Codex sobre quantidade não prevalece sobre essa escolha explícita.
 - **Referência de viatura:** URL fornecida pelo usuário retornou 403 e não foi vista; aviso já presente na imagem. Identidade oficial não conferida. Não alterar a imagem aceita por inferência.
 - **Situação:** somente V05 e seu prompt na pasta MM-01, além da ficha. AR próximo de 16:9, não base 4K nem matriz final do LED (P-01). Base limpa, animação, Drive e teste LED pendentes. Sem nova geração nesta oficialização.
+
+
+## MM-05 · Queda — silhuetas de luz
+
+**Cena 3 · Lucas · storyboard v01 · 16/10/2026.** Pedido do usuário autoriza preparar a peça. Escolhas visuais abaixo são propostas, sem aprovação artística presumida.
+
+**Fontes consultadas:** briefing v1.0 §11/MM-05 e §8/MM-04; roteiro Cena 3, da indicação de Adão/Eva/fruto até “Enviando alguém pra nos salvar”; Bíblia de Produção §§3/5.2/7.1/9 (BIB-Q008), alinhamento, decisões, dependências, mapa e página de Lucas; guia canônico, contrato/prancha MM-04 e ficha MM-06. Transcrição original ausente (P-14). Não houve acesso a áudio master ou frame final do MM-06.
+
+**Função:** transformação simbólica do mundo íntegro em ruptura/peso, com duas silhuetas que perdem luz. Não é mero fundo sem figuras nem montagem literal dos dez pecados. **Palco:** detentas ouvem a narrativa, casa/mesa permanecem fisicamente; não duplicar elenco na projeção. **Personagens no telão:** duas silhuetas humanas são necessárias ao conceito do briefing; leitura como Adão/Eva e gesto contido com fruto deriva da indicação do roteiro. Bíblia permite Adão/Eva na mídia. Não presumir atores físicos novos ou gravação. Aparência proposta: formas humanas lisas, um contorno masculino e outro feminino, sem rosto reconhecível, detalhes íntimos ou anatomia explícita. Não requer figurino/identidade facial recorrente nesta entrega; duas figuras fixas em escala e posição.
+
+**Gatilhos/continuidade:** recebe da Melissa/MM-04 a criação ainda luminosa na fala “Deu errado quando o ser humano escolheu viver longe de Deus”. Progride sob as falas; após a perda de luz, segura a lista dos pecados/promessa/diálogo em loop discreto. Entrega ao Isaac/MM-06 em “Enviando alguém pra nos salvar”; cruz/regressão/bebê pertencem ao MM-06, não antecipar aqui. Não há música própria ou segundos medidos atribuídos ao MM-05. Sincronizar estados pelo ensaio, sem impor uma fala intermediária como corte cronometrado.
+
+**Contrato visual proposto:** mesma paisagem da [MM-04 v01](MM-04/prancha-v01.jpg): árvore grande à esquerda, lago/trecho largo de água central, pedras/margens vegetadas, colinas ao fundo, sol alto à direita. Usar a imagem realmente gerada, não o rio curvo que só constava no prompt. Câmera fixa, posições/geografia preservadas; silhuetas na margem esquerda, em plano médio, pequenas e legíveis, sem competir com atuação. Luz branca/dourada → perda gradual do brilho das figuras → redução de saturação e sombra fria mais contrastada → penumbra com textura. Natureza não é destruída nem substituída. Fruto pequeno/neutro proposto, sem close; serpente, demônio, fogo e catástrofe não necessários. Não projetar cruz, Jesus ou bebê nesta peça.
+
+**Referência disponível e maturidade:** única referência visual a enviar é a prancha MM-04 v01, inspecionada. É estudo ainda sem aceite, com pequenas variações entre seus próprios painéis; não afirmar recebimento de uma base piloto final. Gerar estudo MM-05 é possível; produção definitiva depende da base/paleta aceitas de MM-04. Bíblia agora recebida, diferentemente da situação histórica registrada na criação inicial de MM-04. Entrega em prancha horizontal aproximadamente 16:9, quatro estados de uma única paisagem, não quatro ambientes nem quatro arquivos obrigatórios. Base limpa 4K e matriz de exibição são etapas distintas (P-01).
+
+### MM-05-Q01 · Integrados à luz
+- Situação: proposta baseada no briefing; gatilho de entrada “escolheu viver longe de Deus”.
+- Instante/composição: paisagem ainda íntegra de MM-04, duas silhuetas branco-douradas na margem esquerda, braços relaxados; mesmo plano geral nos quatro estados.
+- Luz: branca/dourada suave da direita, textura nos claros; corpo integrado à luz, sem brilho de super-herói.
+- Continuidade: preservar árvore, margens, pedras/horizonte e posição das duas figuras. Entrada visual a costurar com estado corrente do loop MM-04; base final não recebida.
+- Animação/transição: surgimento discreto das figuras/integração de luz como proposta; em produção camadas/máscaras, sem reiniciar outra paisagem; seguir Q02 no tempo da fala.
+- Evitar: anatomia explícita, clone de figuras, cenário de outra paisagem ou escurecimento já completo.
+- Prompt: estado Q01 e contrato descritos integralmente no [prompt efetivo](MM-05/prompt-prancha-v01.txt).
+
+### MM-05-Q02 · A escolha
+- Situação: interpretação simbólica da indicação do fruto no roteiro; gesto/associação à fala são propostas.
+- Instante: uma das mesmas figuras levanta pequeno fruto perto da boca; outra permanece ao lado, sem sequência de mãos ou encenação extensa.
+- Composição/luz: câmera e geografia idênticas a Q01; luz interna começa a ceder, sombra fria inicial e leve dessaturação.
+- Animação/transição: gesto mínimo caso animado; preferir máscaras/opacidade/cor, não exigir animação anatômica complexa. Apoiar “Quando ele decidiu ser independente...”, sem timing fixo.
+- Evitar: close de maçã vermelha gigante, serpente/demônio, cortes adicionais, confusão de posição das figuras.
+- Prompt: estado Q02 do [prompt integral](MM-05/prompt-prancha-v01.txt).
+
+### MM-05-Q03 · Perda de brilho
+- Situação: proposta visual do processo requerido pelo briefing.
+- Instante: as mesmas duas silhuetas, mãos baixas, interior quase sem brilho; continuam presentes no mesmo ponto.
+- Composição/luz: mesma câmera/paisagem, sombra mais ampla, menos saturação e maior contraste; contorno residual para leitura, sem fumaça/desintegração.
+- Animação/transição: perda gradual de luz em camadas, acompanhando “o pecado entrou no mundo” e falas; não ilustrar cada pecado nem impor segundos.
+- Evitar: destruir cenário, figuras desaparecendo fisicamente ou introduzir imagens da redenção.
+- Prompt: estado Q03 do [prompt integral](MM-05/prompt-prancha-v01.txt).
+
+### MM-05-Q04 · Ruptura sustentada
+- Situação: proposta de espera sob diálogo até MM-06.
+- Instante: duas figuras escuras, luz interna perdida; mesma árvore/água/pedras/horizonte em penumbra azul-cinza texturizada, sem preto fechado.
+- Continuidade: mesmo ambiente, não novo cenário noturno. Final não resolve a queda nem cria novo símbolo de salvação.
+- Animação/transição: câmera fixa, água/folhas discretas, futura espera cíclica com estado compatível início/fim; teste ainda não feito. Sair pela fala “Enviando alguém pra nos salvar” para frame de Isaac a receber, sem inventar fade/corte final validado.
+- Evitar: cruz, bebê, Cristo, novo raio de esperança, fogo ou blackout total antes do gatilho.
+- Prompt: estado Q04 do [prompt integral](MM-05/prompt-prancha-v01.txt).
+
+**Registro previsto:** ferramenta recebe prompt autossuficiente e somente prancha MM-04 como referência. Após gerar, registrar resultado real, dimensões, arquivo leve, falhas e feedback; não estender aprovação da MM-01 ou de outra peça à MM-05.
+
+
+### Registro de geração · MM-05 v01 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex, pedido do usuário “Vamos fazer o storyboard do MM05”. Guia, contrato e quatro briefings acima consultados antes da chamada.
+- **Ferramenta/referência:** `image_gen.imagegen`, fundo opaco; única referência visual enviada `/workspace/Hesed-GET/storyboards/MM-04/prancha-v01.jpg`, inspecionada. Sem áudio, vídeo ou referência humana fotográfica. **Prompt integral efetivamente usado:** [prompt-prancha-v01.txt](MM-05/prompt-prancha-v01.txt).
+- **Original preservado:** `/workspace/generated_images/exec-2582da56-15e8-400b-bfd7-0b86dfe5b358.png`, PNG 1672×941, 2768857 bytes, fora do repositório. **Prancha leve:** [prancha-v01.jpg](MM-05/prancha-v01.jpg), JPEG 1672×941, 695213 bytes, mesma composição; apenas conversão de formato. AR próximo de 16:9; não base 4K nem matriz LED final.
+- **Revisão visual:** quatro estados legíveis, exatamente duas silhuetas recorrentes na margem esquerda; fruto pequeno em Q02; brilho interno decresce, ambiente esfria/escurece, sem destruição do mundo ou antecipação da cruz/bebê. Q04 conserva silhuetas e leitura da água/árvore em penumbra. A ferramenta manteve brilho de contorno residual; revisar sua intensidade no LED. Há variações gerativas de árvore, pedras, colinas/nuvens entre painéis; não são cópias de uma única base. Para animação usar base piloto aceita, figuras e luz em camadas, preservando geometria; esta prancha não comprova continuidade métrica nem loop.
+- **Situação/feedback:** primeira proposta entregue, sem aprovação artística, base individual, alpha, teste no LED ou upload Drive. A MM-04 usada é estudo não aprovado; costura definitiva com Melissa/base de criação e frame de Isaac/MM-06 continua pendente. Gatilhos intermediários são associações de proposta, não sincronização medida.

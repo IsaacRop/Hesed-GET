@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-01: V05 oficial; demais versões excluídas)
+**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-05: storyboard v01 para revisão)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -14,7 +14,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-02 | Flashback de Goel (recap) | 1 | Victor | ⬜ | - | Combinar com Isaac a divisão do arquivo de Goel (P-04) | - |
 | MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-04/prancha-v01.jpg), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |
-| MM-05 | Queda (silhuetas de luz) | 3 | Lucas | ⬜ | - | - | MM-04 (paleta) |
+| MM-05 | Queda (silhuetas de luz) | 3 | Lucas | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-05/prancha-v01.jpg), alinhar base/paleta com Melissa e saída com Isaac/MM-06 | Base/paleta final MM-04 |
 | MM-06 | Retorno temporal → bebê | 3 | Isaac | ⬜ | - | Storyboard dos 4 estágios + loop final do bebê | - |
 | MM-07 | Nasceu em Belém (playback) | 3 | Eduardo | ⬜ | - | Mapear a faixa | MM-06 (frame final) |
 | MM-08 | Maravilhosa Graça / Goel (arquivo) | 4 | Isaac | ⬜ | - | Localizar material bruto de Goel | P-03 |

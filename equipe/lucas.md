@@ -11,6 +11,8 @@
 
 ## MM-05 · Queda (silhuetas de luz)
 
+**Storyboard v01 disponível:** [prancha e ficha](../storyboards/MM-05/README.md), proposta para revisão em 16/10/2026. Usa a prancha MM-04 como referência; base/paleta definitivas e integração com MM-06 ainda pendentes.
+
 | | |
 | --- | --- |
 | **Cena** | 3 · Bloco II |
