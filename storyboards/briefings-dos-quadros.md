@@ -1,6 +1,6 @@
 # Briefings dos quadros · HESED
 
-**Padrão:** estrutura das pranchas do Eduardo (Dudu), adotada pelo usuário como referência para os demais storyboards. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
+**Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
 
