@@ -33,10 +33,35 @@ Um quadro representa um estado visual relevante. Não é necessariamente um cort
 ## 2. Preparar a peça antes de desenhar
 
 1. Identifique código, cena, responsável, função narrativa, fala-gatilho e condição de saída. Leia a página do responsável em [equipe/](../equipe/).
+   Classifique também a função visual conforme a seção abaixo: ambientação, loop atmosférico, transformação simbólica ou sequência/montagem narrativa. Separe o que acontece no palco do que precisa aparecer no telão antes de incluir personagens no prompt.
 2. Registre o que recebe e para quem entrega: frame, paleta, direção de luz, escala, movimento e materiais de referência. Quando não houver destinatário definido, escreva isso.
 3. Classifique o controle: **fala com duração variável**, **música com master definitivo** ou **módulo de um filme maior**. Não aplique uma timeline musical a todas as peças.
 4. Escreva o arco em uma frase e separe os estados necessários, mantendo a apresentação das pranchas do Dudu. Nas quatro referências já recebidas, preserve seus quadros e IDs; nas novas peças, a quantidade vem da narrativa, sem obrigação de usar 10 ou 12.
 5. Registre conflitos e dependências antes de gerar bases definitivas. Ideias podem ser exploradas enquanto o áudio ou o frame vizinho não chegam, mantendo o caráter de estudo.
+
+### Ambientação, personagens e alcance da criação
+
+**Diretriz de escopo:** seguir o padrão de apresentação das pranchas do Dudu não exige transformar todo MM em um filme completo. O roteiro e o briefing definem a função de cada peça. Num fundo de cena, as pessoas que atuam no palco não devem ser acrescentadas automaticamente à imagem projetada. Uma composição-base com movimento sutil e loop pode ser toda a entrega visual necessária; não imponha quantidade mínima de quadros.
+
+Antes de desenhar, registre no briefing do quadro: **função visual**, **ação no palco**, **conteúdo necessário no telão** e **personagens no telão: necessários, opcionais ou não previstos**, com a fonte da classificação. Quando a documentação permitir alternativas, diferencie requisito de escolha artística. Não aplique uma proibição geral de figuras humanas.
+
+| Peça | Leitura dos documentos e orientação de escopo |
+| --- | --- |
+| **MM-03 · sala · Victor** | **Ambientação sem pessoas.** O [roteiro da Cena 2](../docs/roteiro.md) pede o fundo da sala no telão e as atrizes numa mesa no palco. Reutilizar o ambiente no começo da Cena 3 até “Não tinha dor” e no retorno da Cena 4. Criar o espaço da casa, sem morador, Religiosidade, detentas, figura humana ou silhueta. Movimento ambiental discreto, sem encenar a conversa. Ver [ficha MM-03](MM-03/README.md). |
+| **MM-01 · prisão · Victor** | O roteiro coloca detentas e Jesus no palco; o MM é exterior/entrada da prisão. Não duplicar automaticamente essas atuações na projeção. É uma leitura de ambientação; o detalhamento permanece reservado ao Victor, conforme briefing. |
+| **MM-04 · criação · Melissa** | O [briefing](../docs/briefing.md) permite uma única paisagem forte animada em loop. Não exige personagens nem representação completa dos dias da criação. Entregar imagem-base/paleta para Lucas no MM-05. |
+| **MM-09 · profetas · Melissa** | **Loop atmosférico com poucas composições.** O briefing permite silhueta de profeta, deserto, pergaminho, cidade antiga e horizonte. A presença de uma silhueta é compatível com a peça; atuação detalhada, vários profetas identificados e narrativa biográfica completa não são exigidos. Sustentar a fala e entregar o estado final ao MM-10 de Dudu. |
+| **MM-14 · pecados · Melissa** | Montagem curta de ações simbólicas e diretas, com stills animados ou pequenos vídeos. O briefing pede comunicar aprisionamento sem ilustrar cada pecado de modo literal ou prolongado. Figuras humanas podem ser usadas conforme a ação, sem obrigar uma encenação completa por pecado. Alinhar ritmo e cor com Lucas no MM-15. Ver [ficha MM-14](MM-14/README.md). |
+| **MM-10 · Cristo eterno · Dudu** | O briefing pede cosmos/criação/luz sob a fala de João 1. Figuras de Cristo e seres humanos em Q03/Q09/Q10 do caderno vêm da referência artística, não de obrigação do briefing. Conferir a necessidade dessas figuras antes de gerar; não tratar os 12 quadros como metragem obrigatória. |
+| **MM-11 · Luz do Mundo · Isaac** | O briefing pede composição predominantemente abstrata. O roteiro coloca o elenco compondo o presépio no palco e também diz que o telão acompanha a narração. Não duplicar automaticamente o elenco no vídeo nem declarar a divergência resolvida: consultar P-10 e, para o diálogo seguinte, P-09. |
+| **MM-12 · viagem/cidade/estábulo · Lucas** | A progressão dos ambientes é necessária; encenar cada ação com personagens não é. O briefing dispensa atores filmados e permite paisagens, silhuetas e movimento lento. Apoiar a montagem física do presépio e entregar o espaço ao MM-13. |
+| **MM-16A / MM-16B / MM-16D** | Transformações simbólicas são permitidas pelo briefing. Não exigir atuação literal de todo o arco. Conferir P-05 sobre as atrizes no filme final e P-06 sobre a divisão do tempo, sem eliminar personagens por conta própria. |
+
+**Casos que exigem outro tratamento:** MM-06 pede a regressão cruz → ministério → infância → bebê; MM-13 prevê pastores e anjos; MM-02/MM-08 usam arquivo de Goel; MM-14/MM-15 são montagens de ações humanas. Simplificar a execução não significa retirar sujeitos necessários à função narrativa.
+
+**Época e ambiente:** a sala da Religiosidade pertence ao mundo presente, descrito no briefing como urbano/doméstico. Não impor à casa arquitetura bíblica ou proibir objetos contemporâneos só porque outras peças são bíblicas. As restrições de época dos prompts devem acompanhar a cena específica.
+
+**Referências e revisões:** os quadros detalhados a partir das pranchas são estudos, não exigências adicionais ao briefing. Se uma referência ampliar o escopo, registrar o ponto de revisão e propor a solução proporcional, preservando IDs e histórico. A transcrição da reunião não foi localizada no repositório nesta conferência; não atribuir decisões a ela sem receber e ler o arquivo.
 
 ## 3. Construir a imagem para o telão
 

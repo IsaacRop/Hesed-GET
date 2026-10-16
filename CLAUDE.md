@@ -55,6 +55,8 @@ Só decisões aprovadas prevalecem sobre o briefing: 🟡 significa proposta e �
 
 Siga a estrutura das pranchas de Eduardo (Dudu), adotada como padrão para os demais storyboards: **quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala**, sempre conectados ao briefing do respectivo MM. Preserve a linguagem realista e cinematográfica e as costuras entre produtores.
 
+Antes de incluir personagens, classifique a função visual e separe o que acontece no palco do que deve aparecer no telão. Consulte a seção **“Ambientação, personagens e alcance da criação”** do [guia](storyboards/guia-de-construcao.md). O padrão de apresentação não exige filme completo em todas as peças: [MM-03](storyboards/MM-03/README.md) é ambientação da casa sem pessoas, enquanto [MM-14](storyboards/MM-14/README.md) é montagem curta de ações simbólicas dos pecados, sem exigir dramatização completa de cada um. Não transforme referências artísticas em requisitos nem retire personagens exigidos de outras peças. Claude, Codex e AntiGravity devem aplicar essa mesma distinção.
+
 O guia de construção e o caderno de quadros são as **diretrizes canônicas de criação visual** para Claude, Codex e demais assistentes. Sua consulta é obrigatória antes de toda criação ou edição de imagem do HESED, incluindo estudos, referências geradas, pranchas e bases definitivas. Aplique o procedimento de consulta e registro do guia antes de acionar qualquer ferramenta de imagem; não dependa apenas do chat ou da memória. Essa autoridade sobre o processo visual não altera a hierarquia das fontes narrativas nem transforma propostas em decisões aprovadas.
 
 Antes de criar ou revisar um storyboard ou imagem, leia:

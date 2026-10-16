@@ -9,3 +9,5 @@ Se você é o AntiGravity, leia também [ANTIGRAVITY.md](ANTIGRAVITY.md) antes d
 ## Consulta obrigatória para criação visual
 
 Antes de criar ou editar qualquer imagem do HESED, inclusive estudos, referências geradas, pranchas e bases definitivas, leia o [guia canônico de construção](storyboards/guia-de-construcao.md) e o briefing da peça/quadro no [caderno canônico de quadros](storyboards/briefings-dos-quadros.md). Siga o procedimento de consulta e registro do guia; não gere apenas a partir da mensagem do chat ou de memória. Se o quadro ainda não tiver briefing, registre-o com base nos documentos do projeto antes de gerar. Essa regra vale para todos os assistentes e ferramentas de imagem usados neste repositório.
+
+Classifique a função visual e separe ação no palco de conteúdo no telão antes de incluir pessoas na imagem. Siga a seção **“Ambientação, personagens e alcance da criação”** do guia: MM-03 é ambientação da casa sem pessoas; MM-14 é montagem curta e simbólica dos pecados, sem ilustrar cada pecado de forma literal ou prolongada. O padrão das pranchas não amplia o escopo definido pelo roteiro e pelo briefing.

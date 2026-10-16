@@ -6,6 +6,8 @@ Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da
 
 **Consulta obrigatória:** este caderno e o guia são as diretrizes canônicas de criação visual. Antes de toda geração ou edição, leia o guia e o briefing atual dos quadros envolvidos e cumpra o procedimento de consulta e registro do guia. Se faltar um briefing, escreva-o antes de gerar. O caráter canônico deste registro não aprova automaticamente os estudos nem substitui as fontes narrativas.
 
+**Escopo antes da imagem:** consulte a seção “Ambientação, personagens e alcance da criação” do guia. As próximas tarefas de [MM-03](MM-03/README.md) e [MM-14](MM-14/README.md) já têm orientações específicas nas fichas: casa sem pessoas; pecados como montagem curta de ações simbólicas, sem ilustrar cada um de forma literal ou prolongada. Acrescente os briefings dos quadros quando essas tarefas forem executadas. Nos estudos existentes, pessoas de MM-10-Q03/Q09/Q10 são escolhas da referência e não exigências do briefing; conferir sua necessidade antes de gerar. As anotações de escopo não renumeram os 46 quadros nem representam imagens novas.
+
 ## Origem e alcance
 
 Base inicial: quatro pranchas anexadas pelo usuário nesta conversa — MM-07 (10 quadros), MM-10 (12), MM-13 (12) e MM-16D (12) — e o comando usado por Dudu: “Quero produzir as quatro cenas do musical HESED 2026, conforme o briefing enviado. Formato: cenas planejadas como vídeos com sequência, movimentos e efeitos sincronizados com a música. Estilo: realista e cinematográfico. Comece pela primeira cena, MM-07 Nasceu em Belém.”
