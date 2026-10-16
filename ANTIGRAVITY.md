@@ -1,0 +1,42 @@
+# AntiGravity · HESED Produção Audiovisual
+
+Este arquivo orienta o AntiGravity a trabalhar com o mesmo contexto e as mesmas diretrizes de Claude e Codex. Leia primeiro o [AGENTS.md](AGENTS.md) e o [CLAUDE.md](CLAUDE.md), que mantém o contexto comum, a hierarquia das fontes e os princípios audiovisuais. Este documento complementa essa base; não cria uma versão paralela das regras de produção.
+
+Ao iniciar uma sessão no AntiGravity, solicite a leitura desses arquivos e deste documento. Não presuma carregamento automático apenas pelo nome `ANTIGRAVITY.md`.
+
+## Começo de cada trabalho
+
+1. Leia o [README.md](README.md) e confira as alterações existentes no Git antes de editar. Preserve o trabalho de outras pessoas e use o checkout existente; não crie worktrees sem pedido explícito.
+2. Consulte [decisões](docs/decisoes.md), [status](STATUS.md) e [pendências](docs/pendencias.md) atuais. Não use o histórico do chat como substituto desses registros.
+3. Para tarefas individuais, identifique a pessoa pelo contexto ou pergunte seu nome se ainda não estiver claro, e leia sua página em [equipe/](equipe/).
+4. Para uma peça, leia seu trecho do [roteiro](docs/roteiro.md), o [briefing](docs/briefing.md), o [mapa de cenas](docs/mapa-de-cenas.md), as [dependências](docs/dependencias.md) e a ficha correspondente em [storyboards/](storyboards/). Cite cena, gatilho, o que recebe e para quem entrega; indique informações ainda não definidas.
+
+## Fontes e materiais novos
+
+- Siga a hierarquia do `CLAUDE.md`. Decisões aprovadas posteriores prevalecem sobre o briefing; 🟡 identifica proposta e ⚪ identifica decisão substituída. Não apresente sugestões como acordos confirmados.
+- Os originais em [docs/fontes/](docs/fontes/) prevalecem sobre transcrições em caso de divergência de conversão. Preserve os originais, o briefing e o roteiro; registre mudanças de escopo em decisões.
+- Ao receber arquivos novos, identifique título, versão e data quando disponíveis, compare com a base existente e aponte diferenças e lacunas. Se a versão aprovada estiver incerta, peça essa definição antes de substituir a base.
+- Não invente durações, timecodes, especificações do telão, calendário, links ou acesso a arquivos externos. Confira quais materiais foram realmente recebidos antes de afirmar que os leu; a citação da Bíblia de Produção no briefing não comprova disponibilidade do arquivo.
+
+## Consulta obrigatória para criação visual
+
+O [guia de construção](storyboards/guia-de-construcao.md) e o [caderno de briefings dos quadros](storyboards/briefings-dos-quadros.md) são as **diretrizes canônicas de criação visual**. Leia o guia atual e o briefing dos quadros envolvidos antes de toda geração ou edição de imagem, incluindo estudos, referências geradas, pranchas e bases definitivas. Cumpra o procedimento de consulta e registro do guia antes de acionar a ferramenta; não gere apenas a partir da mensagem do chat ou de memória.
+
+- Siga o padrão das pranchas de Eduardo (Dudu): quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala, conectados ao briefing de cada MM.
+- Se o quadro ainda não tiver briefing, escreva-o primeiro no caderno com base nas fontes. Se houver conflito que exija decisão da equipe, resolva esse ponto antes de produzir a imagem afetada, continuando o trabalho independente.
+- Preserve os IDs `MM-XX-QNN`, a identidade dos personagens, o cenário, a direção da luz e as costuras entre produtores. Não renumere os quadros para alterar a montagem.
+- Diferencie a prancha anotada da imagem-base individual limpa, sem títulos, timecodes ou colagem. Descreva animação e efeitos separadamente do instante da imagem.
+- Informe os documentos/IDs consultados e registre o prompt efetivamente enviado, referências reais, localização disponível, versão, tamanho e feedback no quadro. Não declare arquivos inexistentes, aprovações não confirmadas ou geração bem-sucedida após uma falha.
+- Tempos e formas de onda das pranchas não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D depende da divisão do filme final por Lucas. 3840×2160 é a referência das imagens-base, não a especificação final dos vídeos.
+
+## Execução, registro e entrega
+
+- Escreva em português do Brasil, com orientações acessíveis à equipe voluntária. Preserve a linguagem visual comum descrita no `CLAUDE.md` e prefira técnicas acessíveis.
+- Use [templates/](templates/) e o [fluxo de trabalho](guias/fluxo-de-trabalho.md): leitura → storyboard → alpha → integração → teste no telão → ajustes → congelamento.
+- Edite apenas o escopo pedido e mantenha os códigos `MM-XX`, `P-XX` e `D-XX`. Ao atualizar andamento, altere a linha correspondente e data/nome no topo do `STATUS.md`; não avance etapas sem evidência.
+- Registre decisões confirmadas com responsável, data, pessoas/peças afetadas e referência à pendência resolvida. Lembre o usuário de avisar o grupo quando houver impacto em outra pessoa; não envie mensagens em nome da equipe sem instrução explícita.
+- Mantenha mídia pesada e projetos no Drive conforme o [guia de entrega](guias/entrega-e-arquivos.md). Esboços leves podem ficar no repositório. Não presuma acesso à pasta compartilhada.
+- Antes de concluir, revise o diff, os links, os códigos, os responsáveis e a continuidade. Use o [checklist de aceite](guias/checklist-de-aceite.md); validação no computador não substitui o ensaio no telão. Este repositório é documental e não exige instalação, build ou servidor.
+- Informe o que mudou, o que foi verificado e o que depende de material, decisão ou ensaio. Distinga arquivos locais, commit e envio ao GitHub; não diga que mudanças estão no GitHub sem confirmar o envio.
+
+Mudanças nos procedimentos comuns devem atualizar os guias canônicos e suas referências no `CLAUDE.md`, no [CODEX.md](CODEX.md) e neste arquivo, mantendo os três assistentes alinhados.

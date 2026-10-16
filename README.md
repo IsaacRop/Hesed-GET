@@ -24,7 +24,9 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Saber como nomear, exportar e entregar arquivos | [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md) |
 | Conferir se uma peça está pronta | [guias/checklist-de-aceite.md](guias/checklist-de-aceite.md) |
 | Nunca usou GitHub | [guias/como-usar-este-repo.md](guias/como-usar-este-repo.md) |
-| Usar IA (Claude, Codex, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) |
+| Usar IA (Claude, Codex, AntiGravity, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) · [ANTIGRAVITY.md](ANTIGRAVITY.md) |
+
+Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVITY.md antes de executar a tarefa e siga as diretrizes canônicas indicadas nesses arquivos.”** Não presuma que o nome do arquivo, sozinho, garante sua leitura automática.
 
 ## Equipe
 
@@ -51,6 +53,8 @@ hesed-producao/
 ├── README.md              ← você está aqui
 ├── STATUS.md              ← painel de andamento de todas as peças
 ├── CLAUDE.md              ← harness: contexto para assistentes de IA
+├── CODEX.md               ← orientações complementares para o Codex
+├── ANTIGRAVITY.md         ← orientações complementares para o AntiGravity
 ├── AGENTS.md              ← aponta para o CLAUDE.md (outras ferramentas de IA)
 ├── docs/
 │   ├── visao-geral.md     ← linguagem visual, progressão, glossário

@@ -2,7 +2,7 @@
 
 Este arquivo é lido automaticamente pelo Claude Code e pode ser colado no início de uma conversa com qualquer assistente de IA (Claude, ChatGPT, Gemini) para dar o contexto do projeto. Mantenha curto: ele aponta para os documentos, não repete o conteúdo.
 
-Este é o contexto comum para Claude e Codex. O [AGENTS.md](AGENTS.md) direciona outros assistentes para cá; o [CODEX.md](CODEX.md) complementa o fluxo do Codex. Orientações de produção compartilhadas devem ser mantidas aqui e nos guias correspondentes, para que o trabalho continue da mesma forma independentemente do assistente usado.
+Este é o contexto comum para Claude, Codex e AntiGravity. O [AGENTS.md](AGENTS.md) direciona outros assistentes para cá; o [CODEX.md](CODEX.md) e o [ANTIGRAVITY.md](ANTIGRAVITY.md) complementam os respectivos fluxos. Orientações de produção compartilhadas devem ser mantidas aqui e nos guias correspondentes, para que o trabalho continue da mesma forma independentemente do assistente usado.
 
 ## Quem você está ajudando
 
@@ -71,7 +71,7 @@ Se faltar o briefing do quadro, escreva-o no caderno a partir das fontes antes d
 - Tempos e formas de onda nas referências não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D integra o filme final e depende da divisão de Lucas. Registre conflitos como pontos de conferência, sem alterar o padrão ou declarar uma solução aprovada.
 - 3840×2160 é a referência para imagens-base, não a especificação final dos vídeos. Confira P-01 e o [checklist de aceite](guias/checklist-de-aceite.md); uma revisão no computador não substitui o teste no telão.
 
-Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo e no `CODEX.md`, evitando cópias divergentes das regras de produção.
+Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo, no `CODEX.md` e no `ANTIGRAVITY.md`, evitando cópias divergentes das regras de produção.
 
 ## Tarefas comuns e onde olhar
 
