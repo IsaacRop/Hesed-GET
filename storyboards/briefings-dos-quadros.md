@@ -1096,6 +1096,8 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-01 · Exterior/entrada da prisão
 
+**Vigência:** revisão v02/D-15 ao final desta seção prevalece sobre as escolhas arquitetônicas v01 abaixo, preservadas como histórico.
+
 **Cena 1 · Victor · Estudo v01 · 16/10/2026.** Pedido atual do usuário autoriza iniciar o storyboard após a incorporação documental D-14; arte ainda não aprovada.
 
 **Fontes consultadas:** Bíblia de Produção v0.1 §§2.2/3/5.2/7.1/9/16; roteiro Cena 1; briefing Bloco I; alinhamento das fontes; D-14; guia de construção; ficha MM-01 e página de Victor. A transcrição original e fotos/frames/planta de Goel não foram recebidos. Nenhuma referência visual de prisão fornecida.
@@ -1152,3 +1154,33 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Arquivo no repositório:** [prancha-v01.jpg](MM-01/prancha-v01.jpg), JPEG 1672×941, 463606 bytes; conversão de formato sem alterar a composição. Não é base 4K nem especificação final do LED.
 - **Revisão visual:** panorama e três detalhes legíveis, exterior contemporâneo, nenhum personagem/corrente/cruz; acesso aberto e perspectiva de corredor exterior preservados. A ferramenta acrescentou vegetação, postes e pequenas luminárias quentes, mantendo ambiente geral frio; são elementos da proposta, não requisitos documentais. Q04 é aproximação com pequena mudança de ponto de vista; continuidade arquitetônica precisa ser conferida antes de bases definitivas. O muro central ocupa grande área por intenção de apoiar atores, mas sua leitura e o nível de sombra dependem de revisão e teste no LED.
 - **Situação/feedback:** primeira proposta entregue; sem aprovação do usuário, alpha, teste no LED ou envio ao Drive. Nenhuma mudança de escopo da Cena 1 foi aprovada por esta geração.
+
+
+### Revisão MM-01 v02 · D-15
+
+**Origem/situação:** correção explícita do usuário em 16/10/2026; v01 considerada interessante, mas sem leitura suficiente de prisão. Referência verbal corrigida para **Prison Break**. Não foi fornecida nem consultada imagem da série; não alegar reprodução de sua locação. Reusar v01 apenas como referência de apresentação/luz; sua arquitetura é substituída. D-15 define requisitos; imagem v02 continua proposta para revisão.
+
+**Contrato vigente:** mesma Cena 1, ambientação sem personagens projetados, abertura → interrupção MM-02 → retorno ao mesmo cenário; atuação e congelamentos no palco conforme Bíblia/roteiro. Frio/contido, câmera fixa, futuro loop discreto, sem duração medida. Grades são arquitetônicas no LED; permanecem sem cadeia/grades físicas no palco. Substitui a restrição artística v01 contra grade frontal: agora a transparência da grade é requisito do usuário.
+
+**Geografia comum:** primeiro plano exterior vazio; limite frontal gradeado com barras finas e espaçadas; guarita imediatamente junto ao portão aberto no terço direito; pátio/passagem internos recuando; outro muro ao fundo; atrás/acima desse muro, prédio penitenciário grande e reconhecível. Proposta de acabamento: bloco institucional de tijolo envelhecido e pedra, 4–5 pavimentos com janelas estreitas repetidas e gradeadas. Esse desenho e contagem de pavimentos são escolhas para obter leitura, não fatos do roteiro. Entardecer mantido como proposta. Sem pessoas/correntes/cruz, placas/logos ou veículos.
+
+| ID mantido | Composição v02 e foco | Luz/continuidade | Animação/evitar |
+| --- | --- | --- | --- |
+| MM-01-Q01 | Panorama da grade frontal, guarita colada ao portão, pátio, muro distante e penitenciária elevada ao fundo | Azul-cinza contido, luzes funcionais discretas; mesma arquitetura em todos os detalhes | Câmera fixa; futuro loop discreto; evitar muro opaco frontal, esconder o prédio ou separar guarita do portão |
+| MM-01-Q02 | Detalhe do conjunto guarita + portão, contíguos, com vista do interior | Mesma luz e posição relativa de Q01 | Detalhe espacial, sem novo corte obrigatório; evitar guarita isolada na outra ponta |
+| MM-01-Q03 | Vista através da grade ao pátio, muro recuado e pavimentos da penitenciária | Preservar legibilidade do prédio, barras sem dominar o quadro | Sem ação nova; evitar aparência de cela e muro tampando toda a edificação |
+| MM-01-Q04 | Acesso aberto em perspectiva levando ao muro distante, prédio visível acima | Mesmas distâncias relativas, materiais e hora de Q01 | Não animar abertura do portão; evitar inventar outra arquitetura ou túnel luminoso |
+
+**Prompt integral dos quatro quadros:** [prompt-prancha-v02.txt](MM-01/prompt-prancha-v02.txt). **Referência real da edição:** [prancha-v01.jpg](MM-01/prancha-v01.jpg), inspecionada antes de gerar. Fontes textuais: D-15/pedido atual, guia atualizado, Bíblia §§2.2/3/5.2/7.1/9/16, roteiro Cena 1, briefing Bloco I e alinhamento. Prancha horizontal próxima de 16:9; painel físico ≈6×3 m não define matriz final (P-01). Sem base limpa, animação ou aceite técnico nesta etapa.
+
+
+### Registro de geração · MM-01 v02 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex, revisão solicitada pelo usuário/D-15.
+- **Consulta prévia:** guia atualizado e revisão v02/Q01–Q04, fontes narrativas e direção citadas acima.
+- **Ferramenta:** `image_gen.imagegen`, edição com fundo opaco; única referência visual realmente enviada: `/workspace/Hesed-GET/storyboards/MM-01/prancha-v01.jpg`, inspecionada antes da chamada. Referência Prison Break apenas verbal; nenhuma imagem externa consultada.
+- **Prompt efetivamente enviado:** [prompt-prancha-v02.txt](MM-01/prompt-prancha-v02.txt), sem acréscimos.
+- **Original preservado:** `/workspace/generated_images/exec-a0c1e4f8-bf51-46d2-b9ab-759fc24165f9.png`, PNG 1672×941, 2398193 bytes, fora do repositório.
+- **Cópia no repositório:** [prancha-v02.jpg](MM-01/prancha-v02.jpg), JPEG 1672×941, 560390 bytes; conversão de formato, mesma composição. AR próximo de 16:9; não é base 4K nem matriz final do painel.
+- **Revisão visual:** agora há penitenciária institucional grande atrás do muro recuado, grade frontal transparente, pátio e guarita imediatamente contígua ao portão aberto. Sem pessoas, correntes ou cruz. Detalhes mantêm a geografia geral, mas são aproximações geradas, não recortes pixel a pixel: escala/posição aparente de janelas e do bloco devem ser fixadas numa base única antes da animação. Q03 usa grade mais próxima e espessa que no panorama; pode precisar de afastamento na base final. Luminárias/janelas quentes e vegetação são escolhas geradas; paleta geral permanece fria.
+- **Situação:** v02 entregue para avaliação, sem aprovação artística/alpha/teste no LED. V01 preservada como histórico, recusada para seguir sem esta correção de leitura arquitetônica. As exigências D-15 são aprovadas pelo pedido; a imagem nova não foi automaticamente aprovada.

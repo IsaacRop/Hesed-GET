@@ -79,6 +79,10 @@ Antes de desenhar, registre no briefing do quadro: **função visual**, **ação
 
 Para imagens-base, a referência documental é **3840×2160**. Isso não define resolução, proporção de exibição, fps ou codec finais dos vídeos (P-01). Se a ferramenta não entregar esse tamanho nativamente, registre o tamanho real e valide a ampliação; não rotule um arquivo menor como 4K.
 
+### Prisão · MM-01 · diretrizes atuais
+
+**D-15:** referência verbal Prison Break. Guarita contígua ao portão, grade no limite frontal permitindo enxergar pátio/passagem, muro de segurança mais distante e prédio da penitenciária visível atrás/acima dele. A grade é projetada na imagem; não implica construir grade física no palco. Substitui a fachada opaca e a guarita isolada do estudo v01. Consultar [revisão v02 no caderno](briefings-dos-quadros.md#revisão-mm-01-v02--d-15). Mesmos IDs Q01–Q04, panorama e três detalhes; atuação permanece no palco. Nenhum frame da série foi fornecido; não afirmar cópia fiel de locação. Arte resultante ainda depende de revisão.
+
 ### Casa da Religiosidade · diretrizes atuais
 
 **D-13 prevalece sobre referências anteriores:** usar somente a [V03 oficial](MM-03/V03.jpg), imagem reenviada pelo usuário com bandejinha sobre renda delicada, relógio à esquerda e menorá à direita. Sem foto ou Bíblia. Cimento queimado na sala, tijolinho na copa, pia à esquerda sob o armário aéreo e cooktop à direita. Mesma casa de classe média brasileira, arco panorâmico suave e desfoque discreto nas extremidades; não recriar cenário ou objetos. Mesa e sofá fora do painel; aparador projetado conforme referência.
