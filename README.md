@@ -17,6 +17,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Ver o que ainda não foi decidido | [docs/pendencias.md](docs/pendencias.md) |
 | Ver o que já foi decidido (e por quem) | [docs/decisoes.md](docs/decisoes.md) |
 | Entender a linguagem visual e o vocabulário (loop, still, conform...) | [docs/visao-geral.md](docs/visao-geral.md) |
+| Consultar direção/cenografia e cruzamento da reunião | [Bíblia de Produção canônica](docs/fontes/HESED_Biblia_de_Producao_v0_1.md) · [alinhamento das fontes](docs/alinhamento-das-fontes.md) · [origem dos documentos](docs/fontes/README.md); transcrição original ainda não recebida |
 | Ler o roteiro ou o briefing completos | [docs/roteiro.md](docs/roteiro.md) · [docs/briefing.md](docs/briefing.md) · originais em [docs/fontes/](docs/fontes/) |
 | Montar ou ver o storyboard de uma peça | [storyboards/](storyboards/) → código da peça |
 | Criar ou editar imagens do HESED | Consulta obrigatória ao [guia canônico](storyboards/guia-de-construcao.md) e ao [briefing do quadro](storyboards/briefings-dos-quadros.md) antes da geração |
