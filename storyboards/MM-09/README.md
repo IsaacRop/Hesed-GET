@@ -1,56 +1,63 @@
-# Storyboard · MM-09 · Profetas (loop)
+# Storyboard · MM-09 · Anúncio, espera e fé
 
 | | |
 | --- | --- |
-| **Responsável** | Melissa |
-| **Cena** | 5 · Bloco III |
-| **Versão / situação** | v01 · 16/10/2026 · proposta para revisão |
-| **Recebe de** | Nenhum fornecedor/frame de entrada definido na documentação |
-| **Entrega para** | MM-10 (Eduardo): último estado visual, paleta e direção de movimento |
-| **Entrada** | “Bom, séculos antes de Jesus nascer, houveram vários profetas que anunciaram a vinda dele.” |
-| **Saída** | “No princípio Ele já estava lá.” |
-| **Controle** | Fala de duração variável; sem música própria ou timecodes |
-| **Pasta no Drive** | A definir (P-13); nada enviado ao Drive neste trabalho |
+| **Responsável / cena** | Melissa · Cena 5 · Bloco III |
+| **Versão / situação** | **Novo estudo v03**, criado do zero · 16/10/2026 · proposta para revisão |
+| **Recebe de** | Frame/fornecedor de entrada não definido |
+| **Entrega para** | Eduardo/MM-10: estado visual e paleta; costura a alinhar |
+| **Entrada** | “Séculos antes de Jesus nascer, houveram vários profetas...” |
+| **Saída** | “No princípio Ele já estava lá” |
+| **Controle** | Fala variável; poucas composições/espera, sem música própria ou tempos medidos |
+| **Drive** | A definir (P-13); nenhum upload realizado |
 
-## Conceito em uma frase
+## Reinício do zero · D-27
 
-Um vale antigo, um profeta, o pergaminho e a cidade evocam promessa e espera em um ciclo contemplativo que sustenta a fala e prepara a passagem para o MM-10.
+![MM-09 — novo estudo v03 com quatro situações distintas](<STB MM09.jpg>)
 
-## Prancha v01
+O usuário recusou as versões anteriores por confusão/repetição e determinou excluí-las e refazer. **V01, V02, STB MM09.png e prompts antigos foram retirados da pasta.** A geração nova recebeu somente texto: nenhuma imagem anterior foi usada como referência. “v03” identifica o novo arquivo, não uma continuação estética. A proposta atual ainda depende de avaliação.
 
-![Storyboard MM-09 — Profetas](prancha-v01.jpg)
+[Prancha nova](<STB MM09.jpg>) · [Prompt efetivo](prompt-prancha-v03.txt) · [Contrato e registro](../briefings-dos-quadros.md#mm-09--profetas)
 
-[Ver prancha](prancha-v01.jpg) · [Prompt enviado](prompt-prancha-v01.txt) · [Briefings dos quadros](../briefings-dos-quadros.md#mm-09--profetas)
+## Relação com o roteiro
 
-Estudo visual gerado por IA: **1536×1024**, JPEG leve (547,263 bytes). O PNG original está em `/workspace/generated_images/exec-50e801b8-84e4-4fec-bf45-408dbaab36e4.png`, fora do repositório; não é armazenamento compartilhado permanente. Bases individuais finais têm referência documental de 3840×2160 e não foram produzidas neste trabalho.
+A Cena 5 pede **“Profetas pregando e anunciando a vinda do Messias no telão”**. As falas tratam de vários anunciadores, espera por gerações e pessoas que acreditam ou duvidam. A proposta distribui essas ideias em quatro situações visualmente diferentes, mantendo a contemplação e a baixa distração do briefing.
 
-## Quadros
+Os cenários específicos, família e gestos são interpretações propostas, não novas cenas escritas no roteiro. Profetas são genéricos, sem nomes/versículos/datas inventados. Não antecipar Cristo/cosmos/nascimento: a mudança de registro começa no MM-10. Elenco/humor ficam no palco; ouvintes projetados não representam as detentas.
 
-| ID | O que se vê | Movimento / efeitos / transição | Relação com a fala |
+## Quadros e sustentação
+
+| ID | Imagem / função | Movimento / luz propostos | Uso na fala |
 | --- | --- | --- | --- |
-| MM-09-Q01 · A promessa anunciada | Profeta não identificado em silhueta à esquerda; vale árido e cidade à direita | Aproximação mínima, atmosfera discreta; dissolução lenta | Entrada na explicação dos profetas |
-| MM-09-Q02 · A palavra preservada | Pergaminho sobre pedra no mesmo ambiente, sem escrita legível | Avanço discreto, luz suave; pergaminho já aberto | Sustentação do diálogo, sem cue obrigatório |
-| MM-09-Q03 · Gerações em espera | Cidade de pedra clara sob o mesmo horizonte | Parallax lento e discreto; sem passagem literal de séculos | Apoio à ideia de esperar por gerações e às interrupções |
-| MM-09-Q04 · O horizonte da promessa | Mesmo profeta e vale com céu amplo azul profundo | Sustentação; retorno a Q01 ou dissolução a combinar com Eduardo | “No princípio Ele já estava lá” dispara MM-10 em qualquer fase |
+| MM-09-Q01 · Anúncio na praça | Plano aberto por trás do público, profeta anuncia junto à porta da cidade | Avanço lento, manhã suave | Entrada na explicação sobre profetas |
+| MM-09-Q02 · Anúncio no caminho | Outro profeta de perfil numa estrada, dois viajantes param para ouvir | Parallax discreto, tarde difusa | Outra composição de anúncio, sem corte obrigatório |
+| MM-09-Q03 · Gerações que esperam | Plano próximo de três adultos de idades diferentes em casa antiga | Sustentação suave, janela/sombra | Apoio a “esperaram por muitas gerações” |
+| MM-09-Q04 · Crença e dúvida | Reações em primeiro plano; outro profeta ao fundo da rua | Aproximação mínima, sombra contida | Apoio a “alguns acreditaram, outros não”; saída MM-10 |
 
-## Primeiro e último estado
+Quatro composições por função, não quatro variações do mesmo grupo pregando. Não repetir Q01 em Q04 para fechar ciclo. O futuro loop/variações deve suportar falas de duração variável, com transições discretas e saída pelo gatilho em qualquer fase, sem obrigar atores a esperar uma volta. Repetição/alpha ainda não testados; gestos não têm animação ou fala labial produzidas.
 
-- **Entrada:** profeta no vale; transição de entrada a combinar, sem frame anterior recebido.
-- **Ciclo:** Q01 → Q02 → Q03 → Q04 → Q01, com transições discretas. Quadros não têm obrigação de coincidir com frases, exceto disparo e saída. Testar a repetição no alpha.
-- **Saída:** pelo gatilho de fala em qualquer fase, sem aguardar Q04. Preparar a passagem do histórico ao azul profundo do MM-10; receber/conferir o arquivo real de Eduardo antes de fechar a costura.
-- **Paleta proposta:** azul profundo, dourado contido, pedra/areia e pergaminho claro. Mesma luz baixa quente da direita nos quadros; sem progressão de clímax ou ciclo dia/noite.
-- **Personagem proposto:** profeta genérico mais velho, túnica terrosa e manto ocre, rosto pouco detalhado; não identifica um profeta bíblico específico nem representa o elenco.
+## Direção visual comum
 
-## Fontes e revisão
+| Paleta (amostras na prancha) | Função |
+| --- | --- |
+| Pedra clara | Base da arquitetura |
+| Terra | Cenários, chão e tecidos |
+| Azul acinzentado | Sombra/atmosfera |
+| Âmbar suave | Luz e acentos |
 
-Fontes: [briefing](../../docs/briefing.md) MM-09, [roteiro](../../docs/roteiro.md) Cena 5, D-00, mapa de cenas, dependências, página de Melissa, guia de construção, caderno e contrato/Q01/Q02 do MM-10. Referências visuais do Dudu e frame real de MM-10 não disponíveis; não utilizados como imagens de referência.
+**Luz/atmosfera:** histórica e contemplativa, com variação coerente entre exterior/interior, evitando a mesma paisagem de pôr do sol em tudo. **Elementos:** profetas, povo, caminho, animal de carga discreto e família. **Efeitos:** lentos/discretos, sem glória antecipada. **Continuidade:** unidade de linguagem e época, não mesma locação ou mesma hora para gerações distintas; MM-09 → MM-10 na fala definida. Arquitetura/roupas não comprovam reconstrução histórica exata.
 
-**Feedback:** Atmosfera histórica, pergaminho sem escrita legível, identidade geral do profeta, paleta e anotações conferidos visualmente pelo Codex. Há variações na postura/escala do profeta, nas construções e nas colinas entre quadros; Q04 não repete exatamente Q01. Para produção, fixar uma referência de ambiente/personagem e derivar Q04 de Q01. O sol visível e os realces quentes precisam ter brilho testado com palco e falas. A prancha não comprova repetição sem emenda ou integração com o arquivo real de Eduardo.
+## Fontes e arquivo
 
-**Aprovação:** pendente. Sem alpha, animação, loop testado ou aceite no telão. P-01, P-12 e P-13 continuam abertas. Os materiais de MM-04 e Eduardo foram preservados.
+[Roteiro Cena 5](../../docs/roteiro.md), [briefing MM-09](../../docs/briefing.md), [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/9, [D-25/D-26/D-27](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Melissa](../../equipe/melissa.md), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [guia](../guia-de-construcao.md) e [briefings por quadro](../briefings-dos-quadros.md#mm-09--profetas). Transcrição original ausente (P-14).
 
-## Próximos passos
+- Ferramenta `image_gen.imagegen`, fundo opaco, geração nova **sem referências de imagem**.
+- Original: `/workspace/generated_images/exec-db235b08-230e-4182-a9ba-5f2496e2bb8d.png`, PNG 1672×941, 2716118 bytes, fora do repositório.
+- [Arquivo leve](<STB MM09.jpg>): JPEG **1672×941**, **622485 bytes**, mesma composição na conversão. Próximo de 16:9; não base 4K/matriz LED (P-01).
+- Versões excluídas são recuperáveis no histórico Git, mas não são referência atual. Artes oficiais MM-01/MM-03/MM-05 e materiais de Eduardo preservados.
 
-- Revisar composição e estabelecer referências piloto de personagem e cenário antes das bases individuais.
-- Alinhar e compartilhar com Eduardo o estado de saída e a paleta; avisar o grupo quando a costura for definida.
-- Produzir alpha em loop com movimentos discretos, testar repetição e brilho durante as falas e no telão real.
+## Revisão
+
+As quatro funções têm ambientes/enquadramentos distintos. Q01 traz mais figurantes e arquitetura mais monumental do que o proposto; são escolhas de execução para avaliação. A família Q03 é uma interpretação de espera, não uma cena literal da fonte. Não há animação/loop validado nem arquivo de integração MM-10 aprovado.
+
+**Aprovação artística pendente.** Sem alpha, Drive ou teste no LED. Revisar a nova abordagem antes de produzir bases individuais e costura técnica.

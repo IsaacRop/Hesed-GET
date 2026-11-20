@@ -32,6 +32,8 @@
 
 ## MM-09 · Profetas (loop)
 
+**Novo estudo v03:** [prancha e ficha](../storyboards/MM-09/README.md), recriado do zero por pedido D-27; versões anteriores recusadas/excluídas. Quatro composições distintas de anúncio, espera e crença/dúvida; proposta para revisão, sem alpha.
+
 | | |
 | --- | --- |
 | **Cena** | 5 · Bloco III |
